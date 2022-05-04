@@ -43,7 +43,7 @@
 	<div id="wrap">
 		<header>
 			<h1><a href = "/">Elections NI</a></h1>
-			<p>Open data for the Assembly Elections #AE17</p>
+			<p>Open data for the Assembly Elections #AE22</p>
 		</header>
 		<label for="show-menu" class="show-menu">Menu</label>
 		<input type="checkbox" id="show-menu" role="button">
@@ -65,6 +65,7 @@
 			<div id="map"></div>
 			<div align="center">
 				<form id="year">
+					<input type="radio" name="year" value="2022" onClick="changeyear(2022);findInfo(checkedYear, 'all-candidates.json');candidates.update();constituencyinfo.update();"/> 2022
           <input type="radio" name="year" value="2017" checked onClick="changeyear(2017);findInfo(checkedYear, 'all-candidates.json');candidates.update();constituencyinfo.update();"/> 2017
 					<input type="radio" name="year" value="2016" onClick="changeyear(2016);findInfo(checkedYear, 'all-candidates.json');candidates.update();constituencyinfo.update();"/> 2016
 					<input type="radio" name="year" value="2011" onClick="changeyear(2011);findInfo(checkedYear, 'all-candidates.json');candidates.update();constituencyinfo.update();"/> 2011
