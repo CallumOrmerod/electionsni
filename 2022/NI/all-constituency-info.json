@@ -1,344 +1,344 @@
 {
     "Constituencies": [
         {
-            "constituency_name": "Belfast East",
-            "constituency_number": 2.0,
-            "directory": "Belfast-East",
+            "Constituency_Name": "Belfast East",
+            "Constituency_Number": "2.0",
+            "Directory": "Belfast-East",
             "countInfo": [
                 {
-                    "valid_poll": 40357,
-                    "number_of_seats": 5,
-                    "total_poll": 43840,
-                    "voting_age_pop": 74065,
-                    "quota": 6727.0,
-                    "constituency_name": "Belfast East",
-                    "constituency_number": 2.0,
-                    "total_electorate": 70123,
-                    "spoiled": 471
+                    "Valid_Poll": "40357",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 43840,
+                    "Voting_Age_Pop": 74065,
+                    "Quota": 6727.0,
+                    "Constituency_Name": "Belfast East",
+                    "Constituency_Number": "2.0",
+                    "Total_Electorate": 70123,
+                    "Spoiled": 471
                 }
             ]
         },
         {
-            "constituency_name": "Belfast North",
-            "constituency_number": 10.0,
-            "directory": "Belfast-North",
+            "Constituency_Name": "Belfast North",
+            "Constituency_Number": "10.0",
+            "Directory": "Belfast-North",
             "countInfo": [
                 {
-                    "valid_poll": 41486,
-                    "number_of_seats": 5,
-                    "total_poll": 46796,
-                    "voting_age_pop": 78914,
-                    "quota": 6915.0,
-                    "constituency_name": "Belfast North",
-                    "constituency_number": 10.0,
-                    "total_electorate": 75801,
-                    "spoiled": 633
+                    "Valid_Poll": "41486",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 46796,
+                    "Voting_Age_Pop": 78914,
+                    "Quota": 6915.0,
+                    "Constituency_Name": "Belfast North",
+                    "Constituency_Number": "10.0",
+                    "Total_Electorate": 75801,
+                    "Spoiled": 633
                 }
             ]
         },
         {
-            "constituency_name": "Belfast South",
-            "constituency_number": 13.0,
-            "directory": "Belfast-South",
+            "Constituency_Name": "Belfast South",
+            "Constituency_Number": "13.0",
+            "Directory": "Belfast-South",
             "countInfo": [
                 {
-                    "valid_poll": 43053,
-                    "number_of_seats": 5,
-                    "total_poll": 47306,
-                    "voting_age_pop": 91756,
-                    "quota": 7176.0,
-                    "constituency_name": "Belfast South",
-                    "constituency_number": 13.0,
-                    "total_electorate": 73497,
-                    "spoiled": 412
+                    "Valid_Poll": "43053",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 47306,
+                    "Voting_Age_Pop": 91756,
+                    "Quota": 7176.0,
+                    "Constituency_Name": "Belfast South",
+                    "Constituency_Number": "13.0",
+                    "Total_Electorate": 73497,
+                    "Spoiled": 412
                 }
             ]
         },
         {
-            "constituency_name": "Belfast West",
-            "constituency_number": 17.0,
-            "directory": "Belfast-West",
+            "Constituency_Name": "Belfast West",
+            "Constituency_Number": "17.0",
+            "Directory": "Belfast-West",
             "countInfo": [
                 {
-                    "valid_poll": 40344,
-                    "number_of_seats": 5,
-                    "total_poll": 44440,
-                    "voting_age_pop": 69817,
-                    "quota": 6725.0,
-                    "constituency_name": "Belfast West",
-                    "constituency_number": 17.0,
-                    "total_electorate": 68727,
-                    "spoiled": 586
+                    "Valid_Poll": "40344",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 44440,
+                    "Voting_Age_Pop": 69817,
+                    "Quota": 6725.0,
+                    "Constituency_Name": "Belfast West",
+                    "Constituency_Number": "17.0",
+                    "Total_Electorate": 68727,
+                    "Spoiled": 586
                 }
             ]
         },
         {
-            "constituency_name": "East Antrim",
-            "constituency_number": 1.0,
-            "directory": "East-Antrim",
+            "Constituency_Name": "East Antrim",
+            "Constituency_Number": "1.0",
+            "Directory": "East-Antrim",
             "countInfo": [
                 {
-                    "valid_poll": 37424,
-                    "number_of_seats": 5,
-                    "total_poll": 37836,
-                    "voting_age_pop": 70652,
-                    "quota": 6238.0,
-                    "constituency_name": "East Antrim",
-                    "constituency_number": 1.0,
-                    "total_electorate": 62933,
-                    "spoiled": 412
+                    "Valid_Poll": "37424",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 37836,
+                    "Voting_Age_Pop": 70652,
+                    "Quota": 6238.0,
+                    "Constituency_Name": "East Antrim",
+                    "Constituency_Number": "1.0",
+                    "Total_Electorate": 62933,
+                    "Spoiled": 412
                 }
             ]
         },
         {
-            "constituency_name": "East Londonderry",
-            "constituency_number": 3.0,
-            "directory": "East-Londonderry",
+            "Constituency_Name": "East Londonderry",
+            "Constituency_Number": "3.0",
+            "Directory": "East-Londonderry",
             "countInfo": [
                 {
-                    "valid_poll": 41873,
-                    "number_of_seats": 5,
-                    "total_poll": 42248,
-                    "voting_age_pop": 77437,
-                    "quota": 6979.0,
-                    "constituency_name": "East Londonderry",
-                    "constituency_number": 3.0,
-                    "total_electorate": 67392,
-                    "spoiled": 375
+                    "Valid_Poll": "41873",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 42248,
+                    "Voting_Age_Pop": 77437,
+                    "Quota": 6979.0,
+                    "Constituency_Name": "East Londonderry",
+                    "Constituency_Number": "3.0",
+                    "Total_Electorate": 67392,
+                    "Spoiled": 375
                 }
             ]
         },
         {
-            "constituency_name": "Fermanagh and South Tyrone",
-            "constituency_number": 4.0,
-            "directory": "Fermanagh-and-South-Tyrone",
+            "Constituency_Name": "Fermanagh and South Tyrone",
+            "Constituency_Number": "4.0",
+            "Directory": "Fermanagh-and-South-Tyrone",
             "countInfo": [
                 {
-                    "valid_poll": 52263,
-                    "number_of_seats": 5,
-                    "total_poll": 53075,
-                    "voting_age_pop": 79405,
-                    "quota": 8711.0,
-                    "constituency_name": "Fermanagh and South Tyrone",
-                    "constituency_number": 4.0,
-                    "total_electorate": 73100,
-                    "spoiled": 812
+                    "Valid_Poll": "52263",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 53075,
+                    "Voting_Age_Pop": 79405,
+                    "Quota": 8711.0,
+                    "Constituency_Name": "Fermanagh and South Tyrone",
+                    "Constituency_Number": "4.0",
+                    "Total_Electorate": 73100,
+                    "Spoiled": 812
                 }
             ]
         },
         {
-            "constituency_name": "Foyle",
-            "constituency_number": 5.0,
-            "directory": "Foyle",
+            "Constituency_Name": "Foyle",
+            "Constituency_Number": "5.0",
+            "Directory": "Foyle",
             "countInfo": [
                 {
-                    "valid_poll": 44616,
-                    "number_of_seats": 5,
-                    "total_poll": 45317,
-                    "voting_age_pop": 76503,
-                    "quota": 7437.0,
-                    "constituency_name": "Foyle",
-                    "constituency_number": 5.0,
-                    "total_electorate": 69718,
-                    "spoiled": 701
+                    "Valid_Poll": "44616",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 45317,
+                    "Voting_Age_Pop": 76503,
+                    "Quota": 7437.0,
+                    "Constituency_Name": "Foyle",
+                    "Constituency_Number": "5.0",
+                    "Total_Electorate": 69718,
+                    "Spoiled": 701
                 }
             ]
         },
         {
-            "constituency_name": "Lagan Valley",
-            "constituency_number": 6.0,
-            "directory": "Lagan-Valley",
+            "Constituency_Name": "Lagan Valley",
+            "Constituency_Number": "6.0",
+            "Directory": "Lagan-Valley",
             "countInfo": [
                 {
-                    "valid_poll": 45069,
-                    "number_of_seats": 5,
-                    "total_poll": 45440,
-                    "voting_age_pop": 80833,
-                    "quota": 7512.0,
-                    "constituency_name": "Lagan Valley",
-                    "constituency_number": 6.0,
-                    "total_electorate": 72621,
-                    "spoiled": 371
+                    "Valid_Poll": "45069",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 45440,
+                    "Voting_Age_Pop": 80833,
+                    "Quota": 7512.0,
+                    "Constituency_Name": "Lagan Valley",
+                    "Constituency_Number": "6.0",
+                    "Total_Electorate": 72621,
+                    "Spoiled": 371
                 }
             ]
         },
         {
-            "constituency_name": "Mid Ulster",
-            "constituency_number": 7.0,
-            "directory": "Mid-Ulster",
+            "Constituency_Name": "Mid Ulster",
+            "Constituency_Number": "7.0",
+            "Directory": "Mid-Ulster",
             "countInfo": [
                 {
-                    "valid_poll": 49678,
-                    "number_of_seats": 5,
-                    "total_poll": 50228,
-                    "voting_age_pop": 75342,
-                    "quota": 8280.0,
-                    "constituency_name": "Mid Ulster",
-                    "constituency_number": 7.0,
-                    "total_electorate": 69396,
-                    "spoiled": 550
+                    "Valid_Poll": "49678",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 50228,
+                    "Voting_Age_Pop": 75342,
+                    "Quota": 8280.0,
+                    "Constituency_Name": "Mid Ulster",
+                    "Constituency_Number": "7.0",
+                    "Total_Electorate": 69396,
+                    "Spoiled": 550
                 }
             ]
         },
         {
-            "constituency_name": "NORTHERN IRELAND",
-            "constituency_number": "",
-            "directory": "NORTHERN-IRELAND",
+            "Constituency_Name": "NORTHERN IRELAND",
+            "Constituency_Number": "",
+            "Directory": "NORTHERN-IRELAND",
             "countInfo": [
                 {
-                    "valid_poll": 803315,
-                    "number_of_seats": 90,
-                    "total_poll": 812783,
-                    "voting_age_pop": 1407337,
-                    "quota": "",
-                    "constituency_name": "NORTHERN IRELAND",
-                    "constituency_number": "",
-                    "total_electorate": 1254709,
-                    "spoiled": 9468
+                    "Valid_Poll": "803315",
+                    "Number_Of_Seats": "90",
+                    "Total_Poll": 812783,
+                    "Voting_Age_Pop": 1407337,
+                    "Quota": "",
+                    "Constituency_Name": "NORTHERN IRELAND",
+                    "Constituency_Number": "",
+                    "Total_Electorate": 1254709,
+                    "Spoiled": 9468
                 }
             ]
         },
         {
-            "constituency_name": "Newry and Armagh",
-            "constituency_number": 8.0,
-            "directory": "Newry-and-Armagh",
+            "Constituency_Name": "Newry and Armagh",
+            "Constituency_Number": "8.0",
+            "Directory": "Newry-and-Armagh",
             "countInfo": [
                 {
-                    "valid_poll": 54918,
-                    "number_of_seats": 5,
-                    "total_poll": 55625,
-                    "voting_age_pop": 85884,
-                    "quota": 9154.0,
-                    "constituency_name": "Newry and Armagh",
-                    "constituency_number": 8.0,
-                    "total_electorate": 80140,
-                    "spoiled": 707
+                    "Valid_Poll": "54918",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 55625,
+                    "Voting_Age_Pop": 85884,
+                    "Quota": 9154.0,
+                    "Constituency_Name": "Newry and Armagh",
+                    "Constituency_Number": "8.0",
+                    "Total_Electorate": 80140,
+                    "Spoiled": 707
                 }
             ]
         },
         {
-            "constituency_name": "North Antrim",
-            "constituency_number": 9.0,
-            "directory": "North-Antrim",
+            "Constituency_Name": "North Antrim",
+            "Constituency_Number": "9.0",
+            "Directory": "North-Antrim",
             "countInfo": [
                 {
-                    "valid_poll": 48094,
-                    "number_of_seats": 5,
-                    "total_poll": 48518,
-                    "voting_age_pop": 85122,
-                    "quota": 8016.0,
-                    "constituency_name": "North Antrim",
-                    "constituency_number": 9.0,
-                    "total_electorate": 76739,
-                    "spoiled": 424
+                    "Valid_Poll": "48094",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 48518,
+                    "Voting_Age_Pop": 85122,
+                    "Quota": 8016.0,
+                    "Constituency_Name": "North Antrim",
+                    "Constituency_Number": "9.0",
+                    "Total_Electorate": 76739,
+                    "Spoiled": 424
                 }
             ]
         },
         {
-            "constituency_name": "North Down",
-            "constituency_number": 11.0,
-            "directory": "North-Down",
+            "Constituency_Name": "North Down",
+            "Constituency_Number": "11.0",
+            "Directory": "North-Down",
             "countInfo": [
                 {
-                    "valid_poll": 37739,
-                    "number_of_seats": 5,
-                    "total_poll": 38174,
-                    "voting_age_pop": 71239,
-                    "quota": 6290.0,
-                    "constituency_name": "North Down",
-                    "constituency_number": 11.0,
-                    "total_electorate": 64461,
-                    "spoiled": 435
+                    "Valid_Poll": "37739",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 38174,
+                    "Voting_Age_Pop": 71239,
+                    "Quota": 6290.0,
+                    "Constituency_Name": "North Down",
+                    "Constituency_Number": "11.0",
+                    "Total_Electorate": 64461,
+                    "Spoiled": 435
                 }
             ]
         },
         {
-            "constituency_name": "South Antrim",
-            "constituency_number": 12.0,
-            "directory": "South-Antrim",
+            "Constituency_Name": "South Antrim",
+            "Constituency_Number": "12.0",
+            "Directory": "South-Antrim",
             "countInfo": [
                 {
-                    "valid_poll": 42344,
-                    "number_of_seats": 5,
-                    "total_poll": 42726,
-                    "voting_age_pop": 76066,
-                    "quota": 7058.0,
-                    "constituency_name": "South Antrim",
-                    "constituency_number": 12.0,
-                    "total_electorate": 68475,
-                    "spoiled": 382
+                    "Valid_Poll": "42344",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 42726,
+                    "Voting_Age_Pop": 76066,
+                    "Quota": 7058.0,
+                    "Constituency_Name": "South Antrim",
+                    "Constituency_Number": "12.0",
+                    "Total_Electorate": 68475,
+                    "Spoiled": 382
                 }
             ]
         },
         {
-            "constituency_name": "South Down",
-            "constituency_number": 14.0,
-            "directory": "South-Down",
+            "Constituency_Name": "South Down",
+            "Constituency_Number": "14.0",
+            "Directory": "South-Down",
             "countInfo": [
                 {
-                    "valid_poll": 49399,
-                    "number_of_seats": 5,
-                    "total_poll": 49934,
-                    "voting_age_pop": 82463,
-                    "quota": 8234.0,
-                    "constituency_name": "South Down",
-                    "constituency_number": 14.0,
-                    "total_electorate": 75415,
-                    "spoiled": 535
+                    "Valid_Poll": "49399",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 49934,
+                    "Voting_Age_Pop": 82463,
+                    "Quota": 8234.0,
+                    "Constituency_Name": "South Down",
+                    "Constituency_Number": "14.0",
+                    "Total_Electorate": 75415,
+                    "Spoiled": 535
                 }
             ]
         },
         {
-            "constituency_name": "Strangford",
-            "constituency_number": 15.0,
-            "directory": "Strangford",
+            "Constituency_Name": "Strangford",
+            "Constituency_Number": "15.0",
+            "Directory": "Strangford",
             "countInfo": [
                 {
-                    "valid_poll": 38785,
-                    "number_of_seats": 5,
-                    "total_poll": 39239,
-                    "voting_age_pop": 70598,
-                    "quota": 6465.0,
-                    "constituency_name": "Strangford",
-                    "constituency_number": 15.0,
-                    "total_electorate": 64393,
-                    "spoiled": 454
+                    "Valid_Poll": "38785",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 39239,
+                    "Voting_Age_Pop": 70598,
+                    "Quota": 6465.0,
+                    "Constituency_Name": "Strangford",
+                    "Constituency_Number": "15.0",
+                    "Total_Electorate": 64393,
+                    "Spoiled": 454
                 }
             ]
         },
         {
-            "constituency_name": "Upper Bann",
-            "constituency_number": 16.0,
-            "directory": "Upper-Bann",
+            "Constituency_Name": "Upper Bann",
+            "Constituency_Number": "16.0",
+            "Directory": "Upper-Bann",
             "countInfo": [
                 {
-                    "valid_poll": 51548,
-                    "number_of_seats": 5,
-                    "total_poll": 52174,
-                    "voting_age_pop": 92012,
-                    "quota": 8592.0,
-                    "constituency_name": "Upper Bann",
-                    "constituency_number": 16.0,
-                    "total_electorate": 83431,
-                    "spoiled": 626
+                    "Valid_Poll": "51548",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 52174,
+                    "Voting_Age_Pop": 92012,
+                    "Quota": 8592.0,
+                    "Constituency_Name": "Upper Bann",
+                    "Constituency_Number": "16.0",
+                    "Total_Electorate": 83431,
+                    "Spoiled": 626
                 }
             ]
         },
         {
-            "constituency_name": "West Tyrone",
-            "constituency_number": 18.0,
-            "directory": "West-Tyrone",
+            "Constituency_Name": "West Tyrone",
+            "Constituency_Number": "18.0",
+            "Directory": "West-Tyrone",
             "countInfo": [
                 {
-                    "valid_poll": 44325,
-                    "number_of_seats": 5,
-                    "total_poll": 44907,
-                    "voting_age_pop": 69229,
-                    "quota": 7388.0,
-                    "constituency_name": "West Tyrone",
-                    "constituency_number": 18.0,
-                    "total_electorate": 64258,
-                    "spoiled": 582
+                    "Valid_Poll": "44325",
+                    "Number_Of_Seats": "5",
+                    "Total_Poll": 44907,
+                    "Voting_Age_Pop": 69229,
+                    "Quota": 7388.0,
+                    "Constituency_Name": "West Tyrone",
+                    "Constituency_Number": "18.0",
+                    "Total_Electorate": 64258,
+                    "Spoiled": 582
                 }
             ]
         }
