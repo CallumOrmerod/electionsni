@@ -10,9 +10,24 @@ candidates.fillna('', inplace=True)
 candidates['party_id'] = candidates['party_id'].astype(str)
 candidates['constituency_number'] = candidates['constituency_number'].astype(str)
 candidates['candidate_id'] = candidates['candidate_id'].astype(str)
+candidates = candidates.rename(columns={"constituency_name":"Constituency_Name",
+                                        "constituency_number":"Constituency_Number",
+                                        "surname":"Surname",
+                                        "firstname":"Firstname",
+                                        "gender":"Gender",
+                                        "twitter":"Twitter",
+                                        "party_name":"Party_Name",
+                                        "outgoing_member":"Outgoing_Member",
+                                        "candidate_id":"Candidate_Id",
+                                        "directory":"Directory",
+                                        "party_id":"Party_Id",
+                                        "email":"Email",
+                                        "photo_url":"Photo_URL"})
 
-cons_candidates = (candidates.groupby(['constituency_name', 'constituency_number'])
-                             .apply(lambda x: x[['surname','firstname', 'gender', 'twitter', 'constituency_name', 'constituency_number', 'party_name', 'outgoing_member', 'candidate_id', 'directory', 'party_id', 'email', 'photo_url']].to_dict('records'))
+
+
+cons_candidates = (candidates.groupby(['Constituency_Name', 'Constituency_Number'])
+                             .apply(lambda x: x[['Surname','Firstname', 'Gender', 'Twitter', 'Constituency_Name', 'Constituency_Number', 'Party_Name', 'Outgoing_Member', 'Candidate_Id', 'Directory', 'Party_Id', 'Email', 'Photo_URL']].to_dict('records'))
                              .reset_index()
                              .rename(columns={0:'Candidates'})
     
@@ -27,8 +42,8 @@ with open(folder_path + 'all-candidates.json', 'w') as outfile:
 #print (json.dumps(cons_candidates_full, indent=4))
 
 
-party_candidates = (candidates.groupby(['party_name', 'party_id'])
-                             .apply(lambda x: x[['surname','firstname', 'gender', 'twitter', 'constituency_name', 'constituency_number', 'party_name', 'outgoing_member', 'candidate_id', 'directory', 'party_id', 'email', 'photo_url']].to_dict('records'))
+party_candidates = (candidates.groupby(['Party_Name', 'Party_Id'])
+                             .apply(lambda x: x[['Surname','Firstname', 'Gender', 'Twitter', 'Constituency_Name', 'Constituency_Number', 'Party_Name', 'Outgoing_Member', 'Candidate_Id', 'Directory', 'Party_Id', 'Email', 'Photo_URL']].to_dict('records'))
                              .reset_index()
                              .rename(columns={0:'Candidates'})
                              .to_json(orient='records'))

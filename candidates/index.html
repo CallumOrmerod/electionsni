@@ -81,7 +81,7 @@
 
             <div>
                 <form id="dropdowns" style="padding: 5px 5px 5px 5px">
-                    <select class="select" id="constituencySelect" onchange="clearCandidates('');partySelect.selectedIndex = 0; findInfo(checkedYear, 'all-candidates.json'); candidates.update('constituency_number', constituencySelect.value, constituencySelect.options[constituencySelect.selectedIndex].text)"><option value=null>--Choose Constituency</option></select>
+                    <select class="select" id="constituencySelect" onchange="clearCandidates('');partySelect.selectedIndex = 0; findInfo(checkedYear, 'all-candidates.json'); candidates.update('Constituency_Number', constituencySelect.value, constituencySelect.options[constituencySelect.selectedIndex].text)"><option value=null>--Choose Constituency</option></select>
                     <input class="button" type="button" onclick="clearCandidates('');constituenciesAll();" id="allconstituencies" value="Show All">
 
                     <b>-or-</b>
