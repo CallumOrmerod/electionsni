@@ -6,15 +6,15 @@
             "Directory": "Belfast-East",
             "countInfo": [
                 {
-                    "Valid_Poll": "40357",
+                    "Valid_Poll": "43248",
                     "Number_Of_Seats": "5",
                     "Total_Poll": 43840,
                     "Voting_Age_Pop": 74065,
-                    "Quota": 6727.0,
+                    "Quota": 7209.0,
                     "Constituency_Name": "Belfast East",
                     "Constituency_Number": "2.0",
                     "Total_Electorate": 70123,
-                    "Spoiled": 471
+                    "Spoiled": 592
                 }
             ]
         },
@@ -24,15 +24,15 @@
             "Directory": "Belfast-North",
             "countInfo": [
                 {
-                    "Valid_Poll": "41486",
+                    "Valid_Poll": "46027",
                     "Number_Of_Seats": "5",
                     "Total_Poll": 46796,
                     "Voting_Age_Pop": 78914,
-                    "Quota": 6915.0,
+                    "Quota": 7672.0,
                     "Constituency_Name": "Belfast North",
                     "Constituency_Number": "10.0",
                     "Total_Electorate": 75801,
-                    "Spoiled": 633
+                    "Spoiled": 769
                 }
             ]
         },
@@ -42,15 +42,15 @@
             "Directory": "Belfast-South",
             "countInfo": [
                 {
-                    "Valid_Poll": "43053",
+                    "Valid_Poll": "46938",
                     "Number_Of_Seats": "5",
                     "Total_Poll": 47306,
                     "Voting_Age_Pop": 91756,
-                    "Quota": 7176.0,
+                    "Quota": 7824.0,
                     "Constituency_Name": "Belfast South",
                     "Constituency_Number": "13.0",
                     "Total_Electorate": 73497,
-                    "Spoiled": 412
+                    "Spoiled": 368
                 }
             ]
         },
@@ -60,15 +60,15 @@
             "Directory": "Belfast-West",
             "countInfo": [
                 {
-                    "Valid_Poll": "40344",
+                    "Valid_Poll": "43664",
                     "Number_Of_Seats": "5",
-                    "Total_Poll": 44440,
+                    "Total_Poll": 48727,
                     "Voting_Age_Pop": 69817,
-                    "Quota": 6725.0,
+                    "Quota": 7278.0,
                     "Constituency_Name": "Belfast West",
                     "Constituency_Number": "17.0",
                     "Total_Electorate": 68727,
-                    "Spoiled": 586
+                    "Spoiled": 776
                 }
             ]
         },
@@ -294,15 +294,15 @@
             "Directory": "Strangford",
             "countInfo": [
                 {
-                    "Valid_Poll": "38785",
+                    "Valid_Poll": "40865",
                     "Number_Of_Seats": "5",
-                    "Total_Poll": 39239,
+                    "Total_Poll": 41345,
                     "Voting_Age_Pop": 70598,
-                    "Quota": 6465.0,
+                    "Quota": 6811.0,
                     "Constituency_Name": "Strangford",
                     "Constituency_Number": "15.0",
                     "Total_Electorate": 64393,
-                    "Spoiled": 454
+                    "Spoiled": 480
                 }
             ]
         },

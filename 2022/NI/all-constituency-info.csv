@@ -1,20 +1,20 @@
 constituency_name,constituency_number,total_electorate,total_poll,valid_poll,spoiled,quota,number_of_seats,voting_age_pop,directory
-Belfast East,2,70123,43840,40357,471,6727,5,74065,Belfast-East
-Belfast North,10,75801,46796,41486,633,6915,5,78914,Belfast-North
-Belfast South,13,73497,47306,43053,412,7176,5,91756,Belfast-South
-Belfast West,17,68727,44440,40344,586,6725,5,69817,Belfast-West
+Belfast East,2,70123,43840,43248,592,7209,5,74065,Belfast-East
+Belfast North,10,75801,46796,46027,769,7672,5,78914,Belfast-North
+Belfast South,13,73497,47306,46938,368,7824,5,91756,Belfast-South
+Belfast West,17,68727,48727,43664,776,7278,5,69817,Belfast-West
 East Antrim,1,62933,37836,37424,412,6238,5,70652,East-Antrim
 East Londonderry,3,67392,42248,41873,375,6979,5,77437,East-Londonderry
 Fermanagh and South Tyrone,4,73100,53075,52263,812,8711,5,79405,Fermanagh-and-South-Tyrone
 Foyle,5,69718,45317,44616,701,7437,5,76503,Foyle
 Lagan Valley,6,72621,45440,45069,371,7512,5,80833,Lagan-Valley
-Mid Ulster,7,69396,50228,49678,550,8280,5,75342,Mid-Ulster
+Mid Ulster,7,75168,52274,51689,585,8616,5,75342,Mid-Ulster
 Newry and Armagh,8,80140,55625,54918,707,9154,5,85884,Newry-and-Armagh
 North Antrim,9,76739,48518,48094,424,8016,5,85122,North-Antrim
 North Down,11,64461,38174,37739,435,6290,5,71239,North-Down
 NORTHERN IRELAND,NA,1254709,812783,803315,9468,NA,90,1407337,NORTHERN-IRELAND
 South Antrim,12,68475,42726,42344,382,7058,5,76066,South-Antrim
-South Down,14,75415,49934,49399,535,8234,5,82463,South-Down
-Strangford,15,64393,39239,38785,454,6465,5,70598,Strangford
+South Down,14,84046,55631,54952,679,9159,5,82463,South-Down
+Strangford,15,64393,41345,40865,480,6811,5,70598,Strangford
 Upper Bann,16,83431,52174,51548,626,8592,5,92012,Upper-Bann
 West Tyrone,18,64258,44907,44325,582,7388,5,69229,West-Tyrone

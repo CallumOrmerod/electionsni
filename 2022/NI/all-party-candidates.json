@@ -170,21 +170,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/72309-13942359-b1f8-41fa-ae3d-1b918d082436.png"
         },
         {
-          "Surname": "Honeyford",
-          "Firstname": "David",
-          "Gender": "male",
-          "Twitter": "dhoneyford",
-          "Constituency_Name": "Lagan Valley",
-          "Constituency_Number": "6",
-          "Party_Name": "Alliance Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "50410",
-          "Directory": "lagan-valley",
-          "Party_Id": "19",
-          "Email": "david.honeyford@lisburncastlereagh.gov.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/50410/71fd4e27-9938-4610-a865-81aab3764bc4.png"
-        },
-        {
           "Surname": "Eastwood",
           "Firstname": "Sorcha-Lucy",
           "Gender": "Female",
@@ -198,6 +183,21 @@
           "Party_Id": "19",
           "Email": "sorcha.eastwood@allianceparty.org",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/19688.png"
+        },
+        {
+          "Surname": "Honeyford",
+          "Firstname": "David",
+          "Gender": "male",
+          "Twitter": "dhoneyford",
+          "Constituency_Name": "Lagan Valley",
+          "Constituency_Number": "6",
+          "Party_Name": "Alliance Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "50410",
+          "Directory": "lagan-valley",
+          "Party_Id": "19",
+          "Email": "david.honeyford@lisburncastlereagh.gov.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/50410/71fd4e27-9938-4610-a865-81aab3764bc4.png"
         },
         {
           "Surname": "Hackett",
@@ -245,21 +245,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/19695.png"
         },
         {
-          "Surname": "Muir",
-          "Firstname": "Andrew",
-          "Gender": "male",
-          "Twitter": "AndrewMuirNI",
-          "Constituency_Name": "North Down",
-          "Constituency_Number": "11",
-          "Party_Name": "Alliance Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "4588",
-          "Directory": "north-down",
-          "Party_Id": "19",
-          "Email": "andrew.muir@allianceparty.org",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/4588.png"
-        },
-        {
           "Surname": "Egan",
           "Firstname": "Connie",
           "Gender": "female",
@@ -273,6 +258,21 @@
           "Party_Id": "19",
           "Email": "connie.egan@alliancepartyni.org",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/49889/9ab17d3b-209e-405f-9266-e058f1fb0f41.png"
+        },
+        {
+          "Surname": "Muir",
+          "Firstname": "Andrew",
+          "Gender": "male",
+          "Twitter": "AndrewMuirNI",
+          "Constituency_Name": "North Down",
+          "Constituency_Number": "11",
+          "Party_Name": "Alliance Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "4588",
+          "Directory": "north-down",
+          "Party_Id": "19",
+          "Email": "andrew.muir@allianceparty.org",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/4588.png"
         },
         {
           "Surname": "Blair",
@@ -305,21 +305,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11532.png"
         },
         {
-          "Surname": "Armstrong",
-          "Firstname": "Kellie",
-          "Gender": "female",
-          "Twitter": "Kelmba",
-          "Constituency_Name": "Strangford",
-          "Constituency_Number": "15",
-          "Party_Name": "Alliance Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "4590",
-          "Directory": "strangford",
-          "Party_Id": "19",
-          "Email": "kellie.armstrong@alliancepartyni.org",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/551b182e13eb34c82843cb4b.png"
-        },
-        {
           "Surname": "Mathison",
           "Firstname": "Nick",
           "Gender": "Male",
@@ -333,6 +318,21 @@
           "Party_Id": "19",
           "Email": "Nick.mathison@alliancepartyni.org",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/57267-3d0e5686-5052-47d9-9ecb-e059f8e9cbd7.png"
+        },
+        {
+          "Surname": "Armstrong",
+          "Firstname": "Kellie",
+          "Gender": "female",
+          "Twitter": "Kelmba",
+          "Constituency_Name": "Strangford",
+          "Constituency_Number": "15",
+          "Party_Name": "Alliance Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "4590",
+          "Directory": "strangford",
+          "Party_Id": "19",
+          "Email": "kellie.armstrong@alliancepartyni.org",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/551b182e13eb34c82843cb4b.png"
         },
         {
           "Surname": "Tennyson",
@@ -363,6 +363,213 @@
           "Party_Id": "19",
           "Email": "stephen.donnelly@allianceparty.org",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/553ba318a8c0192f732ca8c9.png"
+        }
+      ]
+    },
+    {
+      "Party_Name": "Aontu",
+      "Party_Number": "1000",
+      "Candidates": [
+        {
+          "Surname": "Niocaill",
+          "Firstname": "Se\u00e1n Mac",
+          "Gender": "",
+          "Twitter": "",
+          "Constituency_Name": "Belfast North",
+          "Constituency_Number": "10",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "95159",
+          "Directory": "belfast-north",
+          "Party_Id": "1000",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/95159/d56a7ecb-0c3d-4875-8c42-63f61b8fad4f.png"
+        },
+        {
+          "Surname": "McCann",
+          "Firstname": "Luke",
+          "Gender": "Male",
+          "Twitter": "LukeAontu",
+          "Constituency_Name": "Belfast South",
+          "Constituency_Number": "13",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "86451",
+          "Directory": "belfast-south",
+          "Party_Id": "1000",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/86451/b183c1d6-dec4-439e-97fd-4678421b2b7a.png"
+        },
+        {
+          "Surname": "Herdman",
+          "Firstname": "Gerard",
+          "Gender": "Male",
+          "Twitter": "GerardHerdman",
+          "Constituency_Name": "Belfast West",
+          "Constituency_Number": "17",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84445",
+          "Directory": "belfast-west",
+          "Party_Id": "1000",
+          "Email": "gerard.herdman@aontu.ie",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/84445-55a58191-56cd-45ea-ad32-bb6712b06da4.png"
+        },
+        {
+          "Surname": "Brolly",
+          "Firstname": "Gemma",
+          "Gender": "Female",
+          "Twitter": "",
+          "Constituency_Name": "East Londonderry",
+          "Constituency_Number": "3",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84446",
+          "Directory": "east-londonderry",
+          "Party_Id": "1000",
+          "Email": "gemma.brolly@aontu.ie",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/84446-223a891b-8e2d-4605-bc41-407c302187c8.png"
+        },
+        {
+          "Surname": "Mullen",
+          "Firstname": "Denise",
+          "Gender": "",
+          "Twitter": "DeniseMullen17",
+          "Constituency_Name": "Fermanagh and South Tyrone",
+          "Constituency_Number": "4",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "69426",
+          "Directory": "fermanagh-and-south-tyrone",
+          "Party_Id": "1000",
+          "Email": "Denise.mullen.125@gmail.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69426/337279ed-1147-442a-b02d-c599be65a864.png"
+        },
+        {
+          "Surname": "Doyle",
+          "Firstname": "Emmet",
+          "Gender": "male",
+          "Twitter": "EmmetDoyleDerry",
+          "Constituency_Name": "Foyle",
+          "Constituency_Number": "5",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "49867",
+          "Directory": "foyle",
+          "Party_Id": "1000",
+          "Email": "emmet.doyle@derrystrabane.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/49867-2d01e3a7-cee5-47d7-b56e-f504b5d6bd01.png"
+        },
+        {
+          "Surname": "Halliday",
+          "Firstname": "Alixandra",
+          "Gender": "Female",
+          "Twitter": "",
+          "Constituency_Name": "Mid Ulster",
+          "Constituency_Number": "7",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "85042",
+          "Directory": "mid-ulster",
+          "Party_Id": "1000",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/85042/a78a3297-0beb-45f6-9fba-9500c929deec.png"
+        },
+        {
+          "Surname": "Connolly",
+          "Firstname": "Daniel",
+          "Gender": "Male",
+          "Twitter": "Daniel_Connol1y",
+          "Constituency_Name": "Newry and Armagh",
+          "Constituency_Number": "8",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84623",
+          "Directory": "newry-and-armagh",
+          "Party_Id": "1000",
+          "Email": "daniel.connolly@aontu.ie",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84623/65682c40-9e0c-435c-a9ba-2a0c2d6baf51.png"
+        },
+        {
+          "Surname": "Bennett",
+          "Firstname": "R\u00f3is\u00edn",
+          "Gender": "Female",
+          "Twitter": "",
+          "Constituency_Name": "South Antrim",
+          "Constituency_Number": "12",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84611",
+          "Directory": "south-antrim",
+          "Party_Id": "1000",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84611/55b3d83d-6d46-4569-87bb-15938983a103.png"
+        },
+        {
+          "Surname": "McGlone",
+          "Firstname": "Rosemary",
+          "Gender": "Female",
+          "Twitter": "rosemarymcglone",
+          "Constituency_Name": "South Down",
+          "Constituency_Number": "14",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84612",
+          "Directory": "south-down",
+          "Party_Id": "1000",
+          "Email": "rosemary.mcglone@aontu.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84612/b4d58528-a680-431e-ae1a-e7a38894e6c7.png"
+        },
+        {
+          "Surname": "Gribbin",
+          "Firstname": "Aidan",
+          "Gender": "Male",
+          "Twitter": "",
+          "Constituency_Name": "Upper Bann",
+          "Constituency_Number": "16",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84887",
+          "Directory": "upper-bann",
+          "Party_Id": "1000",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84887/40c284d5-4839-4683-880d-988744a3504b.png"
+        },
+        {
+          "Surname": "Hope",
+          "Firstname": "James",
+          "Gender": "Male",
+          "Twitter": "",
+          "Constituency_Name": "West Tyrone",
+          "Constituency_Number": "18",
+          "Party_Name": "Aontu",
+          "Outgoing_Member": "",
+          "Candidate_Id": "72373",
+          "Directory": "west-tyrone",
+          "Party_Id": "1000",
+          "Email": "jameshope.aontu@gmail.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/72373/6a4a2721-d888-4aa9-bc64-79c44c22d163.png"
+        }
+      ]
+    },
+    {
+      "Party_Name": "Conservative and Unionist Party",
+      "Party_Number": "991",
+      "Candidates": [
+        {
+          "Surname": "Robinson",
+          "Firstname": "Matthew",
+          "Gender": "Male",
+          "Twitter": "matrobinson",
+          "Constituency_Name": "North Down",
+          "Constituency_Number": "11",
+          "Party_Name": "Conservative and Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "19723",
+          "Directory": "north-down",
+          "Party_Id": "991",
+          "Email": "matthew@matthewrobinson.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/19723-aee0026f-c03a-4222-80d5-b7bc825437e6.png"
         }
       ]
     },
@@ -482,21 +689,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/7174.png"
         },
         {
-          "Surname": "Hilditch",
-          "Firstname": "David",
-          "Gender": "male",
-          "Twitter": "davyh_crfc",
-          "Constituency_Name": "East Antrim",
-          "Constituency_Number": "1",
-          "Party_Name": "Democratic Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "11447",
-          "Directory": "east-antrim",
-          "Party_Id": "20",
-          "Email": "",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11447-38b776ca-3892-40d9-b3bf-ce717576148c.png"
-        },
-        {
           "Surname": "Lyons",
           "Firstname": "Gordon",
           "Gender": "male",
@@ -512,19 +704,19 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11448.png"
         },
         {
-          "Surname": "Robinson",
-          "Firstname": "Alan",
-          "Gender": "Male",
-          "Twitter": "",
-          "Constituency_Name": "East Londonderry",
-          "Constituency_Number": "3",
+          "Surname": "Hilditch",
+          "Firstname": "David",
+          "Gender": "male",
+          "Twitter": "davyh_crfc",
+          "Constituency_Name": "East Antrim",
+          "Constituency_Number": "1",
           "Party_Name": "Democratic Unionist Party",
           "Outgoing_Member": "",
-          "Candidate_Id": "69396",
-          "Directory": "east-londonderry",
+          "Candidate_Id": "11447",
+          "Directory": "east-antrim",
           "Party_Id": "20",
-          "Email": "Alan.Robinson@causewaycoastandglens.gov.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69396/c202db77-bc1b-43a3-99aa-df0fad568b99.png"
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11447-38b776ca-3892-40d9-b3bf-ce717576148c.png"
         },
         {
           "Surname": "Bradley",
@@ -542,19 +734,19 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/12080.png"
         },
         {
-          "Surname": "Erskine",
-          "Firstname": "Deborah",
-          "Gender": "Female",
-          "Twitter": "deborah_cheryl",
-          "Constituency_Name": "Fermanagh and South Tyrone",
-          "Constituency_Number": "4",
+          "Surname": "Robinson",
+          "Firstname": "Alan",
+          "Gender": "Male",
+          "Twitter": "",
+          "Constituency_Name": "East Londonderry",
+          "Constituency_Number": "3",
           "Party_Name": "Democratic Unionist Party",
           "Outgoing_Member": "",
-          "Candidate_Id": "50141",
-          "Directory": "fermanagh-and-south-tyrone",
+          "Candidate_Id": "69396",
+          "Directory": "east-londonderry",
           "Party_Id": "20",
-          "Email": "deborah.erskine@mla.niassembly.gov.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/50141-d78fd4a1-ef6a-41a7-8f2b-24ba540cd975.png"
+          "Email": "Alan.Robinson@causewaycoastandglens.gov.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69396/c202db77-bc1b-43a3-99aa-df0fad568b99.png"
         },
         {
           "Surname": "Bell",
@@ -572,6 +764,21 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84447/093b8631-4baf-43df-8f1c-2a5c71199f64.png"
         },
         {
+          "Surname": "Erskine",
+          "Firstname": "Deborah",
+          "Gender": "Female",
+          "Twitter": "deborah_cheryl",
+          "Constituency_Name": "Fermanagh and South Tyrone",
+          "Constituency_Number": "4",
+          "Party_Name": "Democratic Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "50141",
+          "Directory": "fermanagh-and-south-tyrone",
+          "Party_Id": "20",
+          "Email": "deborah.erskine@mla.niassembly.gov.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/50141-d78fd4a1-ef6a-41a7-8f2b-24ba540cd975.png"
+        },
+        {
           "Surname": "Middleton",
           "Firstname": "Gary",
           "Gender": "male",
@@ -587,21 +794,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/72315-5b582878-76da-4bf3-ba13-b93a3536defd.png"
         },
         {
-          "Surname": "Donaldson",
-          "Firstname": "Jeffrey",
-          "Gender": "male",
-          "Twitter": "J_Donaldson_MP",
-          "Constituency_Name": "Lagan Valley",
-          "Constituency_Number": "6",
-          "Party_Name": "Democratic Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "1858",
-          "Directory": "lagan-valley",
-          "Party_Id": "20",
-          "Email": "jeffreydonaldsonmp@laganvalley.net",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/553c9c8242c427035c8db3ed.png"
-        },
-        {
           "Surname": "Givan",
           "Firstname": "Paul",
           "Gender": "male",
@@ -615,6 +807,21 @@
           "Party_Id": "20",
           "Email": "paul.givan@mla.niassembly.gov.uk",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11540.png"
+        },
+        {
+          "Surname": "Donaldson",
+          "Firstname": "Jeffrey",
+          "Gender": "male",
+          "Twitter": "J_Donaldson_MP",
+          "Constituency_Name": "Lagan Valley",
+          "Constituency_Number": "6",
+          "Party_Name": "Democratic Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "1858",
+          "Directory": "lagan-valley",
+          "Party_Id": "20",
+          "Email": "jeffreydonaldsonmp@laganvalley.net",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/553c9c8242c427035c8db3ed.png"
         },
         {
           "Surname": "Buchanan",
@@ -677,21 +884,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/12751.png"
         },
         {
-          "Surname": "Dunne",
-          "Firstname": "Stephen",
-          "Gender": "Male",
-          "Twitter": "StephenDunneDUP",
-          "Constituency_Name": "North Down",
-          "Constituency_Number": "11",
-          "Party_Name": "Democratic Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "69368",
-          "Directory": "north-down",
-          "Party_Id": "20",
-          "Email": "info@sdunne.org",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69368/87315963-5818-436b-9743-9fa2a2752f38.png"
-        },
-        {
           "Surname": "Gilmour",
           "Firstname": "Jennifer",
           "Gender": "Female",
@@ -707,19 +899,19 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/69189.png"
         },
         {
-          "Surname": "Cameron",
-          "Firstname": "Pam",
-          "Gender": "female",
-          "Twitter": "PamCameronDUP",
-          "Constituency_Name": "South Antrim",
-          "Constituency_Number": "12",
+          "Surname": "Dunne",
+          "Firstname": "Stephen",
+          "Gender": "Male",
+          "Twitter": "StephenDunneDUP",
+          "Constituency_Name": "North Down",
+          "Constituency_Number": "11",
           "Party_Name": "Democratic Unionist Party",
           "Outgoing_Member": "",
-          "Candidate_Id": "13366",
-          "Directory": "south-antrim",
+          "Candidate_Id": "69368",
+          "Directory": "north-down",
           "Party_Id": "20",
-          "Email": "pamcamerondup@gmail.com",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/13366/f729a209-b7f1-42ae-a8a8-c46b2cf3f7f0.png"
+          "Email": "info@sdunne.org",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69368/87315963-5818-436b-9743-9fa2a2752f38.png"
         },
         {
           "Surname": "Clarke",
@@ -737,6 +929,21 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/13367.png"
         },
         {
+          "Surname": "Cameron",
+          "Firstname": "Pam",
+          "Gender": "female",
+          "Twitter": "PamCameronDUP",
+          "Constituency_Name": "South Antrim",
+          "Constituency_Number": "12",
+          "Party_Name": "Democratic Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "13366",
+          "Directory": "south-antrim",
+          "Party_Id": "20",
+          "Email": "pamcamerondup@gmail.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/13366/f729a209-b7f1-42ae-a8a8-c46b2cf3f7f0.png"
+        },
+        {
           "Surname": "Forsythe",
           "Firstname": "Diane",
           "Gender": "female",
@@ -750,6 +957,21 @@
           "Party_Id": "20",
           "Email": "",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/34534/804860c2-b2f5-4bd3-b208-5362a6dff948.png"
+        },
+        {
+          "Surname": "Weir",
+          "Firstname": "Peter",
+          "Gender": "Male",
+          "Twitter": "DUPpeterweir",
+          "Constituency_Name": "Strangford",
+          "Constituency_Number": "15",
+          "Party_Name": "Democratic Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "11547",
+          "Directory": "strangford",
+          "Party_Id": "20",
+          "Email": "peterweirmla@gmail.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/11547/6bcc8b56-ced0-4a37-be98-dd783076fa19.png"
         },
         {
           "Surname": "Harvey",
@@ -782,19 +1004,19 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/12092.png"
         },
         {
-          "Surname": "Weir",
-          "Firstname": "Peter",
-          "Gender": "Male",
-          "Twitter": "DUPpeterweir",
-          "Constituency_Name": "Strangford",
-          "Constituency_Number": "15",
+          "Surname": "Dodds",
+          "Firstname": "Diane",
+          "Gender": "Female",
+          "Twitter": "DianeDoddsMLA",
+          "Constituency_Name": "Upper Bann",
+          "Constituency_Number": "16",
           "Party_Name": "Democratic Unionist Party",
           "Outgoing_Member": "",
-          "Candidate_Id": "11547",
-          "Directory": "strangford",
+          "Candidate_Id": "69799",
+          "Directory": "upper-bann",
           "Party_Id": "20",
-          "Email": "peterweirmla@gmail.com",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/11547/6bcc8b56-ced0-4a37-be98-dd783076fa19.png"
+          "Email": "diane@dianedodds.co.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/69799.png"
         },
         {
           "Surname": "Buckley",
@@ -810,21 +1032,6 @@
           "Party_Id": "20",
           "Email": "Jonathan.buckley@mla.niassembly.gov.uk",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/19683.png"
-        },
-        {
-          "Surname": "Dodds",
-          "Firstname": "Diane",
-          "Gender": "Female",
-          "Twitter": "DianeDoddsMLA",
-          "Constituency_Name": "Upper Bann",
-          "Constituency_Number": "16",
-          "Party_Name": "Democratic Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "69799",
-          "Directory": "upper-bann",
-          "Party_Id": "20",
-          "Email": "diane@dianedodds.co.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/69799.png"
         },
         {
           "Surname": "Buchanan",
@@ -1120,6 +1327,27 @@
       ]
     },
     {
+      "Party_Name": "Heritage Party",
+      "Party_Number": "1002",
+      "Candidates": [
+        {
+          "Surname": "Beattie",
+          "Firstname": "Glenn",
+          "Gender": "",
+          "Twitter": "GlennBeattie8",
+          "Constituency_Name": "Upper Bann",
+          "Constituency_Number": "16",
+          "Party_Name": "Heritage Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "95166",
+          "Directory": "upper-bann",
+          "Party_Id": "1002",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/95166/738e4a92-ebc1-45af-8036-91a2697f4925.png"
+        }
+      ]
+    },
+    {
       "Party_Name": "Independent",
       "Party_Number": "21",
       "Candidates": [
@@ -1214,21 +1442,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/12087.png"
         },
         {
-          "Surname": "Murphy",
-          "Firstname": "Niall",
-          "Gender": "Male",
-          "Twitter": "niallmurphy007",
-          "Constituency_Name": "East Londonderry",
-          "Constituency_Number": "3",
-          "Party_Name": "Independent",
-          "Outgoing_Member": "",
-          "Candidate_Id": "84738",
-          "Directory": "east-londonderry",
-          "Party_Id": "21",
-          "Email": "info@voteniall.com",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84738/aa7e7ddd-31db-41e3-aa36-5e3825c6f698.png"
-        },
-        {
           "Surname": "Stewart",
           "Firstname": "Billy",
           "Gender": "",
@@ -1242,6 +1455,21 @@
           "Party_Id": "21",
           "Email": "",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/95176/d363defb-9293-438e-b2fa-17466e3ae2fa.png"
+        },
+        {
+          "Surname": "Murphy",
+          "Firstname": "Niall",
+          "Gender": "Male",
+          "Twitter": "niallmurphy007",
+          "Constituency_Name": "East Londonderry",
+          "Constituency_Number": "3",
+          "Party_Name": "Independent",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84738",
+          "Directory": "east-londonderry",
+          "Party_Id": "21",
+          "Email": "info@voteniall.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84738/aa7e7ddd-31db-41e3-aa36-5e3825c6f698.png"
         },
         {
           "Surname": "Quigley",
@@ -1364,21 +1592,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/95168/0efa9614-953e-4c08-a787-d19dac8ea15f.png"
         },
         {
-          "Surname": "Carter",
-          "Firstname": "Chris",
-          "Gender": "Male",
-          "Twitter": "",
-          "Constituency_Name": "North Down",
-          "Constituency_Number": "11",
-          "Party_Name": "Independent",
-          "Outgoing_Member": "",
-          "Candidate_Id": "19748",
-          "Directory": "north-down",
-          "Party_Id": "21",
-          "Email": "",
-          "Photo_URL": ""
-        },
-        {
           "Surname": "Easton",
           "Firstname": "Alex",
           "Gender": "Male",
@@ -1407,6 +1620,21 @@
           "Party_Id": "21",
           "Email": "ray.mckimm@ardsandnorthdown.gov.uk",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/68690/0dc5c37a-c8c7-457c-88b6-a379a53a44b9.png"
+        },
+        {
+          "Surname": "Carter",
+          "Firstname": "Chris",
+          "Gender": "Male",
+          "Twitter": "",
+          "Constituency_Name": "North Down",
+          "Constituency_Number": "11",
+          "Party_Name": "Independent",
+          "Outgoing_Member": "",
+          "Candidate_Id": "19748",
+          "Directory": "north-down",
+          "Party_Id": "21",
+          "Email": "",
+          "Photo_URL": ""
         },
         {
           "Surname": "Moran",
@@ -1454,21 +1682,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69268/2338e16f-0dd1-42da-b39f-1e6ca4f67037.png"
         },
         {
-          "Surname": "Gallagher",
-          "Firstname": "Paul 'Gags'",
-          "Gender": "Male",
-          "Twitter": "",
-          "Constituency_Name": "West Tyrone",
-          "Constituency_Number": "18",
-          "Party_Name": "Independent",
-          "Outgoing_Member": "",
-          "Candidate_Id": "68896",
-          "Directory": "west-tyrone",
-          "Party_Id": "21",
-          "Email": "paulm.gallagher@derrystrabane.com",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/68896-10dd35d1-5373-4b41-93f1-01158a113b45.png"
-        },
-        {
           "Surname": "Brown",
           "Firstname": "Barry",
           "Gender": "Male",
@@ -1482,6 +1695,57 @@
           "Party_Id": "21",
           "Email": "bonesbrown@hotmail.com",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/551ab719e2ac8b7333e6a282.png"
+        },
+        {
+          "Surname": "Gallagher",
+          "Firstname": "Paul 'Gags'",
+          "Gender": "Male",
+          "Twitter": "",
+          "Constituency_Name": "West Tyrone",
+          "Constituency_Number": "18",
+          "Party_Name": "Independent",
+          "Outgoing_Member": "",
+          "Candidate_Id": "68896",
+          "Directory": "west-tyrone",
+          "Party_Id": "21",
+          "Email": "paulm.gallagher@derrystrabane.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/68896-10dd35d1-5373-4b41-93f1-01158a113b45.png"
+        }
+      ]
+    },
+    {
+      "Party_Name": "Irish Republican Socialist Party",
+      "Party_Number": "1003",
+      "Candidates": [
+        {
+          "Surname": "Murphy",
+          "Firstname": "Dan",
+          "Gender": "",
+          "Twitter": "",
+          "Constituency_Name": "Belfast West",
+          "Constituency_Number": "17",
+          "Party_Name": "Irish Republican Socialist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84590",
+          "Directory": "belfast-west",
+          "Party_Id": "1003",
+          "Email": "danmurphy@irsp.ie",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84590/23ac93ec-33e1-43d6-b39e-0b8ff3f6dfb4.png"
+        },
+        {
+          "Surname": "McLaughlin",
+          "Firstname": "Colly",
+          "Gender": "Male",
+          "Twitter": "",
+          "Constituency_Name": "Foyle",
+          "Constituency_Number": "5",
+          "Party_Name": "Irish Republican Socialist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84772",
+          "Directory": "foyle",
+          "Party_Id": "1003",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84772/fc29630b-0c5c-44ed-81e5-62cb790904d1.png"
         }
       ]
     },
@@ -1907,21 +2171,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84449/45bf57b3-be14-4b7e-b19f-6cd0dd112ffe.png"
         },
         {
-          "Surname": "Dolan",
-          "Firstname": "Jemma",
-          "Gender": "female",
-          "Twitter": "jemma_dolan",
-          "Constituency_Name": "Fermanagh and South Tyrone",
-          "Constituency_Number": "4",
-          "Party_Name": "Sinn Fein",
-          "Outgoing_Member": "",
-          "Candidate_Id": "19672",
-          "Directory": "fermanagh-and-south-tyrone",
-          "Party_Id": "24",
-          "Email": "jemma.dolan@sinnfein.ie",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/19672.png"
-        },
-        {
           "Surname": "Gildernew",
           "Firstname": "Colm",
           "Gender": "Male",
@@ -1935,6 +2184,21 @@
           "Party_Id": "24",
           "Email": "",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84448/2d890884-dd98-4fe5-8891-0ac4a4781609.png"
+        },
+        {
+          "Surname": "Dolan",
+          "Firstname": "Jemma",
+          "Gender": "female",
+          "Twitter": "jemma_dolan",
+          "Constituency_Name": "Fermanagh and South Tyrone",
+          "Constituency_Number": "4",
+          "Party_Name": "Sinn Fein",
+          "Outgoing_Member": "",
+          "Candidate_Id": "19672",
+          "Directory": "fermanagh-and-south-tyrone",
+          "Party_Id": "24",
+          "Email": "jemma.dolan@sinnfein.ie",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/19672.png"
         },
         {
           "Surname": "Ferguson",
@@ -1982,19 +2246,19 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/49796-91e66b8d-55a2-4197-b780-f89cda12e668.png"
         },
         {
-          "Surname": "Sheerin",
-          "Firstname": "Emma",
-          "Gender": "Female",
-          "Twitter": "SheerinOfficial",
+          "Surname": "O'Neill",
+          "Firstname": "Michelle",
+          "Gender": "female",
+          "Twitter": "moneillsf",
           "Constituency_Name": "Mid Ulster",
           "Constituency_Number": "7",
           "Party_Name": "Sinn Fein",
           "Outgoing_Member": "",
-          "Candidate_Id": "84504",
+          "Candidate_Id": "11276",
           "Directory": "mid-ulster",
           "Party_Id": "24",
-          "Email": "gulladuffsinnfein@gmail.com",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84504/0a650ca6-c0d9-4c93-88e2-efb0af66c08b.png"
+          "Email": "michelle@sinnfein.ie",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11276-f9558bae-e817-4cf4-bf86-862345909a5d.png"
         },
         {
           "Surname": "Dillon",
@@ -2012,19 +2276,19 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11274.png"
         },
         {
-          "Surname": "O'Neill",
-          "Firstname": "Michelle",
-          "Gender": "female",
-          "Twitter": "moneillsf",
+          "Surname": "Sheerin",
+          "Firstname": "Emma",
+          "Gender": "Female",
+          "Twitter": "SheerinOfficial",
           "Constituency_Name": "Mid Ulster",
           "Constituency_Number": "7",
           "Party_Name": "Sinn Fein",
           "Outgoing_Member": "",
-          "Candidate_Id": "11276",
+          "Candidate_Id": "84504",
           "Directory": "mid-ulster",
           "Party_Id": "24",
-          "Email": "michelle@sinnfein.ie",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11276-f9558bae-e817-4cf4-bf86-862345909a5d.png"
+          "Email": "gulladuffsinnfein@gmail.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84504/0a650ca6-c0d9-4c93-88e2-efb0af66c08b.png"
         },
         {
           "Surname": "Kimmins",
@@ -2117,21 +2381,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/553bae7eec0766d3759c0454.png"
         },
         {
-          "Surname": "Mason",
-          "Firstname": "Cathy",
-          "Gender": "female",
-          "Twitter": "CathyMasonSF",
-          "Constituency_Name": "South Down",
-          "Constituency_Number": "14",
-          "Party_Name": "Sinn Fein",
-          "Outgoing_Member": "",
-          "Candidate_Id": "49592",
-          "Directory": "south-down",
-          "Party_Id": "24",
-          "Email": "cathy.mason@nmandd.org",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/49592.png"
-        },
-        {
           "Surname": "Ennis",
           "Firstname": "Sin\u00e9ad",
           "Gender": "Female",
@@ -2145,6 +2394,21 @@
           "Party_Id": "24",
           "Email": "sinead1974@hotmail.com",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/19671.png"
+        },
+        {
+          "Surname": "Mason",
+          "Firstname": "Cathy",
+          "Gender": "female",
+          "Twitter": "CathyMasonSF",
+          "Constituency_Name": "South Down",
+          "Constituency_Number": "14",
+          "Party_Name": "Sinn Fein",
+          "Outgoing_Member": "",
+          "Candidate_Id": "49592",
+          "Directory": "south-down",
+          "Party_Id": "24",
+          "Email": "cathy.mason@nmandd.org",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/49592.png"
         },
         {
           "Surname": "McGivern",
@@ -2192,6 +2456,21 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/49877.png"
         },
         {
+          "Surname": "McAleer",
+          "Firstname": "Declan",
+          "Gender": "male",
+          "Twitter": "mc_mla",
+          "Constituency_Name": "West Tyrone",
+          "Constituency_Number": "18",
+          "Party_Name": "Sinn Fein",
+          "Outgoing_Member": "",
+          "Candidate_Id": "11343",
+          "Directory": "west-tyrone",
+          "Party_Id": "24",
+          "Email": "declanmcaleer@ymail.com",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11343.png"
+        },
+        {
           "Surname": "Brogan",
           "Firstname": "Nicola",
           "Gender": "Female",
@@ -2220,21 +2499,6 @@
           "Party_Id": "24",
           "Email": "maoliosa.mchugh@sinnfein.ie",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84464/cb1e4a9d-458a-4e22-a0a7-e4a3b2f11238.png"
-        },
-        {
-          "Surname": "McAleer",
-          "Firstname": "Declan",
-          "Gender": "male",
-          "Twitter": "mc_mla",
-          "Constituency_Name": "West Tyrone",
-          "Constituency_Number": "18",
-          "Party_Name": "Sinn Fein",
-          "Outgoing_Member": "",
-          "Candidate_Id": "11343",
-          "Directory": "west-tyrone",
-          "Party_Id": "24",
-          "Email": "declanmcaleer@ymail.com",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/11343.png"
         }
       ]
     },
@@ -2273,21 +2537,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/11385/f72a77e6-1983-4f90-b59f-b0443652f9ac.png"
         },
         {
-          "Surname": "O'Toole",
-          "Firstname": "Matthew",
-          "Gender": "male",
-          "Twitter": "MatthewOToole2",
-          "Constituency_Name": "Belfast South",
-          "Constituency_Number": "13",
-          "Party_Name": "Social Democratic and Labour Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "84278",
-          "Directory": "belfast-south",
-          "Party_Id": "23",
-          "Email": "matthew.otoole@mla.niassembly.gov.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/84278-9b3e8e4a-6b2c-4bd3-af32-87e912c70e93.png"
-        },
-        {
           "Surname": "Trainor",
           "Firstname": "Elsie",
           "Gender": "female",
@@ -2301,6 +2550,21 @@
           "Party_Id": "23",
           "Email": "elsietrainor@yahoo.com",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/84279-a68b97c5-c28a-41f7-adef-8a222b864aee.png"
+        },
+        {
+          "Surname": "O'Toole",
+          "Firstname": "Matthew",
+          "Gender": "male",
+          "Twitter": "MatthewOToole2",
+          "Constituency_Name": "Belfast South",
+          "Constituency_Number": "13",
+          "Party_Name": "Social Democratic and Labour Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84278",
+          "Directory": "belfast-south",
+          "Party_Id": "23",
+          "Email": "matthew.otoole@mla.niassembly.gov.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/84278-9b3e8e4a-6b2c-4bd3-af32-87e912c70e93.png"
         },
         {
           "Surname": "Doherty",
@@ -2363,21 +2627,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/50100/fe63fbc4-24e5-471e-b24c-79fcdb71ab22.png"
         },
         {
-          "Surname": "Durkan",
-          "Firstname": "Mark H.",
-          "Gender": "male",
-          "Twitter": "MarkHDurkan",
-          "Constituency_Name": "Foyle",
-          "Constituency_Number": "5",
-          "Party_Name": "Social Democratic and Labour Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "19640",
-          "Directory": "foyle",
-          "Party_Id": "23",
-          "Email": "mhdurkan@sdlp.ie",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/19640/57d01b7a-e04e-43a8-a80f-0ba9eb0bbb2f.png"
-        },
-        {
           "Surname": "McLaughlin",
           "Firstname": "Sin\u00e9ad",
           "Gender": "female",
@@ -2406,6 +2655,21 @@
           "Party_Id": "23",
           "Email": "brian.tierney@derrystrabane.com",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/49734/4abd1627-b2b9-4753-82fe-a1cb636a2441.png"
+        },
+        {
+          "Surname": "Durkan",
+          "Firstname": "Mark H.",
+          "Gender": "male",
+          "Twitter": "MarkHDurkan",
+          "Constituency_Name": "Foyle",
+          "Constituency_Number": "5",
+          "Party_Name": "Social Democratic and Labour Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "19640",
+          "Directory": "foyle",
+          "Party_Id": "23",
+          "Email": "mhdurkan@sdlp.ie",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/19640/57d01b7a-e04e-43a8-a80f-0ba9eb0bbb2f.png"
         },
         {
           "Surname": "Catney",
@@ -2571,6 +2835,63 @@
           "Party_Id": "23",
           "Email": "daniel.mccrossan@mla.niassembly.gov.uk",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/5185_pV4vr24.png"
+        }
+      ]
+    },
+    {
+      "Party_Name": "Socialist Party (Northern Ireland)",
+      "Party_Number": "1004",
+      "Candidates": [
+        {
+          "Surname": "Moore",
+          "Firstname": "Neil",
+          "Gender": "Male",
+          "Twitter": "",
+          "Constituency_Name": "Belfast South",
+          "Constituency_Number": "13",
+          "Party_Name": "Socialist Party (Northern Ireland)",
+          "Outgoing_Member": "",
+          "Candidate_Id": "85046",
+          "Directory": "belfast-south",
+          "Party_Id": "1004",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/85046/5136d308-04db-4307-b970-ab0b070cfca1.png"
+        },
+        {
+          "Surname": "Ferguson",
+          "Firstname": "Amy",
+          "Gender": "Female",
+          "Twitter": "",
+          "Constituency_Name": "West Tyrone",
+          "Constituency_Number": "18",
+          "Party_Name": "Socialist Party (Northern Ireland)",
+          "Outgoing_Member": "",
+          "Candidate_Id": "69331",
+          "Directory": "west-tyrone",
+          "Party_Id": "1004",
+          "Email": "info@labouralternative.org",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69331/65a34b43-3cbb-41ef-a74d-f96ed6489e1b.png"
+        }
+      ]
+    },
+    {
+      "Party_Name": "The Resume Party (NI)",
+      "Party_Number": "1005",
+      "Candidates": [
+        {
+          "Surname": "Rafferty",
+          "Firstname": "Conor",
+          "Gender": "Male",
+          "Twitter": "",
+          "Constituency_Name": "Mid Ulster",
+          "Constituency_Number": "7",
+          "Party_Name": "The Resume Party (NI)",
+          "Outgoing_Member": "",
+          "Candidate_Id": "72336",
+          "Directory": "mid-ulster",
+          "Party_Id": "1005",
+          "Email": "",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/72336-87de66c6-3dd1-48c1-973a-1f9826e8b11c.png"
         }
       ]
     },
@@ -2870,21 +3191,6 @@
       "Party_Number": "26",
       "Candidates": [
         {
-          "Surname": "Kerr",
-          "Firstname": "Lauren",
-          "Gender": "Female",
-          "Twitter": "_laurenakerr",
-          "Constituency_Name": "Belfast East",
-          "Constituency_Number": "2",
-          "Party_Name": "Ulster Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "84774",
-          "Directory": "belfast-east",
-          "Party_Id": "26",
-          "Email": "Lauren.kerr@uup.org",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84774/5ff376f9-25b2-40b1-87c3-8bdb1365532c.png"
-        },
-        {
           "Surname": "Allen",
           "Firstname": "Andy",
           "Gender": "Male",
@@ -2898,6 +3204,21 @@
           "Party_Id": "26",
           "Email": "andy@belfastuup.com",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/8116.png"
+        },
+        {
+          "Surname": "Kerr",
+          "Firstname": "Lauren",
+          "Gender": "Female",
+          "Twitter": "_laurenakerr",
+          "Constituency_Name": "Belfast East",
+          "Constituency_Number": "2",
+          "Party_Name": "Ulster Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "84774",
+          "Directory": "belfast-east",
+          "Party_Id": "26",
+          "Email": "Lauren.kerr@uup.org",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84774/5ff376f9-25b2-40b1-87c3-8bdb1365532c.png"
         },
         {
           "Surname": "Corr-Johnston",
@@ -2945,21 +3266,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84443/e770bf30-2a7c-4ad3-89d0-7febd7e87a77.png"
         },
         {
-          "Surname": "Stewart",
-          "Firstname": "John",
-          "Gender": "Male",
-          "Twitter": "johnstewartuup",
-          "Constituency_Name": "East Antrim",
-          "Constituency_Number": "1",
-          "Party_Name": "Ulster Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "8121",
-          "Directory": "east-antrim",
-          "Party_Id": "26",
-          "Email": "john.stewart@mla.niassembly.gov.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/8121/a0caa8ab-2b30-436c-93b4-53cd34880b7d.png"
-        },
-        {
           "Surname": "Beggs",
           "Firstname": "Roy",
           "Gender": "male",
@@ -2973,6 +3279,21 @@
           "Party_Id": "26",
           "Email": "roy.beggs@co.niassembly.gov.uk",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/7132/1f7f9dd4-7f27-4497-80c0-c4fe75b8e649.png"
+        },
+        {
+          "Surname": "Stewart",
+          "Firstname": "John",
+          "Gender": "Male",
+          "Twitter": "johnstewartuup",
+          "Constituency_Name": "East Antrim",
+          "Constituency_Number": "1",
+          "Party_Name": "Ulster Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "8121",
+          "Directory": "east-antrim",
+          "Party_Id": "26",
+          "Email": "john.stewart@mla.niassembly.gov.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/8121/a0caa8ab-2b30-436c-93b4-53cd34880b7d.png"
         },
         {
           "Surname": "Wilson",
@@ -2990,21 +3311,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69223/ea71d320-29fb-4772-8033-3ad69ddeb6da.png"
         },
         {
-          "Surname": "Barton",
-          "Firstname": "Rosemary",
-          "Gender": "female",
-          "Twitter": "RosemaryBarton1",
-          "Constituency_Name": "Fermanagh and South Tyrone",
-          "Constituency_Number": "4",
-          "Party_Name": "Ulster Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "8123",
-          "Directory": "fermanagh-and-south-tyrone",
-          "Party_Id": "26",
-          "Email": "rosemary.barton@mla.niassembly.gov.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/8123.png"
-        },
-        {
           "Surname": "Elliott",
           "Firstname": "Tom",
           "Gender": "male",
@@ -3018,6 +3324,21 @@
           "Party_Id": "26",
           "Email": "",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/553bec4eec0766d3759c046e.png"
+        },
+        {
+          "Surname": "Barton",
+          "Firstname": "Rosemary",
+          "Gender": "female",
+          "Twitter": "RosemaryBarton1",
+          "Constituency_Name": "Fermanagh and South Tyrone",
+          "Constituency_Number": "4",
+          "Party_Name": "Ulster Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "8123",
+          "Directory": "fermanagh-and-south-tyrone",
+          "Party_Id": "26",
+          "Email": "rosemary.barton@mla.niassembly.gov.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/8123.png"
         },
         {
           "Surname": "McCready",
@@ -3095,21 +3416,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/69020/371d3cd9-2fd7-4e5a-b020-9567de2bcefe.png"
         },
         {
-          "Surname": "Ferris",
-          "Firstname": "Bethany",
-          "Gender": "Female",
-          "Twitter": "bethany_ferris",
-          "Constituency_Name": "North Antrim",
-          "Constituency_Number": "9",
-          "Party_Name": "Ulster Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "84630",
-          "Directory": "north-antrim",
-          "Party_Id": "26",
-          "Email": "bethany.ferris@uup.org",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/84630-41f99ca1-3c8f-41a7-81f6-8df6144b5cfd.png"
-        },
-        {
           "Surname": "Swann",
           "Firstname": "Robin",
           "Gender": "male",
@@ -3125,19 +3431,19 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/550e9a869253711a232cfb99.png"
         },
         {
-          "Surname": "Chambers",
-          "Firstname": "Alan",
-          "Gender": "male",
-          "Twitter": "alcham49",
-          "Constituency_Name": "North Down",
-          "Constituency_Number": "11",
+          "Surname": "Ferris",
+          "Firstname": "Bethany",
+          "Gender": "Female",
+          "Twitter": "bethany_ferris",
+          "Constituency_Name": "North Antrim",
+          "Constituency_Number": "9",
           "Party_Name": "Ulster Unionist Party",
           "Outgoing_Member": "",
-          "Candidate_Id": "8154",
-          "Directory": "north-down",
+          "Candidate_Id": "84630",
+          "Directory": "north-antrim",
           "Party_Id": "26",
-          "Email": "alan.chambers@mla.niassembly.gov.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/8154.png"
+          "Email": "bethany.ferris@uup.org",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/84630-41f99ca1-3c8f-41a7-81f6-8df6144b5cfd.png"
         },
         {
           "Surname": "McBurney",
@@ -3153,6 +3459,21 @@
           "Party_Id": "26",
           "Email": "Naomi.McBurney@uup.org",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/84462/5e788953-0c67-4410-b497-d871f2be7574.png"
+        },
+        {
+          "Surname": "Chambers",
+          "Firstname": "Alan",
+          "Gender": "male",
+          "Twitter": "alcham49",
+          "Constituency_Name": "North Down",
+          "Constituency_Number": "11",
+          "Party_Name": "Ulster Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "8154",
+          "Directory": "north-down",
+          "Party_Id": "26",
+          "Email": "alan.chambers@mla.niassembly.gov.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/8154.png"
         },
         {
           "Surname": "Michael",
@@ -3200,21 +3521,6 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/68954/d57ca570-c188-43b2-aa7d-e5db3d1dfba3.png"
         },
         {
-          "Surname": "Nesbitt",
-          "Firstname": "Mike",
-          "Gender": "male",
-          "Twitter": "mikenesbittni",
-          "Constituency_Name": "Strangford",
-          "Constituency_Number": "15",
-          "Party_Name": "Ulster Unionist Party",
-          "Outgoing_Member": "",
-          "Candidate_Id": "302",
-          "Directory": "strangford",
-          "Party_Id": "26",
-          "Email": "mike@mikenesbitt.co.uk",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/302.png"
-        },
-        {
           "Surname": "Smith",
           "Firstname": "Philip",
           "Gender": "Male",
@@ -3230,19 +3536,19 @@
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/8115.png"
         },
         {
-          "Surname": "Beattie",
-          "Firstname": "Doug",
-          "Gender": "Male",
-          "Twitter": "BeattieDoug",
-          "Constituency_Name": "Upper Bann",
-          "Constituency_Number": "16",
+          "Surname": "Nesbitt",
+          "Firstname": "Mike",
+          "Gender": "male",
+          "Twitter": "mikenesbittni",
+          "Constituency_Name": "Strangford",
+          "Constituency_Number": "15",
           "Party_Name": "Ulster Unionist Party",
           "Outgoing_Member": "",
-          "Candidate_Id": "8150",
-          "Directory": "upper-bann",
+          "Candidate_Id": "302",
+          "Directory": "strangford",
           "Party_Id": "26",
-          "Email": "doug.beattie@uup.org",
-          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/8150/e5f37999-c88d-4884-8237-549809e59326.png"
+          "Email": "mike@mikenesbitt.co.uk",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/images/302.png"
         },
         {
           "Surname": "Barr",
@@ -3258,6 +3564,21 @@
           "Party_Id": "26",
           "Email": "glenn.barr@armaghbanbridgecraigavon.gov.uk",
           "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/68951/44576df7-a977-4408-ab73-8aa421d86a9e.png"
+        },
+        {
+          "Surname": "Beattie",
+          "Firstname": "Doug",
+          "Gender": "Male",
+          "Twitter": "BeattieDoug",
+          "Constituency_Name": "Upper Bann",
+          "Constituency_Number": "16",
+          "Party_Name": "Ulster Unionist Party",
+          "Outgoing_Member": "",
+          "Candidate_Id": "8150",
+          "Directory": "upper-bann",
+          "Party_Id": "26",
+          "Email": "doug.beattie@uup.org",
+          "Photo_URL": "https://static-candidates.democracyclub.org.uk/media/images/people/8150/e5f37999-c88d-4884-8237-549809e59326.png"
         },
         {
           "Surname": "Marshall",
