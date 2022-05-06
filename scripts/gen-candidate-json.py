@@ -18,6 +18,16 @@ cons_candidates_full = {'Constituencies':json.loads(cons_candidates)}
 with open(folder_path + 'all-candidates.json', 'w') as outfile:
     json.dump(cons_candidates_full, outfile)
 
-print(json.dumps(cons_candidates_full))
+party_candidates = (candidates.groupby(['party_name', 'party_id'])
+                             .apply(lambda x: x[['surname','firstname', 'gender', 'twitter', 'constituency_name', 'constituency_number', 'party_name', 'outgoing_member', 'candidate_id', 'directory', 'party_id', 'email', 'photo_url']].to_dict('records'))
+                             .reset_index()
+                             .rename(columns={0:'Candidates'})
+                             .to_json(orient='records'))
+
+party_candidates_full = {'Parties':json.loads(party_candidates)}
+
+with open(folder_path + 'all-party-candidates.json', 'w') as outfile:
+    json.dump(party_candidates_full, outfile)
+
 
 #print(candidates.to_json())
