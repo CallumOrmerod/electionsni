@@ -6,11 +6,13 @@ year = 2022
 folder_path = 'E:/Personal/Github/electionsni/2022/NI/'
 
 candidates = pd.read_csv(folder_path + 'full-candidates-list.csv',encoding='UTF-8')
+candidates.fillna('', inplace=True)
 
 cons_candidates = (candidates.groupby(['constituency_name', 'constituency_number'])
                              .apply(lambda x: x[['surname','firstname', 'gender', 'twitter', 'constituency_name', 'constituency_number', 'party_name', 'outgoing_member', 'candidate_id', 'directory', 'party_id', 'email', 'photo_url']].to_dict('records'))
                              .reset_index()
                              .rename(columns={0:'Candidates'})
+    
                              .to_json(orient='records'))
 
 cons_candidates_full = {'Constituencies':json.loads(cons_candidates)}
