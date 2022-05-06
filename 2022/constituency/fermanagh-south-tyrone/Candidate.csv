@@ -1,13 +1,16 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Fermanagh and South Tyrone,4,8123,Rosemary,Barton,1,26,Ulster Unionist Party,,fermanagh-south-tyrone,female,RosemaryBarton1,rosemary.barton@mla.niassembly.gov.uk
-Fermanagh and South Tyrone,4,19684,Noreen,Campbell,,19,Alliance Party,,fermanagh-south-tyrone,Female,noreen_campbell,
-Fermanagh and South Tyrone,4,19672,Jemma,Dolan,,24,Sinn Fein,,fermanagh-south-tyrone,female,jemma_dolan,
-Fermanagh and South Tyrone,4,19720,Richard,Dunn,,991,NI Conservatives,,fermanagh-south-tyrone,Male,,
-Fermanagh and South Tyrone,4,19692,Alex,Elliot,,141,Traditional Unionist Voice,,fermanagh-south-tyrone,Male,,
-Fermanagh and South Tyrone,4,11526,Arlene,Foster,1,20,Democratic Unionist Party,,fermanagh-south-tyrone,female,DUPleader,
-Fermanagh and South Tyrone,4,2427,Michelle,Gildernew,1,24,Sinn Fein,,fermanagh-south-tyrone,female,gildernewm,michelle.gildernew@sinn-fein.ie
-Fermanagh and South Tyrone,4,4674,Tanya,Jones,,111,Green Party,,fermanagh-south-tyrone,female,decombustion,tanya@greenlassie.com
-Fermanagh and South Tyrone,4,11528,Seán,Lynch,1,24,Sinn Fein,,fermanagh-south-tyrone,male,seanlynch122,
-Fermanagh and South Tyrone,4,11529,Richie,McPhillips,1,23,Social Democratic and Labour Party,,fermanagh-south-tyrone,male,Richiemcp,richiesdlperneeast@outlook.com
-Fermanagh and South Tyrone,4,11530,Maurice,Morrow,1,20,Democratic Unionist Party,,fermanagh-south-tyrone,male,,
-Fermanagh and South Tyrone,4,19717,Donal,O'Cofaigh,,987,Cross-Community Labour Alternative,,fermanagh-south-tyrone,Male,Donaloc,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Fermanagh and South Tyrone,4,4933,Tom,Elliott,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/553bec4eec0766d3759c046e.png,fermanagh-and-south-tyrone,male,TB_Elliott,
+Fermanagh and South Tyrone,4,8123,Rosemary,Barton,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/8123.png,fermanagh-and-south-tyrone,female,RosemaryBarton1,rosemary.barton@mla.niassembly.gov.uk
+Fermanagh and South Tyrone,4,19672,Jemma,Dolan,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/19672.png,fermanagh-and-south-tyrone,female,jemma_dolan,jemma.dolan@sinnfein.ie
+Fermanagh and South Tyrone,4,19692,Alex,Elliott,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/19692/8a2964fb-067f-468d-8ec2-e6edb344bbf3.png,fermanagh-and-south-tyrone,Male,,
+Fermanagh and South Tyrone,4,19717,Donal,O'Cofaigh,"",987,Cross-Community Labour Alternative,https://static-candidates.democracyclub.org.uk/media/images/images/19717.png,fermanagh-and-south-tyrone,Male,donaloc,donal.ocofaigh@fermanaghomagh.com
+Fermanagh and South Tyrone,4,50100,Adam,Gannon,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/people/50100/fe63fbc4-24e5-471e-b24c-79fcdb71ab22.png,fermanagh-and-south-tyrone,Male,CllrAdamGannon,agannon.sdlp@gmail.com
+Fermanagh and South Tyrone,4,50141,Deborah,Erskine,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/50141-d78fd4a1-ef6a-41a7-8f2b-24ba540cd975.png,fermanagh-and-south-tyrone,Female,deborah_cheryl,deborah.erskine@mla.niassembly.gov.uk
+Fermanagh and South Tyrone,4,68972,Matthew,Beaumont,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/68972-6b4322ee-b678-45ec-a2ea-11d0e8c043e2.png,fermanagh-and-south-tyrone,Male,themrmatthew,matthew.beaumont@allianceparty.org
+Fermanagh and South Tyrone,4,84447,Paul,Bell,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/84447/093b8631-4baf-43df-8f1c-2a5c71199f64.png,fermanagh-and-south-tyrone,Male,,
+Fermanagh and South Tyrone,4,84448,Colm,Gildernew,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/84448/2d890884-dd98-4fe5-8891-0ac4a4781609.png,fermanagh-and-south-tyrone,Male,GildernewColm,
+Fermanagh and South Tyrone,4,84449,Áine,Murphy,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/84449/45bf57b3-be14-4b7e-b19f-6cd0dd112ffe.png,fermanagh-and-south-tyrone,Female,ainemurphy116,ainemurphy116@gmail.com
+Fermanagh and South Tyrone,4,84450,Kellie,Turtle,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/84450/2addc664-eb20-4bba-925c-9b6de04a317e.png,fermanagh-and-south-tyrone,Female,KellieTurtle,
+Fermanagh and South Tyrone,4,84811,Emma,DeSouza,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/84811/eb495c92-ed91-4147-bef2-96808583f0ab.png,fermanagh-and-south-tyrone,Female,EmmandJDeSouza,emma@emmaforelection.com
+Fermanagh and South Tyrone,4,93987,Derek,Backhouse,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/93987/06e23836-abe4-46a5-b27b-4f8d664c433a.png,fermanagh-and-south-tyrone,Male,backhouse_derek,bles.derek@gmail.com
+Fermanagh and South Tyrone,4,95158,Emmett,Kilpatrick,"",999,People Before Profit Alliance,https://static-candidates.democracyclub.org.uk/media/images/people/95158/1b0293e9-3f21-4cae-9566-42c0c6f121b9.png,fermanagh-and-south-tyrone,Male,EmmettKilpatri3,

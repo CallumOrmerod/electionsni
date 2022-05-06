@@ -1,14 +1,13 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Lagan Valley,6,11537,Dan,Barrios-O'Neill,,111,Green Party,,lagan-valley,male,DBarriosONeill,
-Lagan Valley,6,8114,Robbie,Butler,1,26,Ulster Unionist Party,,lagan-valley,Male,t3robbie,robbie.butler@mla.niassembly.gov.uk
-Lagan Valley,6,7180,Pat,Catney,,23,Social Democratic and Labour Party,,lagan-valley,male,PatCatney,
-Lagan Valley,6,19716,Peter,Doran,,24,Sinn Fein,,lagan-valley,Male,LaganValleySF,
-Lagan Valley,6,11540,Paul,Givan,1,20,Democratic Unionist Party,,lagan-valley,male,paulgivan,
-Lagan Valley,6,19747,Keith John,Gray,,21,Independent,,lagan-valley,Male,liver30,
-Lagan Valley,6,11541,Brenda,Hale,1,20,Democratic Unionist Party,,lagan-valley,female,brendahalemla,
-Lagan Valley,6,763,Trevor,Lunn,1,19,Alliance Party,,lagan-valley,male,TrevorLunnLV,trevor.lunn@allianceparty.org
-Lagan Valley,6,297,Samuel,Morrison,,141,Traditional Unionist Voice,,lagan-valley,Male,SammyMorrison82,
-Lagan Valley,6,7410,Jonny,Orr,,21,Independent,,lagan-valley,male,JonnyOrr,
-Lagan Valley,6,8113,Jenny,Palmer,1,26,Ulster Unionist Party,,lagan-valley,Female,JennyP_59,jenny.palmer@mla.niassembly.gov.uk
-Lagan Valley,6,11544,Edwin,Poots,1,20,Democratic Unionist Party,,lagan-valley,male,poots_edwin,
-Lagan Valley,6,19723,Matthew,Robinson,,991,NI Conservatives,,lagan-valley,Male,,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Lagan Valley,6,1858,Jeffrey,Donaldson,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/553c9c8242c427035c8db3ed.png,lagan-valley,male,J_Donaldson_MP,jeffreydonaldsonmp@laganvalley.net
+Lagan Valley,6,7180,Pat,Catney,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/images/7180.png,lagan-valley,male,PatCatney,pat.catney@mla.niassembly.gov.uk
+Lagan Valley,6,8114,Robbie,Butler,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/8114/bcf61008-1858-4c8e-b0d1-7f63ba23bdb5.png,lagan-valley,Male,RobbieButlerMLA,robbie.butler@mla.niassembly.gov.uk
+Lagan Valley,6,11540,Paul,Givan,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/11540.png,lagan-valley,male,paulgivan,paul.givan@mla.niassembly.gov.uk
+Lagan Valley,6,12440,Simon,Lee,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/12440/adc36cd3-e1fa-48f5-9f83-1563041f3b18.png,lagan-valley,Male,SiLeeGPNI,
+Lagan Valley,6,19688,Sorcha-Lucy,Eastwood,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/19688.png,lagan-valley,Female,SorchaEastwood,sorcha.eastwood@allianceparty.org
+Lagan Valley,6,19722,Gary,Hynds,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/19722/19e5f692-26d8-4b6a-80ce-8762df307b6b.png,lagan-valley,Male,GaryHynds,gary@garyhynds.com
+Lagan Valley,6,49796,Gary,McCleave,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/49796-91e66b8d-55a2-4197-b780-f89cda12e668.png,lagan-valley,Male,Garymc1967,gary.mccleave@lisburncastlereagh.gov.uk
+Lagan Valley,6,50410,David,Honeyford,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/people/50410/71fd4e27-9938-4610-a865-81aab3764bc4.png,lagan-valley,male,dhoneyford,david.honeyford@lisburncastlereagh.gov.uk
+Lagan Valley,6,84455,Laura,Turner,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/84455/b4957a45-3156-4cab-9f08-bf55f3d2c036.png,lagan-valley,Female,LauraTurner_80,
+Lagan Valley,6,84456,Lorna,Smyth,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/84456/4a0103ca-3019-4363-9784-800011f32eca.png,lagan-valley,Female,,
+Lagan Valley,6,95161,Amanda,Doherty,"",999,People Before Profit Alliance,https://static-candidates.democracyclub.org.uk/media/images/people/95161/b775a484-ad7b-432d-b560-1a5a5182496f.png,lagan-valley,Female,AmandaDortz,

@@ -1,13 +1,16 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Belfast West,17,982,Alex,Attwood,1,23,Social Democratic and Labour Party,,belfast-west,male,AlexAttwoodMLA,attwoodalex@yahoo.co.uk
-Belfast West,17,8186,Conor,Campbell,,998,Workers Party,,belfast-west,male,,
-Belfast West,17,7199,Gerry,Carroll,1,999,People Before Profit Alliance,,belfast-west,male,GerryCarrollPBP,royshakur@hotmail.com
-Belfast West,17,19674,Michael,Collins,,999,People Before Profit Alliance,,belfast-west,male,,
-Belfast West,17,19688,Sorcha,Eastwood,,19,Alliance Party,,belfast-west,Female,SorchaEastwood,
-Belfast West,17,19668,Órlaithí,Flynn,1,24,Sinn Fein,,belfast-west,female,orlaithiflynnsf,orlaithi.flynn@mla.niassembly.gov.uk
-Belfast West,17,11439,Alex,Maskey,1,24,Sinn Fein,,belfast-west,male,AlexMaskeyMLA,ufsinnfein@yahoo.com
-Belfast West,17,11437,Fra,McCann,1,24,Sinn Fein,,belfast-west,male,FramccannMLA,
-Belfast West,17,7174,Frank,McCoubrey,,20,Democratic Unionist Party,,belfast-west,male,FMcCoubrey1,
-Belfast West,17,11441,Ellen,Murray,,111,Green Party,,belfast-west,Female,ellenfromnowon,
-Belfast West,17,19686,Fred,Rodgers,,26,Ulster Unionist Party,,belfast-west,Male,Fredjrodgers,
-Belfast West,17,11436,Pat,Sheehan,1,24,Sinn Fein,,belfast-west,male,PatSheehanMLA,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Belfast West,17,7174,Frank,McCoubrey,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/7174.png,belfast-west,male,FMcCoubrey1,frankmccoubrey1@hotmail.co.uk
+Belfast West,17,7199,Gerry,Carroll,"",999,People Before Profit Alliance,https://static-candidates.democracyclub.org.uk/media/images/images/7199-afa884d7-9a95-4256-a4de-19502dc129eb.png,belfast-west,male,GerryCarrollPBP,gerrycpbp@gmail.com
+Belfast West,17,11436,Pat,Sheehan,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/11436.png,belfast-west,male,PatSheehanMLA,pat.sheehan@mla.niassembly.gov.uk
+Belfast West,17,19668,Órlaithí,Flynn,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/19668/1ab0c9ca-6c4e-44e9-8eba-119ba945ecd2.png,belfast-west,female,OrlaithiF_MLA,orlaithi.flynn@mla.niassembly.gov.uk
+Belfast West,17,50308,Donnamarie,Higgins,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/people/50308/558687f3-6c5d-4f04-8a38-b670f0b3dc75.png,belfast-west,Female,dhiggins432,dhiggins432@gmail.com
+Belfast West,17,69199,Paul,Doherty,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/images/69199-53ffdae0-a98e-4d24-8bfc-f55147d2c5a9.png,belfast-west,Male,PaulDohertySDLP,paul.doherty@sdlp.ie
+Belfast West,17,69201,Stevie,Maginn,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/69201/d248f980-2c66-45e7-8748-11b39ccd065a.png,belfast-west,,StevieMaginn,greenpartywestbelfast@gmail.com
+Belfast West,17,69227,Danny,Baker,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/69227/2c70575b-d8ef-4031-8ddb-3919fa68d84d.png,belfast-west,male,,bakerd@belfastcity.gov.uk
+Belfast West,17,84443,Linsey,Gibson,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/84443/e770bf30-2a7c-4ad3-89d0-7febd7e87a77.png,belfast-west,Female,linseygibson,
+Belfast West,17,84444,Jordan,Doran,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/images/84444-84786b92-9f07-47c6-917b-4e4549cf0c8f.png,belfast-west,Male,JORDAN_TUV,
+Belfast West,17,84451,Tony,Mallon,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/84451/a90c3cfc-20f2-4453-815c-5345b9929859.png,belfast-west,Male,,
+Belfast West,17,84591,Aisling,Reilly,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/84591/0a8636b8-579b-4fdd-bb5b-f3c3857cdc8b.png,belfast-west,,aislingreillysf,aisling.reilly@sinnfein.ie
+Belfast West,17,84800,Gerard,Burns,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/84800/57e0b6aa-7be1-4bdc-98be-9344cd398261.png,belfast-west,Male,GerardBurns2022,
+Belfast West,17,95177,Patrick,Crossan,"",998,Workers Party,https://static-candidates.democracyclub.org.uk/media/images/people/95177/5e0094ec-fa55-4169-869b-a72c83cc6b63.png,belfast-west,,,
+Belfast West,17,95178,Declan,Hill,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/95178/383e2559-e2c6-4f97-a42b-b38225119b67.png,belfast-west,,,declanhill158@yahoo.com

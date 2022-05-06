@@ -1,16 +1,11 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-East Antrim,1,7132,Roy,Beggs,1,26,Ulster Unionist Party,,east-antrim,male,roybeggs,roy.beggs@co.niassembly.gov.uk
-East Antrim,1,19741,Ricky,Best,,21,Independent,,east-antrim,Male,VoteRickyBest,
-East Antrim,1,4591,Stewart,Dickson,1,19,Alliance Party,,east-antrim,male,stewartcdickson,stewart.dickson@allianceparty.org
-East Antrim,1,9805,Danny,Donnelly,,19,Alliance Party,,east-antrim,Male,DannyDonnelly1,
-East Antrim,1,6991,Alan,Dunlop,,991,NI Conservatives,,east-antrim,male,Alan4SAntrim,
-East Antrim,1,11447,David,Hilditch,1,20,Democratic Unionist Party,,east-antrim,male,,
-East Antrim,1,6399,Noel,Jordan,,689,UK Independence Party,,east-antrim,male,CarrickUKIP,noel.jordan@ukipni.co.uk
-East Antrim,1,11448,Gordon,Lyons,1,20,Democratic Unionist Party,,east-antrim,male,gordonlyons1,
-East Antrim,1,5389,Margaret Anne,McKillop,,23,Social Democratic and Labour Party,,east-antrim,female,a_margaretanne,
-East Antrim,1,1061,Oliver,McMullan,1,24,Sinn Fein,,east-antrim,male,OliverMcMullan,eastantrimsinnfein@gmail.com
-East Antrim,1,10293,Dawn,Patterson,,111,Green Party,,east-antrim,Female,DawnPEastAntri1,bourkedawn@gmail.com
-East Antrim,1,19685,Stephen,Ross,,20,Democratic Unionist Party,,east-antrim,Male,SRosscllr,
-East Antrim,1,11450,Conor,Sheridan,,987,Cross-Community Labour Alternative,,east-antrim,male,conorjsheridan1,conorjsheridan21@gmail.com
-East Antrim,1,8121,John,Stewart,,26,Ulster Unionist Party,,east-antrim,Male,JohnStewart1983,
-East Antrim,1,6985,Ruth,Wilson,,141,Traditional Unionist Voice,,east-antrim,Female,RuthWilsonTUV,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+East Antrim,1,1061,Oliver,McMullan,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/5547b1b3dffdc1c81f668296.png,east-antrim,male,OliverMcMullan,omcmullan@yahoo.com
+East Antrim,1,4591,Stewart,Dickson,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/people/4591/7a71b600-b522-4fa5-8d32-794101138f7e.png,east-antrim,male,stewartcdickson,stewart.dickson@allianceparty.org
+East Antrim,1,7132,Roy,Beggs,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/7132/1f7f9dd4-7f27-4497-80c0-c4fe75b8e649.png,east-antrim,male,roybeggs,roy.beggs@co.niassembly.gov.uk
+East Antrim,1,8121,John,Stewart,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/8121/a0caa8ab-2b30-436c-93b4-53cd34880b7d.png,east-antrim,Male,johnstewartuup,john.stewart@mla.niassembly.gov.uk
+East Antrim,1,9805,Danny,Donnelly,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/9805.png,east-antrim,Male,DannyDonnelly1,danny.donnelly@allianceparty.org
+East Antrim,1,11447,David,Hilditch,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/11447-38b776ca-3892-40d9-b3bf-ce717576148c.png,east-antrim,male,davyh_crfc,
+East Antrim,1,11448,Gordon,Lyons,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/11448.png,east-antrim,male,gordonlyons1,
+East Antrim,1,19703,Mark,Bailey,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/images/19703.png,east-antrim,Male,mfbailey,markbailey@antrimgreens.com
+East Antrim,1,68115,Norman,Boyd,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/68115/7bd0e8c2-501f-4bf2-8d19-3e7609d3e314.png,east-antrim,male,,
+East Antrim,1,84799,Siobhán,McAlister,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/people/84799/36681d2c-d410-4aa6-8d78-4bce49723b3e.png,east-antrim,,SiobhanMcA91,

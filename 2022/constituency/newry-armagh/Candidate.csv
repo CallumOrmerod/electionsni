@@ -1,10 +1,12 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Newry and Armagh,8,11394,Cathal,Boylan,1,24,Sinn Fein,,newry-armagh,male,cathalboylansf,
-Newry and Armagh,8,19696,Jackie,Coade,,19,Alliance Party,,newry-armagh,Female,,
-Newry and Armagh,8,11395,Emmet,Crossan,,993,Citizens Independent Social Thought Alliance,,newry-armagh,male,EMMETforMLA,
-Newry and Armagh,8,11396,Megan,Fearon,1,24,Sinn Fein,,newry-armagh,female,mfearonsf,
-Newry and Armagh,8,1872,William George,Irwin,1,20,Democratic Unionist Party,,newry-armagh,male,,william.irwin@armagh.gov.uk
-Newry and Armagh,8,31,Danny,Kennedy,1,26,Ulster Unionist Party,,newry-armagh,male,DKennedy_UUP,danny.kennedy@voteforchangeni.com
-Newry and Armagh,8,6086,Justin,McNulty,1,23,Social Democratic and Labour Party,,newry-armagh,male,JustinMcNu1ty,
-Newry and Armagh,8,1856,Conor,Murphy,1,24,Sinn Fein,,newry-armagh,male,conormurphysf,conor.murphy@niassembly.gov.uk
-Newry and Armagh,8,19702,Rowan,Tunnicliffe,,111,Green Party,,newry-armagh,Male,RowanTNI,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Newry and Armagh,8,1856,Conor,Murphy,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/1856.png,newry-and-armagh,male,conormurphysf,conor.murphy@niassembly.gov.uk
+Newry and Armagh,8,1872,William George,Irwin,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/1872.png,newry-and-armagh,male,,william.irwin@mla.niassembly.gov.uk
+Newry and Armagh,8,6086,Justin,McNulty,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/553c2fda5937cd1c567c1cd6.png,newry-and-armagh,male,JustinMcNu1ty,justin.mcnulty@mla.niassembly.gov.uk
+Newry and Armagh,8,11394,Cathal,Boylan,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/11394.png,newry-and-armagh,male,cathalboylansf,cathalboylansf@gmail.com
+Newry and Armagh,8,19696,Jackie,Coade,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/19696.png,newry-and-armagh,Female,jak_ie,jackie.coade@allianceparty.org
+Newry and Armagh,8,69020,David,Taylor,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/69020/371d3cd9-2fd7-4e5a-b020-9567de2bcefe.png,newry-and-armagh,,DavidTayloruup,
+Newry and Armagh,8,69375,Liz,Kimmins,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/69375/e146708e-34dc-4546-a3bf-fce452eb972f.png,newry-and-armagh,Female,LizK1988,lizkimminssf@gmail.com
+Newry and Armagh,8,69376,Gavin,Malone,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/69376/1bae3690-5a02-4219-bcc3-8c5dc5be745d.png,newry-and-armagh,Male,gavinmalone22,info@gavin-malone.com
+Newry and Armagh,8,84459,Keith,Ratcliffe,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/84459/3e0c61d0-8225-4fbc-a9db-9cb2123af84b.png,newry-and-armagh,Male,,
+Newry and Armagh,8,84460,Ciara,Henry,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/84460/1531fd97-1c28-45c1-b1a4-99de46e1ee76.png,newry-and-armagh,Female,CiaraHenry_1995,
+Newry and Armagh,8,95167,Nicola,Grant,"",998,Workers Party,https://static-candidates.democracyclub.org.uk/media/images/people/95167/d09c3a15-97fb-47ff-84c8-925b91e11065.png,newry-and-armagh,,,

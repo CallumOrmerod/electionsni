@@ -1,13 +1,11 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Upper Bann,16,8150,Doug,Beattie,1,26,Ulster Unionist Party,,upper-bann,Male,BeattieDoug,doug.beattie@mla.niassembly.gov.uk
-Upper Bann,16,19683,Jonathan,Buckley,,20,Democratic Unionist Party,,upper-bann,Male,JBuckleyDUP,
-Upper Bann,16,19743,Colin,Craig,,998,Workers Party,,upper-bann,Male,,
-Upper Bann,16,4677,Jo-Anne,Dobson,1,26,Ulster Unionist Party,,upper-bann,female,JoAnne_Dobson,jo-anne.dobson@mla.niassembly.gov.uk
-Upper Bann,16,19744,Tara,Doyle,,19,Alliance Party,,upper-bann,Female,Alliance_UpBann,
-Upper Bann,16,12443,Roy,Ferguson,,141,Traditional Unionist Voice,,upper-bann,Male,,
-Upper Bann,16,699,Dolores,Kelly,,23,Social Democratic and Labour Party,,upper-bann,female,doloreskelly,d.kelly@sdlp.ie
-Upper Bann,16,12440,Simon,Lee,,111,Green Party,,upper-bann,Male,thesymbolic,
-Upper Bann,16,12439,Carla,Lockhart,1,20,Democratic Unionist Party,,upper-bann,female,carlalockhart,
-Upper Bann,16,12436,Ian,Nickels,,991,NI Conservatives,,upper-bann,Male,,
-Upper Bann,16,3752,John,O'Dowd,1,24,Sinn Fein,,upper-bann,male,JohnODowdSF,
-Upper Bann,16,19679,Nuala,Toman,,24,Sinn Fein,,upper-bann,female,NualaToman,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Upper Bann,16,699,Dolores,Kelly,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/people/699/392843dc-a96f-4171-b0b9-bbfce561a758.png,upper-bann,female,doloreskelly,dolores.kelly1@outlook.com
+Upper Bann,16,3752,John,O'Dowd,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/3752.png,upper-bann,male,JohnODowdSF,johnodowd@sinnfein.ie
+Upper Bann,16,8150,Doug,Beattie,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/8150/e5f37999-c88d-4884-8237-549809e59326.png,upper-bann,Male,BeattieDoug,doug.beattie@uup.org
+Upper Bann,16,19683,Jonathan Glen,Buckley,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/19683.png,upper-bann,Male,JonnyGBuckley,Jonathan.buckley@mla.niassembly.gov.uk
+Upper Bann,16,49877,Liam,Mackle,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/49877.png,upper-bann,Male,LiamMackle,liam.mackle@armaghbanbridgecraigavon.gov.uk
+Upper Bann,16,50332,Eóin,Tennyson,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/people/50332/6a91eae1-cce0-4f5b-a895-54542d3c11ca.png,upper-bann,male,EoinTennyson,eoin.tennyson@allianceparty.org
+Upper Bann,16,68951,Glenn,Barr,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/68951/44576df7-a977-4408-ab73-8aa421d86a9e.png,upper-bann,Male,CllrGlennBarr,glenn.barr@armaghbanbridgecraigavon.gov.uk
+Upper Bann,16,68992,Darrin,Foster,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/images/68992.png,upper-bann,male,,
+Upper Bann,16,69799,Diane,Dodds,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/69799.png,upper-bann,Female,DianeDoddsMLA,diane@dianedodds.co.uk
+Upper Bann,16,84506,Lauren,Kendall,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/84506/54d963fd-92e0-44b0-a8bb-fadd4820c88b.png,upper-bann,Female,5ft_Green,lauren.kendall@ardsandnorthdown.gov.uk

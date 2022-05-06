@@ -1,14 +1,12 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-South Antrim,12,8151,Steve,Aiken,1,26,Ulster Unionist Party,,south-antrim,male,SteveAikenUUP,steve.aiken@mla.niassembly.gov.uk
-South Antrim,12,19681,Ivanka,Antova,,999,People Before Profit Alliance,,south-antrim,female,,
-South Antrim,12,19704,Eleanor,Bailey,,111,Green Party,,south-antrim,Female,,
-South Antrim,12,6346,Richard William,Cairns,,141,Traditional Unionist Voice,,south-antrim,male,rickwcairns,rcairnstuv@gmail.com
-South Antrim,12,13366,Pam,Cameron,1,20,Democratic Unionist Party,,south-antrim,female,PamCameronMLA,pamcamerondup@gmail.com
-South Antrim,12,13367,Trevor,Clarke,1,20,Democratic Unionist Party,,south-antrim,male,,
-South Antrim,12,8153,Adrian David,Cochrane-Watson,,26,Ulster Unionist Party,,south-antrim,male,adrianuup,
-South Antrim,12,13369,David RJ,Ford,1,19,Alliance Party,,south-antrim,male,DavidFordMLA,
-South Antrim,12,13370,Paul,Girvan,1,20,Democratic Unionist Party,,south-antrim,male,VoteGirvan1,
-South Antrim,12,4711,Declan,Kearney,1,24,Sinn Fein,,south-antrim,male,DeclanKearneySF,
-South Antrim,12,19721,Mark,Logan,,991,NI Conservatives,,south-antrim,Male,,
-South Antrim,12,5390,Roisin,Lynch,,23,Social Democratic and Labour Party,,south-antrim,female,roisinlynchsdlp,roisin.lynch@sdlphq.ie
-South Antrim,12,13371,David,McMaster,,21,Independent,,south-antrim,Male,,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+South Antrim,12,2768,Mel,Lucas,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/2768/91a0571d-0d66-4c0e-966e-f079197e811a.png,south-antrim,male,,
+South Antrim,12,4711,Declan,Kearney,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/553bae7eec0766d3759c0454.png,south-antrim,male,DeclanKearneySF,southantrimsinnfein@gmail.com
+South Antrim,12,5390,Roisin,Lynch,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/553bb1e1ec0766d3759c045b.png,south-antrim,female,roisinlynchsdlp,roisin.lynch@sdlphq.ie
+South Antrim,12,8151,Steve,Aiken,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/8151.png,south-antrim,male,SteveAikenUUP,steve.aiken@mla.niassembly.gov.uk
+South Antrim,12,8152,Paul,Michael,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/8152.png,south-antrim,male,PaulmichaelUUP,
+South Antrim,12,13366,Pam,Cameron,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/13366/f729a209-b7f1-42ae-a8a8-c46b2cf3f7f0.png,south-antrim,female,PamCameronDUP,pamcamerondup@gmail.com
+South Antrim,12,13367,Trevor,Clarke,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/13367.png,south-antrim,male,trevorclarkeMLA,Trevor.clarke@mla.niassembly.gov.uk
+South Antrim,12,69255,Lesley,Veronica,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/69255/52163c46-971b-4425-b3f5-faa84164f11d.png,south-antrim,,Lesleyveronica,
+South Antrim,12,71629,John,Blair,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/71629.png,south-antrim,male,JohnBlairAPNI,John.Blair@allianceparty.org
+South Antrim,12,95169,Jerry,Maguire,"",999,People Before Profit Alliance,https://static-candidates.democracyclub.org.uk/media/images/people/95169/e7288c05-2394-4f58-9854-d39ae8f306ae.png,south-antrim,Male,JerryMaguirePBP,jerrymaguire.pbp@gmail.com
+South Antrim,12,95170,Andrew,Moran,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/95170/0f000278-a216-474f-b38f-ed7d1258b856.png,south-antrim,,AndrewMoranNI,

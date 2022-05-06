@@ -1,14 +1,13 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Strangford,15,4590,Kellie,Armstrong,1,19,Alliance Party,,strangford,female,Kelmba,kellie.armstrong@allianceparty.org
-Strangford,15,19706,Ricky,Bamford,,111,Green Party,,strangford,Male,,
-Strangford,15,6251,Jonathan,Bell,1,21,Independent,,strangford,male,jonathanfbell,jonathan.bell@mla.niassembly.gov.uk
-Strangford,15,19718,Scott,Benton,,991,NI Conservatives,,strangford,Male,,
-Strangford,15,7179,Joe,Boyle,,23,Social Democratic and Labour Party,,strangford,male,,joetboyle@yahoo.co.uk
-Strangford,15,6984,Stephen,Cooper,,141,Traditional Unionist Voice,,strangford,Male,S_J_Cooper,
-Strangford,15,16581,Simon,Hamilton,1,20,Democratic Unionist Party,,strangford,male,SimonHamilton,
-Strangford,15,12090,Dermot,Kennedy,,24,Sinn Fein,,strangford,Male,IrelandsTime,
-Strangford,15,12092,Michelle,McIlveen,1,20,Democratic Unionist Party,,strangford,female,MMcIlveenDUP,mail@michellemcilveen.org.uk
-Strangford,15,12094,Jimmy,Menagh,,21,Independent,,strangford,Male,,
-Strangford,15,302,Mike,Nesbitt,1,26,Ulster Unionist Party,,strangford,male,mikenesbittni,mike@mikenesbitt.co.uk
-Strangford,15,8115,Philip,Smith,1,26,Ulster Unionist Party,,strangford,Male,1PhilipSmith,
-Strangford,15,11547,Peter,Weir,1,20,Democratic Unionist Party,,strangford,male,peterweirmla,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Strangford,15,302,Mike,Nesbitt,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/302.png,strangford,male,mikenesbittni,mike@mikenesbitt.co.uk
+Strangford,15,4590,Kellie,Armstrong,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/551b182e13eb34c82843cb4b.png,strangford,female,Kelmba,kellie.armstrong@alliancepartyni.org
+Strangford,15,6984,Stephen,Cooper,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/551bf078209513973bc512ad.png,strangford,Male,S_J_Cooper,stephen.cooper@ardsandnorthdown.gov.uk
+Strangford,15,8115,Philip,Smith,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/8115.png,strangford,Male,1PhilipSmith,philip.smith@ardsandnorthdown.gov.uk
+Strangford,15,11547,Peter,Weir,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/11547/6bcc8b56-ced0-4a37-be98-dd783076fa19.png,strangford,Male,DUPpeterweir,peterweirmla@gmail.com
+Strangford,15,12089,Harry,Harvey,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/12089.png,strangford,Male,HarrycHarvey1,harry.harvey@mla.niassembly.gov.uk
+Strangford,15,12092,Michelle,McIlveen,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/12092.png,strangford,female,MMcIlveenDUP,mail@michellemcilveen.org.uk
+Strangford,15,57267,Nick,Mathison,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/57267-3d0e5686-5052-47d9-9ecb-e059f8e9cbd7.png,strangford,Male,NickDMathison,Nick.mathison@alliancepartyni.org
+Strangford,15,69268,Ben,King,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/69268/2338e16f-0dd1-42da-b39f-1e6ca4f67037.png,strangford,Male,BenKingNI,
+Strangford,15,69269,Maurice,Macartney,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/images/69269-b8ec041d-b27f-44dd-b14a-a32ce7326f66.png,strangford,Male,jointhecoo,jointhecoo@gmail.com
+Strangford,15,84280,Conor,Houston,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/images/84280-981f1d98-12df-43a2-8bdc-7f1c0efaf0a7.png,strangford,male,ConorHouston_,conor@conorhouston.co.uk
+Strangford,15,95162,Róisé,McGivern,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/95162/2cce6350-76ef-4da0-b00b-d258ca8177dc.png,strangford,,,

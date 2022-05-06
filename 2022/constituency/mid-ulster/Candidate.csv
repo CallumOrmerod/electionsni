@@ -1,12 +1,13 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Mid Ulster,7,11273,Keith Alexander,Buchanan,1,20,Democratic Unionist Party,,mid-ulster,male,Buchanan_dup,
-Mid Ulster,7,11274,Linda,Dillon,1,24,Sinn Fein,,mid-ulster,female,LindaDillon81,
-Mid Ulster,7,11290,Hannah,Loughrin,,141,Traditional Unionist Voice,,mid-ulster,Female,,
-Mid Ulster,7,19727,Hugh,McCloy,,21,Independent,,mid-ulster,Male,hughmccloy,hughmccloy@googlemail.com
-Mid Ulster,7,11291,Patsy,McGlone,1,23,Social Democratic and Labour Party,,mid-ulster,male,patsymcglone,
-Mid Ulster,7,11275,Ian,Milne,1,24,Sinn Fein,,mid-ulster,male,Ianmilnesf,
-Mid Ulster,7,11276,Michelle,O'Neill,1,24,Sinn Fein,,mid-ulster,female,moneillsf,
-Mid Ulster,7,3870,Sandra,Overend,1,26,Ulster Unionist Party,,mid-ulster,female,over2sandra,sandra.overend@voteforchangeni.com
-Mid Ulster,7,7088,Hugh,Scullion,,998,Workers Party,,mid-ulster,male,,workerspartyni@yahoo.co.uk
-Mid Ulster,7,10203,Stefan,Taylor,,111,Green Party,,mid-ulster,Male,GreenPartyNI,stefan.taylor@icloud.com
-Mid Ulster,7,19693,Fay,Watson,,19,Alliance Party,,mid-ulster,Female,,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Mid Ulster,7,7088,Hugh,Scullion,"",998,Workers Party,https://static-candidates.democracyclub.org.uk/media/images/people/7088/31a68395-7f80-4498-98f3-43bff17f06a4.png,mid-ulster,male,,workerspartyni@yahoo.co.uk
+Mid Ulster,7,10203,Stefan,Taylor,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/10203/b1198886-5a74-4eab-8469-cf8297339017.png,mid-ulster,Male,GreenPartyNI,stefan.taylor@icloud.com
+Mid Ulster,7,11273,Keith,Buchanan,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/11273/8a2929b7-aee9-4b47-ac70-ffa571724adf.png,mid-ulster,male,Buchanan_dup,keith.buchanan@mla.niassembly.gov.uk
+Mid Ulster,7,11274,Linda,Dillon,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/11274.png,mid-ulster,female,LindaDillon81,linda.dillon81@gmail.com
+Mid Ulster,7,11276,Michelle,O'Neill,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/11276-f9558bae-e817-4cf4-bf86-862345909a5d.png,mid-ulster,female,moneillsf,michelle@sinnfein.ie
+Mid Ulster,7,11291,Patsy,McGlone,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/people/11291/77a4cff5-a2b4-49ce-b36c-cc00f9ec346c.png,mid-ulster,male,patsymcglone,patsy.mcglone@mla.niassembly.gov.uk
+Mid Ulster,7,49835,Meta,Graham,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/49835/a214b229-5233-4ec6-8a48-e44ecd319bab.png,mid-ulster,female,,meta.graham@midulstercouncil.org
+Mid Ulster,7,84457,Claire,Hackett,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/people/84457/63615bb1-d775-479c-9c05-40f61fd023da.png,mid-ulster,Female,ClaireHackett_,claire.hackett@alliancepartyni.org
+Mid Ulster,7,84504,Emma,Sheerin,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/84504/0a650ca6-c0d9-4c93-88e2-efb0af66c08b.png,mid-ulster,Female,SheerinOfficial,gulladuffsinnfein@gmail.com
+Mid Ulster,7,85586,Glenn,Moore,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/85586/4b44eef8-1c03-49bf-be8a-7fa01fd99047.png,mid-ulster,Male,,
+Mid Ulster,7,95171,Patrick,Haughey,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/95171/63af9c41-58ac-43fc-addc-cfd6a822f287.png,mid-ulster,,,
+Mid Ulster,7,95172,Sophia,McFeely,"",999,People Before Profit Alliance,https://static-candidates.democracyclub.org.uk/media/images/people/95172/23c0d100-f99a-42aa-b18a-c4cd62a04124.png,mid-ulster,,,

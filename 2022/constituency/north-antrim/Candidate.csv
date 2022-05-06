@@ -1,13 +1,12 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-North Antrim,9,2134,Jim,Allister,1,141,Traditional Unionist Voice,,north-antrim,male,JimAllister,info@jimallister.org
-North Antrim,9,19703,Mark,Bailey,,111,Green Party,,north-antrim,Male,mfbailey,markbailey@antrimgreens.com
-North Antrim,9,19714,Monica,Digney,,21,Independent,,north-antrim,female,digneymonica,
-North Antrim,9,12750,Connor,Duncan,,23,Social Democratic and Labour Party,,north-antrim,male,CDuncanSDLP,
-North Antrim,9,12751,Paul,Frew,1,20,Democratic Unionist Party,,north-antrim,male,paulfrewDUP,
-North Antrim,9,5985,Timothy,Gaston,,141,Traditional Unionist Voice,,north-antrim,male,CllrGaston,Cllr.Gaston@MidandEastAntrim.gov.uk
-North Antrim,9,12753,Phillip,Logan,1,20,Democratic Unionist Party,,north-antrim,male,philliplogan,
-North Antrim,9,19725,Adam,McBride,,21,Independent,,north-antrim,Male,AdamMcBrideNI,adam@makeni.work
-North Antrim,9,19673,Philip,McGuigan,1,24,Sinn Fein,,north-antrim,Male,mcguigan_philip,philip.mcguigan@mla.niassembly.gov.uk
-North Antrim,9,19695,Patricia,O'Lynn,,19,Alliance Party,,north-antrim,Female,PatriciaOLynn,
-North Antrim,9,12757,Mervyn,Storey,1,20,Democratic Unionist Party,,north-antrim,male,,
-North Antrim,9,4723,Robin,Swann,1,26,Ulster Unionist Party,,north-antrim,male,robinswannuup,robin.swannMLA@gmail.com
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+North Antrim,9,2134,Jim,Allister,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/images/2134.png,north-antrim,male,JimAllister,info@jimallister.org
+North Antrim,9,4723,Robin,Swann,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/550e9a869253711a232cfb99.png,north-antrim,male,RobinSwannMoH,robin.swannMLA@gmail.com
+North Antrim,9,12751,Paul,Frew,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/12751.png,north-antrim,male,paulfrewDUP,paul.frew@mla.niassembly.gov.uk
+North Antrim,9,12757,Mervyn,Storey,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/12757.png,north-antrim,male,,mervynstoreymla@gmail.com
+North Antrim,9,19673,Philip,McGuigan,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/19673.png,north-antrim,Male,mcguigan_philip,philip.mcguigan@mla.niassembly.gov.uk
+North Antrim,9,19695,Patricia,O'Lynn,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/19695.png,north-antrim,Female,PatriciaOLynn,patricia.olynn@allianceparty.org
+North Antrim,9,68193,Paul,Veronica,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/68193/02e84f21-1fdb-493b-af83-580501ccbb26.png,north-antrim,,Paulveronica,
+North Antrim,9,69092,Matthew,Armstrong,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/69092/a45ceffd-2203-423e-8866-f69803339de1.png,north-antrim,male,,Cllr.Armstrong@midandeastantrim.gov.uk
+North Antrim,9,69102,Eugene,Reid,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/images/69102-39a7b108-dd7a-46c9-996f-e310c1451c5e.png,north-antrim,male,eugenereid,Cllr.ereid@midandeastantrim.gov.uk
+North Antrim,9,84630,Bethany,Ferris,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/84630-41f99ca1-3c8f-41a7-81f6-8df6144b5cfd.png,north-antrim,Female,bethany_ferris,bethany.ferris@uup.org
+North Antrim,9,95168,Laird,Shingleton,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/95168/0efa9614-953e-4c08-a787-d19dac8ea15f.png,north-antrim,Male,lairdforulster,laird.shingleton@gmail.com

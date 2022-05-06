@@ -1,13 +1,13 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Foyle,5,7656,Stuart,Canning,,991,NI Conservatives,,foyle,Male,StuartC93,stuart.canning93@gmail.com
-Foyle,5,19694,Colm,Cavanagh,,19,Alliance Party,,foyle,Male,,
-Foyle,5,19701,Shannon,Downey,,111,Green Party,,foyle,Female,shannon_downey5,
-Foyle,5,19640,Mark H.,Durkan,1,23,Social Democratic and Labour Party,,foyle,male,MarkHDurkan,
-Foyle,5,11857,Colum,Eastwood,1,23,Social Democratic and Labour Party,,foyle,male,columeastwood,colum.eastwood@sdlp.ie
-Foyle,5,6404,Julia,Kee,,26,Ulster Unionist Party,,foyle,female,JuliaEKee,
-Foyle,5,11859,John,Lindsay,,993,Citizens Independent Social Thought Alliance,,foyle,Male,,
-Foyle,5,19678,Elisha,McCallion,,24,Sinn Fein,,foyle,female,MayorElisha,
-Foyle,5,2294,Eamonn,McCann,1,999,People Before Profit Alliance,,foyle,male,eamonnmccannpbp,peopleb4profitni@aol.com
-Foyle,5,11860,Raymond,McCartney,1,24,Sinn Fein,,foyle,male,RaymondMcCartn1,
-Foyle,5,19742,Arthur,McGuinness,,21,Independent,,foyle,Male,,
-Foyle,5,7209,Gary,Middleton,1,20,Democratic Unionist Party,,foyle,male,Gary_Middleton,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Foyle,5,7209,Gary,Middleton,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/72315-5b582878-76da-4bf3-ba13-b93a3536defd.png,foyle,male,,gary.middleton@co.niassembly.gov.uk
+Foyle,5,11862,Anne,McCloskey,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/images/74476-c780bf7d-469a-4122-9904-cb01d57f2b5d.png,foyle,Female,DrAnneDerry,anne.mccloskey@derrystrabane.com
+Foyle,5,19640,Mark H.,Durkan,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/people/19640/57d01b7a-e04e-43a8-a80f-0ba9eb0bbb2f.png,foyle,male,MarkHDurkan,mhdurkan@sdlp.ie
+Foyle,5,35060,Shaun,Harkin,"",999,People Before Profit Alliance,https://static-candidates.democracyclub.org.uk/media/images/images/35060.png,foyle,male,shaunharkin17,shaunharkin@gmail.com
+Foyle,5,49549,Sinéad,McLaughlin,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/people/49549/5492aa1c-6e98-4536-873b-d1a9e449df88.png,foyle,female,SineadMcL4Foyle,votesineadmclaughlin1@outlook.com
+Foyle,5,49734,Brian,Tierney,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/people/49734/4abd1627-b2b9-4753-82fe-a1cb636a2441.png,foyle,male,BrianTierney09,brian.tierney@derrystrabane.com
+Foyle,5,50319,Rachael,Ferguson,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/72309-13942359-b1f8-41fa-ae3d-1b918d082436.png,foyle,female,raichfer87,Rachael.Ferguson@allianceparty.org
+Foyle,5,69196,Ryan,McCready,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/84413-10b29027-a703-41a7-ad56-935731116eb7.png,foyle,Male,Ryan_McCready,ryanmccready7702@gmail.com
+Foyle,5,84452,Elizabeth,Neely,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/84452/e582bae2-4545-426e-a924-89792594b920.png,foyle,Female,,
+Foyle,5,84453,Pádraig,Delargy,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/84453/a64ea938-c565-4c0a-9892-1bf858596426.png,foyle,Male,padraig_delargy,
+Foyle,5,84454,Ciara,Ferguson,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/84454/c6d9586d-a207-4bf6-a9fc-212883ec6e3f.png,foyle,Female,ciaraf44,CiaraFergusonMLA@gmail.com
+Foyle,5,95164,Gillian,Hamilton,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/95164/0ef964b2-3aaa-4fb5-b182-8b524fa45b04.png,foyle,,,

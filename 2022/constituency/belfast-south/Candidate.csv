@@ -1,15 +1,13 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Belfast South,13,4597,Máirtín,Ó Muilleoir,1,24,Sinn Fein,,belfast-south,male,newbelfast,mairtin@newbelfast.com
-Belfast South,13,11457,John,Andrew Hiddleston,,141,Traditional Unionist Voice,,belfast-south,Male,johnhidd,
-Belfast South,13,5824,Clare,Bailey,1,111,Green Party,,belfast-south,female,ClareBaileyGPNI,claresquare@yahoo.com
-Belfast South,13,1679,Paula,Bradshaw,1,19,Alliance Party,,belfast-south,female,PaulaJaneB,paula.bradshaw@allianceparty.org
-Belfast South,13,11455,Sean,Burns,,987,Cross-Community Labour Alternative,,belfast-south,Male,SeanBurnsSP,sburnsmedia@gmail.com
-Belfast South,13,19698,Naomh,Gallagher,,23,Social Democratic and Labour Party,,belfast-south,female,naomhgallagher,
-Belfast South,13,3475,Claire,Hanna,1,23,Social Democratic and Labour Party,,belfast-south,female,ClaireHanna,clairehanna@gmail.com
-Belfast South,13,19709,Micheal,Henderson,,26,Ulster Unionist Party,,belfast-south,Male,,
-Belfast South,13,6023,George,Jabbour,,991,NI Conservatives,,belfast-south,male,JGJabbour,georgeforinverclyde@gmail.com
-Belfast South,13,6265,Lily,Kerr,,998,Workers Party,,belfast-south,female,,workerspartyni@yahoo.co.uk
-Belfast South,13,11458,Emma,Little Pengelly,1,20,Democratic Unionist Party,,belfast-south,female,little_pengelly,
-Belfast South,13,19677,Emmet,McDonough-Brown,,19,Alliance Party,,belfast-south,Male,EmmetMcDB,emmet@allianceparty.org
-Belfast South,13,19670,Pádraigín,Mervyn,,999,People Before Profit Alliance,,belfast-south,Female,,
-Belfast South,13,11461,Christopher David Matthew,Stalford,1,20,Democratic Unionist Party,,belfast-south,male,CStalfordMLA,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+Belfast South,13,1679,Paula,Bradshaw,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/551bd2a6209513973bc5129d.png,belfast-south,female,PaulaJaneB,paula.bradshaw@allianceparty.org
+Belfast South,13,5824,Clare,Bailey,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/people/5824/1f31619e-48da-4536-a3ba-dabc6f19a119.png,belfast-south,female,ClareBaileyGPNI,clare.bailey@mla.niassembly.gov.uk
+Belfast South,13,6989,Kate,Nicholl,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/551bd23d209513973bc5129b.png,belfast-south,female,KateNicholl,kate.nicholl@allianceparty.org
+Belfast South,13,11544,Edwin,Poots,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/11544/507283b6-8e27-4ecf-ac28-f5dfd21d38d9.png,belfast-south,Male,edwinpootsmla,edwin@edwinpoots.co.uk
+Belfast South,13,13035,Andrew,Girvin,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/images/13035.png,belfast-south,male,Andy_Girvin,
+Belfast South,13,68117,Stephen,McCarthy,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/68117-616d4f05-288a-43aa-bbeb-89a8ba99497c.png,belfast-south,male,smccarthynire,stephen.mccarthy@uup.org
+Belfast South,13,69242,Paddy,Lynn,"",998,Workers Party,https://static-candidates.democracyclub.org.uk/media/images/people/69242/bfba34a2-9ec9-4c84-9b60-aa7928c415e3.png,belfast-south,Male,,
+Belfast South,13,69247,Deirdre,Hargey,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/people/69247/13271745-fa14-4c29-8957-aae5e662e273.png,belfast-south,Female,DeirdreHargey,deirdrehargey@hotmail.com
+Belfast South,13,84278,Matthew,O'Toole,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/images/84278-9b3e8e4a-6b2c-4bd3-af32-87e912c70e93.png,belfast-south,male,MatthewOToole2,matthew.otoole@mla.niassembly.gov.uk
+Belfast South,13,84279,Elsie,Trainor,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/images/84279-a68b97c5-c28a-41f7-adef-8a222b864aee.png,belfast-south,female,elsietrainor,elsietrainor@yahoo.com
+Belfast South,13,84786,Sipho,Sibanda,"",999,People Before Profit Alliance,https://static-candidates.democracyclub.org.uk/media/images/people/84786/aba65b68-7acf-4b63-b3fd-3ea616e015b9.png,belfast-south,Female,QueenSips,
+Belfast South,13,95174,Elly,Odhiambo,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/95174/0b3273de-deee-4c51-8877-959eca4ffed0.png,belfast-south,male,ElyBelfastSouth,

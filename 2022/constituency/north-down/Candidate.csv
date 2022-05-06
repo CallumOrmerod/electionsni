@@ -1,13 +1,14 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-North Down,11,3876,Steven,Agnew,1,111,Green Party,,north-down,male,StevenAgnew,steven.agnew@greenpartyni.org
-North Down,11,19748,Chris,Carter,,21,Independent,,north-down,Male,,
-North Down,11,8154,Alan,Chambers,1,26,Ulster Unionist Party,,north-down,male,alcham49,alan.chambers@mla.niassembly.gov.uk
-North Down,11,6914,William,Cudworth,,26,Ulster Unionist Party,,north-down,male,cudworth12,will_cud@hotmail.com
-North Down,11,11550,Gordon Mervyn,Dunne,1,20,Democratic Unionist Party,,north-down,male,GordonDunneMLA,
-North Down,11,7178,Alex,Easton,1,20,Democratic Unionist Party,,north-down,Male,,alex@alexeastonmla.org
-North Down,11,3598,Stephen,Farry,1,19,Alliance Party,,north-down,male,StephenFarryMLA,stephen.farry@allianceparty.org
-North Down,11,19712,Melanie,Kennedy,,21,Independent,,north-down,Female,MelKennedyNI,
-North Down,11,19711,Kieran,Maxwell,,24,Sinn Fein,,north-down,Male,KieranMaxwell,
-North Down,11,19715,Caoimhe,McNeill,,23,Social Democratic and Labour Party,,north-down,Female,caoimhemcneill,
-North Down,11,19749,Gavan Aloysius,Reynolds,,21,Independent,,north-down,Male,,
-North Down,11,11548,Frank,Shivers,,991,NI Conservatives,,north-down,Male,Frankshivers,
+constituency_name,constituency_number,candidate_id,firstname,surname,outgoing_member,party_id,party_name,photo_url,directory,gender,twitter,email
+North Down,11,4588,Andrew,Muir,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/images/4588.png,north-down,male,AndrewMuirNI,andrew.muir@allianceparty.org
+North Down,11,7178,Alex,Easton,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/552251f6328bff5d39338a40.png,north-down,Male,,
+North Down,11,7235,Thérèse,McCartney,"",24,Sinn Fein,https://static-candidates.democracyclub.org.uk/media/images/images/7235.png,north-down,Female,tmccartney12,
+North Down,11,8154,Alan,Chambers,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/8154.png,north-down,male,alcham49,alan.chambers@mla.niassembly.gov.uk
+North Down,11,19748,Chris,Carter,"",21,Independent,,north-down,Male,,
+North Down,11,49889,Connie,Egan,"",19,Alliance Party,https://static-candidates.democracyclub.org.uk/media/images/people/49889/9ab17d3b-209e-405f-9266-e058f1fb0f41.png,north-down,female,connieegan94,connie.egan@alliancepartyni.org
+North Down,11,50551,Rachel,Woods,"",111,Green Party,https://static-candidates.democracyclub.org.uk/media/images/images/50551-e86b31bc-95c1-47ca-80e3-3c3ef42f3e23.png,north-down,female,rachelwoods52,northdown@nigreenparty.org
+North Down,11,68690,Ray,McKimm,"",21,Independent,https://static-candidates.democracyclub.org.uk/media/images/people/68690/0dc5c37a-c8c7-457c-88b6-a379a53a44b9.png,north-down,male,raymckimm,ray.mckimm@ardsandnorthdown.gov.uk
+North Down,11,69189,Jennifer,Gilmour,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/images/69189.png,north-down,Female,GilmourJennifer,jennifer.gilmour@ardsandnorthdown.gov.uk
+North Down,11,69368,Stephen,Dunne,"",20,Democratic Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/69368/87315963-5818-436b-9743-9fa2a2752f38.png,north-down,Male,StephenDunneDUP,info@sdunne.org
+North Down,11,84461,Déirdre,Vaughan,"",23,Social Democratic and Labour Party,https://static-candidates.democracyclub.org.uk/media/images/images/84461-61a514bb-6015-49af-9fd1-1b4598621293.png,north-down,Female,deirdre_vaughan,deirdrevaughansdlp@outlook.com
+North Down,11,84462,Naomi,McBurney,"",26,Ulster Unionist Party,https://static-candidates.democracyclub.org.uk/media/images/people/84462/5e788953-0c67-4410-b497-d871f2be7574.png,north-down,Female,NaomiMcburney,Naomi.McBurney@uup.org
+North Down,11,84463,John,Gordon,"",141,Traditional Unionist Voice,https://static-candidates.democracyclub.org.uk/media/images/people/84463/b6031e2f-5e5c-46a6-8771-b8a482b1cfa6.png,north-down,Male,,
