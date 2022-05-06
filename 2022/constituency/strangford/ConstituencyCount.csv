@@ -1,2 +1,2 @@
-Constituency_Number,Total_Poll,Spoiled,Valid_Poll,Quota,Total_Electorate,Number_Of_Seats,Constituency_Name,Voting_Age_Pop
-15,39239,454,38785,6465,64393,5,Strangford,70598
+constituency_name,consituency_number,total_electorate,total_poll,valid_poll,spoiled,quota,number_of_seats,voting_age_pop
+Strangford,15,64393,39239,38785,454,6465,5,70598

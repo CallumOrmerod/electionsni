@@ -1,2 +1,2 @@
-Constituency_Number,Total_Poll,Spoiled,Valid_Poll,Quota,Total_Electorate,Number_Of_Seats,Constituency_Name,Voting_Age_Pop
-9,48518,424,48094,8016,76739,5,North Antrim,85122
+constituency_name,consituency_number,total_electorate,total_poll,valid_poll,spoiled,quota,number_of_seats,voting_age_pop
+North Antrim,9,76739,48518,48094,424,8016,5,85122

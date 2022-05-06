@@ -1,2 +1,2 @@
-Constituency_Number,Total_Poll,Spoiled,Valid_Poll,Quota,Total_Electorate,Number_Of_Seats,Constituency_Name,Voting_Age_Pop
-12,42726,382,42344,7058,68475,5,South Antrim,76066
+constituency_name,consituency_number,total_electorate,total_poll,valid_poll,spoiled,quota,number_of_seats,voting_age_pop
+South Antrim,12,68475,42726,42344,382,7058,5,76066

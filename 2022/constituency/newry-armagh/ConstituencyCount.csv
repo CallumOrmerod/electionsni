@@ -1,2 +1,2 @@
-Constituency_Number,Total_Poll,Spoiled,Valid_Poll,Quota,Total_Electorate,Number_Of_Seats,Constituency_Name,Voting_Age_Pop
-8,55625,707,54918,9154,80140,5,Newry and Armagh,85884
+constituency_name,consituency_number,total_electorate,total_poll,valid_poll,spoiled,quota,number_of_seats,voting_age_pop
+Newry and Armagh,8,80140,55625,54918,707,9154,5,85884

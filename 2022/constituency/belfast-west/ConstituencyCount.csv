@@ -1,2 +1,2 @@
-Constituency_Number,Total_Poll,Spoiled,Valid_Poll,Quota,Total_Electorate,Number_Of_Seats,Constituency_Name,Voting_Age_Pop
-17,40930,586,40344,6725,61309,5,Belfast West,69817
+constituency_name,consituency_number,total_electorate,total_poll,valid_poll,spoiled,quota,number_of_seats,voting_age_pop
+Belfast West,17,61309,40930,40344,586,6725,5,69817
