@@ -45,7 +45,7 @@ with open(folder_path + 'all-candidates.json', 'w') as outfile:
 party_candidates = (candidates.groupby(['Party_Name', 'Party_Id'])
                              .apply(lambda x: x[['Surname','Firstname', 'Gender', 'Twitter', 'Constituency_Name', 'Constituency_Number', 'Party_Name', 'Outgoing_Member', 'Candidate_Id', 'Directory', 'Party_Id', 'Email', 'Photo_URL']].to_dict('records'))
                              .reset_index()
-                             .rename(columns={0:'Candidates'})
+                             .rename(columns={"Party_Id":"Party_Number",0:'Candidates'})
                              .to_json(orient='records'))
 
 party_candidates_full = {'Parties':json.loads(party_candidates)}
