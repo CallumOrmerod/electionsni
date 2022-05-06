@@ -34,11 +34,10 @@ cons_candidates = (candidates.groupby(['Constituency_Name', 'Constituency_Number
                              .to_json(orient='records'))
 
 cons_candidates_full = {'Constituencies':json.loads(cons_candidates)}
-
 #print(json.loads(cons_candidates_full))
 
 with open(folder_path + 'all-candidates.json', 'w') as outfile:
-    outfile.write(json.dumps(json.loads(cons_candidates), indent=2))
+    outfile.write(json.dumps(cons_candidates_full, indent=2))
     #json.dump(cons_candidates_full, outfile)
 
 #print (json.dumps(cons_candidates_full, indent=4))
