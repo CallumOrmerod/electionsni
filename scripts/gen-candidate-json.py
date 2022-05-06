@@ -35,8 +35,10 @@ cons_candidates = (candidates.groupby(['Constituency_Name', 'Constituency_Number
 
 cons_candidates_full = {'Constituencies':json.loads(cons_candidates)}
 
+#print(json.loads(cons_candidates_full))
+
 with open(folder_path + 'all-candidates.json', 'w') as outfile:
-    outfile.write(json.dumps(cons_candidates_full, indent=4))
+    outfile.write(json.dumps(json.loads(cons_candidates), indent=2))
     #json.dump(cons_candidates_full, outfile)
 
 #print (json.dumps(cons_candidates_full, indent=4))
@@ -51,7 +53,7 @@ party_candidates = (candidates.groupby(['Party_Name', 'Party_Id'])
 party_candidates_full = {'Parties':json.loads(party_candidates)}
 
 with open(folder_path + 'all-party-candidates.json', 'w') as outfile:
-    outfile.write(json.dumps(party_candidates_full, indent=4))
+    outfile.write(json.dumps(party_candidates_full, indent=2))
     #json.dump(party_candidates_full, outfile)
 
 
