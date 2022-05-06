@@ -3,7 +3,7 @@ import pandas as pd
 
 path_init = 'E:/Personal/Github/electionsni/2022/constituency/'
 
-constituency = 'strangford'
+constituency = 'belfast-north'
 
 full_path = path_init + constituency + '/'
 
@@ -53,6 +53,6 @@ with open(full_path + 'Resultsjson.json', 'w') as outfile:
 
 
 
-print(new_results)
+#print(new_results)
 
 
