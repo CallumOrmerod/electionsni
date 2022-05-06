@@ -7,6 +7,9 @@ folder_path = 'E:/Personal/Github/electionsni/2022/NI/'
 
 candidates = pd.read_csv(folder_path + 'full-candidates-list.csv',encoding='UTF-8')
 candidates.fillna('', inplace=True)
+candidates['party_id'] = candidates['party_id'].astype(str)
+candidates['constituency_number'] = candidates['constituency_number'].astype(str)
+candidates['candidate_id'] = candidates['candidate_id'].astype(str)
 
 cons_candidates = (candidates.groupby(['constituency_name', 'constituency_number'])
                              .apply(lambda x: x[['surname','firstname', 'gender', 'twitter', 'constituency_name', 'constituency_number', 'party_name', 'outgoing_member', 'candidate_id', 'directory', 'party_id', 'email', 'photo_url']].to_dict('records'))
