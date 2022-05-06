@@ -1,0 +1,20 @@
+Party_Id,Party_Name,Party_Abbreviation,Hex_Col,DClub_Id
+19,Alliance Party,APNI,#FDD835,party:103
+1000,Aontú,AON,#4CAF50,party.7968
+991,Conservative and Unionist Party,CON,#B0BEC5,party.51
+987,Cross-Community Labour Alternative,CCLAB,#E57373 ,party:4037
+20,Democratic Unionist Party,DUP,#FF5722,party:70
+111,Green Party,GPNI,#64DD17,party:305
+1002,Heritage Party,HER,#B0BEC5,party.12553
+21,Independent,IND,#B0BEC5,ynmp-party:2
+1003,Irish Republican Socialist Party,SOC,#B0BEC5,party.14057
+999,People Before Profit Alliance,PBP,#E91E63,party:773
+994,Progressive Unionist Party,PUP,#880E4F,party:101
+24,Sinn Fein,SF,#4CAF50,party:39
+23,Social Democratic and Labour Party,SDLP,#E53935,party:55
+1004,Socialist Party (Northern Ireland),SOC,#FF0000,party.28
+1005,The Resume Party (NI),RES,#B0BEC5,party.14009
+141,Traditional Unionist Voice,TUV,#303F9F,party:680
+689,UK Independence Party,UKIP,#9C27B0,party:84
+26,Ulster Unionist Party,UUP,#03A9F4,party:83
+998,Workers Party,WP,#FF0000,party:127
