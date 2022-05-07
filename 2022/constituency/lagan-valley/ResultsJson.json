@@ -214,8 +214,8 @@
                 "Firstname": "Jeffrey",
                 "Surname": "Donaldson",
                 "Candidate_First_Pref_Votes": "12626",
-                "Transfers": "0.0",
-                "Total_Votes": "12626.0",
+                "Transfers": "-4120.0",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -331,8 +331,8 @@
                 "Firstname": "Robbie",
                 "Surname": "Butler",
                 "Candidate_First_Pref_Votes": "8242",
-                "Transfers": "0.0",
-                "Total_Votes": "8632.1",
+                "Transfers": "-126.1",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -357,8 +357,8 @@
                 "Firstname": "Amanda",
                 "Surname": "Doherty",
                 "Candidate_First_Pref_Votes": "271",
-                "Transfers": "0.0",
-                "Total_Votes": "272.9",
+                "Transfers": "-272.9",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "People Before Profit Alliance"
@@ -371,7 +371,7 @@
                 "Surname": "Donaldson",
                 "Candidate_First_Pref_Votes": "12626",
                 "Transfers": "0.0",
-                "Total_Votes": "12626.0",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -488,7 +488,7 @@
                 "Surname": "Butler",
                 "Candidate_First_Pref_Votes": "8242",
                 "Transfers": "0.0",
-                "Total_Votes": "8632.1",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -514,7 +514,7 @@
                 "Surname": "Doherty",
                 "Candidate_First_Pref_Votes": "271",
                 "Transfers": "0.0",
-                "Total_Votes": "272.9",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "People Before Profit Alliance"
@@ -527,7 +527,7 @@
                 "Surname": "Donaldson",
                 "Candidate_First_Pref_Votes": "12626",
                 "Transfers": "0.0",
-                "Total_Votes": "12626.0",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -578,8 +578,8 @@
                 "Firstname": "Gary",
                 "Surname": "Hynds",
                 "Candidate_First_Pref_Votes": "735",
-                "Transfers": "0.0",
-                "Total_Votes": "769.1",
+                "Transfers": "-769.1",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Independent"
@@ -591,8 +591,8 @@
                 "Firstname": "Simon",
                 "Surname": "Lee",
                 "Candidate_First_Pref_Votes": "648",
-                "Transfers": "0.0",
-                "Total_Votes": "720.1",
+                "Transfers": "-720.1",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Green Party"
@@ -644,7 +644,7 @@
                 "Surname": "Butler",
                 "Candidate_First_Pref_Votes": "8242",
                 "Transfers": "0.0",
-                "Total_Votes": "8632.1",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -670,7 +670,7 @@
                 "Surname": "Doherty",
                 "Candidate_First_Pref_Votes": "271",
                 "Transfers": "0.0",
-                "Total_Votes": "272.9",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "People Before Profit Alliance"
@@ -683,7 +683,7 @@
                 "Surname": "Donaldson",
                 "Candidate_First_Pref_Votes": "12626",
                 "Transfers": "0.0",
-                "Total_Votes": "12626.0",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -695,8 +695,8 @@
                 "Firstname": "Sorcha-Lucy",
                 "Surname": "Eastwood",
                 "Candidate_First_Pref_Votes": "8211",
-                "Transfers": "0.0",
-                "Total_Votes": "8643.8",
+                "Transfers": "-137.8",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Alliance Party"
@@ -708,8 +708,8 @@
                 "Firstname": "Paul",
                 "Surname": "Givan",
                 "Candidate_First_Pref_Votes": "5062",
-                "Transfers": "0.0",
-                "Total_Votes": "8568.5",
+                "Transfers": "-62.5",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -735,7 +735,7 @@
                 "Surname": "Hynds",
                 "Candidate_First_Pref_Votes": "735",
                 "Transfers": "0.0",
-                "Total_Votes": "769.1",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Independent"
@@ -748,7 +748,7 @@
                 "Surname": "Lee",
                 "Candidate_First_Pref_Votes": "648",
                 "Transfers": "0.0",
-                "Total_Votes": "720.1",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Green Party"
@@ -786,8 +786,8 @@
                 "Firstname": "Laura",
                 "Surname": "Turner",
                 "Candidate_First_Pref_Votes": "1607",
-                "Transfers": "0.0",
-                "Total_Votes": "1862.8",
+                "Transfers": "-1862.8",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -800,7 +800,7 @@
                 "Surname": "Butler",
                 "Candidate_First_Pref_Votes": "8242",
                 "Transfers": "0.0",
-                "Total_Votes": "8632.1",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -826,7 +826,7 @@
                 "Surname": "Doherty",
                 "Candidate_First_Pref_Votes": "271",
                 "Transfers": "0.0",
-                "Total_Votes": "272.9",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "People Before Profit Alliance"
@@ -839,7 +839,7 @@
                 "Surname": "Donaldson",
                 "Candidate_First_Pref_Votes": "12626",
                 "Transfers": "0.0",
-                "Total_Votes": "12626.0",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -852,7 +852,7 @@
                 "Surname": "Eastwood",
                 "Candidate_First_Pref_Votes": "8211",
                 "Transfers": "0.0",
-                "Total_Votes": "8643.8",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Alliance Party"
@@ -865,7 +865,7 @@
                 "Surname": "Givan",
                 "Candidate_First_Pref_Votes": "5062",
                 "Transfers": "0.0",
-                "Total_Votes": "8568.5",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -891,7 +891,7 @@
                 "Surname": "Hynds",
                 "Candidate_First_Pref_Votes": "735",
                 "Transfers": "0.0",
-                "Total_Votes": "769.1",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Independent"
@@ -904,7 +904,7 @@
                 "Surname": "Lee",
                 "Candidate_First_Pref_Votes": "648",
                 "Transfers": "0.0",
-                "Total_Votes": "720.1",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Green Party"
@@ -916,8 +916,8 @@
                 "Firstname": "Gary",
                 "Surname": "McCleave",
                 "Candidate_First_Pref_Votes": "2725",
-                "Transfers": "0.0",
-                "Total_Votes": "2805.5",
+                "Transfers": "-2805.5",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 5.0,
                 "Party_Name": "Sinn Fein"
@@ -943,7 +943,7 @@
                 "Surname": "Turner",
                 "Candidate_First_Pref_Votes": "1607",
                 "Transfers": "0.0",
-                "Total_Votes": "1862.8",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -956,7 +956,7 @@
                 "Surname": "Butler",
                 "Candidate_First_Pref_Votes": "8242",
                 "Transfers": "0.0",
-                "Total_Votes": "8632.1",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -982,7 +982,7 @@
                 "Surname": "Doherty",
                 "Candidate_First_Pref_Votes": "271",
                 "Transfers": "0.0",
-                "Total_Votes": "272.9",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "People Before Profit Alliance"
@@ -995,7 +995,7 @@
                 "Surname": "Donaldson",
                 "Candidate_First_Pref_Votes": "12626",
                 "Transfers": "0.0",
-                "Total_Votes": "12626.0",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -1008,7 +1008,7 @@
                 "Surname": "Eastwood",
                 "Candidate_First_Pref_Votes": "8211",
                 "Transfers": "0.0",
-                "Total_Votes": "8643.8",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Alliance Party"
@@ -1021,7 +1021,7 @@
                 "Surname": "Givan",
                 "Candidate_First_Pref_Votes": "5062",
                 "Transfers": "0.0",
-                "Total_Votes": "8568.5",
+                "Total_Votes": "8506.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -1047,7 +1047,7 @@
                 "Surname": "Hynds",
                 "Candidate_First_Pref_Votes": "735",
                 "Transfers": "0.0",
-                "Total_Votes": "769.1",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Independent"
@@ -1060,7 +1060,7 @@
                 "Surname": "Lee",
                 "Candidate_First_Pref_Votes": "648",
                 "Transfers": "0.0",
-                "Total_Votes": "720.1",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Green Party"
@@ -1073,7 +1073,7 @@
                 "Surname": "McCleave",
                 "Candidate_First_Pref_Votes": "2725",
                 "Transfers": "0.0",
-                "Total_Votes": "2805.5",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 5.0,
                 "Party_Name": "Sinn Fein"
@@ -1085,8 +1085,8 @@
                 "Firstname": "Lorna",
                 "Surname": "Smyth",
                 "Candidate_First_Pref_Votes": "3488",
-                "Transfers": "0.0",
-                "Total_Votes": "4475.8",
+                "Transfers": "-4475.8",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 6.0,
                 "Party_Name": "Traditional Unionist Voice"
@@ -1099,7 +1099,7 @@
                 "Surname": "Turner",
                 "Candidate_First_Pref_Votes": "1607",
                 "Transfers": "0.0",
-                "Total_Votes": "1862.8",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Ulster Unionist Party"

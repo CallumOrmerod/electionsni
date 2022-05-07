@@ -14,7 +14,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,8114,2,Robbie,Butler,8242,390.1,8632.1,Elected,2,Ulster Unionist Party
 6,7180,2,Pat,Catney,3235,7.7,3242.7,,,Social Democratic and Labour Party
 6,95161,2,Amanda,Doherty,271,1.9,272.9,Excluded,2,People Before Profit Alliance
-6,1858,2,Jeffrey,Donaldson,12626,0,12626,Elected,1,Democratic Unionist Party
+6,1858,2,Jeffrey,Donaldson,12626,-4120,8506,Elected,1,Democratic Unionist Party
 6,19688,2,Sorcha-Lucy,Eastwood,8211,25.5,8236.5,,,Alliance Party
 6,11540,2,Paul,Givan,5062,3315.2,8377.2,,,Democratic Unionist Party
 6,50410,2,David,Honeyford,4183,15.3,4198.3,,,Alliance Party
@@ -23,10 +23,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,49796,2,Gary,McCleave,2725,1.9,2726.9,,,Sinn Fein
 6,84456,2,Lorna,Smyth,3488,170.9,3658.9,,,Traditional Unionist Voice
 6,84455,2,Laura,Turner,1607,51.8,1658.8,,,Ulster Unionist Party
-6,8114,3,Robbie,Butler,8242,0,8632.1,Elected,2,Ulster Unionist Party
+6,8114,3,Robbie,Butler,8242,-126.1,8506,Elected,2,Ulster Unionist Party
 6,7180,3,Pat,Catney,3235,43,3285.7,,,Social Democratic and Labour Party
-6,95161,3,Amanda,Doherty,271,0,272.9,Excluded,2,People Before Profit Alliance
-6,1858,3,Jeffrey,Donaldson,12626,0,12626,Elected,1,Democratic Unionist Party
+6,95161,3,Amanda,Doherty,271,-272.9,0,Excluded,2,People Before Profit Alliance
+6,1858,3,Jeffrey,Donaldson,12626,0,8506,Elected,1,Democratic Unionist Party
 6,19688,3,Sorcha-Lucy,Eastwood,8211,80.3,8316.8,,,Alliance Party
 6,11540,3,Paul,Givan,5062,7.3,8384.5,,,Democratic Unionist Party
 6,50410,3,David,Honeyford,4183,15.3,4213.6,,,Alliance Party
@@ -35,51 +35,51 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,49796,3,Gary,McCleave,2725,23,2749.9,,,Sinn Fein
 6,84456,3,Lorna,Smyth,3488,6,3664.9,,,Traditional Unionist Voice
 6,84455,3,Laura,Turner,1607,4,1662.8,,,Ulster Unionist Party
-6,8114,4,Robbie,Butler,8242,0,8632.1,Elected,2,Ulster Unionist Party
+6,8114,4,Robbie,Butler,8242,0,8506,Elected,2,Ulster Unionist Party
 6,7180,4,Pat,Catney,3235,140,3425.7,,,Social Democratic and Labour Party
-6,95161,4,Amanda,Doherty,271,0,272.9,Excluded,2,People Before Profit Alliance
-6,1858,4,Jeffrey,Donaldson,12626,0,12626,Elected,1,Democratic Unionist Party
+6,95161,4,Amanda,Doherty,271,0,0,Excluded,2,People Before Profit Alliance
+6,1858,4,Jeffrey,Donaldson,12626,0,8506,Elected,1,Democratic Unionist Party
 6,19688,4,Sorcha-Lucy,Eastwood,8211,327,8643.8,Elected,4,Alliance Party
 6,11540,4,Paul,Givan,5062,184,8568.5,Elected,4,Democratic Unionist Party
 6,50410,4,David,Honeyford,4183,193,4406.6,,,Alliance Party
-6,19722,4,Gary,Hynds,735,0,769.1,Excluded,3,Independent
-6,12440,4,Simon,Lee,648,0,720.1,Excluded,3,Green Party
+6,19722,4,Gary,Hynds,735,-769.1,0,Excluded,3,Independent
+6,12440,4,Simon,Lee,648,-720.1,0,Excluded,3,Green Party
 6,49796,4,Gary,McCleave,2725,48,2797.9,,,Sinn Fein
 6,84456,4,Lorna,Smyth,3488,200,3864.9,,,Traditional Unionist Voice
 6,84455,4,Laura,Turner,1607,200,1862.8,Excluded,4,Ulster Unionist Party
-6,8114,5,Robbie,Butler,8242,0,8632.1,Elected,2,Ulster Unionist Party
+6,8114,5,Robbie,Butler,8242,0,8506,Elected,2,Ulster Unionist Party
 6,7180,5,Pat,Catney,3235,140.2,3565.9,,,Social Democratic and Labour Party
-6,95161,5,Amanda,Doherty,271,0,272.9,Excluded,2,People Before Profit Alliance
-6,1858,5,Jeffrey,Donaldson,12626,0,12626,Elected,1,Democratic Unionist Party
-6,19688,5,Sorcha-Lucy,Eastwood,8211,0,8643.8,Elected,4,Alliance Party
-6,11540,5,Paul,Givan,5062,0,8568.5,Elected,4,Democratic Unionist Party
+6,95161,5,Amanda,Doherty,271,0,0,Excluded,2,People Before Profit Alliance
+6,1858,5,Jeffrey,Donaldson,12626,0,8506,Elected,1,Democratic Unionist Party
+6,19688,5,Sorcha-Lucy,Eastwood,8211,-137.8,8506,Elected,4,Alliance Party
+6,11540,5,Paul,Givan,5062,-62.5,8506,Elected,4,Democratic Unionist Party
 6,50410,5,David,Honeyford,4183,583.6,4990.2,,,Alliance Party
-6,19722,5,Gary,Hynds,735,0,769.1,Excluded,3,Independent
-6,12440,5,Simon,Lee,648,0,720.1,Excluded,3,Green Party
+6,19722,5,Gary,Hynds,735,0,0,Excluded,3,Independent
+6,12440,5,Simon,Lee,648,0,0,Excluded,3,Green Party
 6,49796,5,Gary,McCleave,2725,7.6,2805.5,Excluded,5,Sinn Fein
 6,84456,5,Lorna,Smyth,3488,598.6,4463.5,,,Traditional Unionist Voice
-6,84455,5,Laura,Turner,1607,0,1862.8,Excluded,4,Ulster Unionist Party
-6,8114,6,Robbie,Butler,8242,0,8632.1,Elected,2,Ulster Unionist Party
+6,84455,5,Laura,Turner,1607,-1862.8,0,Excluded,4,Ulster Unionist Party
+6,8114,6,Robbie,Butler,8242,0,8506,Elected,2,Ulster Unionist Party
 6,7180,6,Pat,Catney,3235,1833.6,5399.5,,,Social Democratic and Labour Party
-6,95161,6,Amanda,Doherty,271,0,272.9,Excluded,2,People Before Profit Alliance
-6,1858,6,Jeffrey,Donaldson,12626,0,12626,Elected,1,Democratic Unionist Party
-6,19688,6,Sorcha-Lucy,Eastwood,8211,0,8643.8,Elected,4,Alliance Party
-6,11540,6,Paul,Givan,5062,0,8568.5,Elected,4,Democratic Unionist Party
+6,95161,6,Amanda,Doherty,271,0,0,Excluded,2,People Before Profit Alliance
+6,1858,6,Jeffrey,Donaldson,12626,0,8506,Elected,1,Democratic Unionist Party
+6,19688,6,Sorcha-Lucy,Eastwood,8211,0,8506,Elected,4,Alliance Party
+6,11540,6,Paul,Givan,5062,0,8506,Elected,4,Democratic Unionist Party
 6,50410,6,David,Honeyford,4183,613.3,5603.5,,,Alliance Party
-6,19722,6,Gary,Hynds,735,0,769.1,Excluded,3,Independent
-6,12440,6,Simon,Lee,648,0,720.1,Excluded,3,Green Party
-6,49796,6,Gary,McCleave,2725,0,2805.5,Excluded,5,Sinn Fein
+6,19722,6,Gary,Hynds,735,0,0,Excluded,3,Independent
+6,12440,6,Simon,Lee,648,0,0,Excluded,3,Green Party
+6,49796,6,Gary,McCleave,2725,-2805.5,0,Excluded,5,Sinn Fein
 6,84456,6,Lorna,Smyth,3488,12.3,4475.8,Excluded,6,Traditional Unionist Voice
-6,84455,6,Laura,Turner,1607,0,1862.8,Excluded,4,Ulster Unionist Party
-6,8114,7,Robbie,Butler,8242,0,8632.1,Elected,2,Ulster Unionist Party
+6,84455,6,Laura,Turner,1607,0,0,Excluded,4,Ulster Unionist Party
+6,8114,7,Robbie,Butler,8242,0,8506,Elected,2,Ulster Unionist Party
 6,7180,7,Pat,Catney,3235,296.5,5696,Excluded,7,Social Democratic and Labour Party
-6,95161,7,Amanda,Doherty,271,0,272.9,Excluded,2,People Before Profit Alliance
-6,1858,7,Jeffrey,Donaldson,12626,0,12626,Elected,1,Democratic Unionist Party
-6,19688,7,Sorcha-Lucy,Eastwood,8211,0,8643.8,Elected,4,Alliance Party
-6,11540,7,Paul,Givan,5062,0,8568.5,Elected,4,Democratic Unionist Party
+6,95161,7,Amanda,Doherty,271,0,0,Excluded,2,People Before Profit Alliance
+6,1858,7,Jeffrey,Donaldson,12626,0,8506,Elected,1,Democratic Unionist Party
+6,19688,7,Sorcha-Lucy,Eastwood,8211,0,8506,Elected,4,Alliance Party
+6,11540,7,Paul,Givan,5062,0,8506,Elected,4,Democratic Unionist Party
 6,50410,7,David,Honeyford,4183,735.1,6338.6,Elected,7,Alliance Party
-6,19722,7,Gary,Hynds,735,0,769.1,Excluded,3,Independent
-6,12440,7,Simon,Lee,648,0,720.1,Excluded,3,Green Party
-6,49796,7,Gary,McCleave,2725,0,2805.5,Excluded,5,Sinn Fein
-6,84456,7,Lorna,Smyth,3488,0,4475.8,Excluded,6,Traditional Unionist Voice
-6,84455,7,Laura,Turner,1607,0,1862.8,Excluded,4,Ulster Unionist Party
+6,19722,7,Gary,Hynds,735,0,0,Excluded,3,Independent
+6,12440,7,Simon,Lee,648,0,0,Excluded,3,Green Party
+6,49796,7,Gary,McCleave,2725,0,0,Excluded,5,Sinn Fein
+6,84456,7,Lorna,Smyth,3488,-4475.8,0,Excluded,6,Traditional Unionist Voice
+6,84455,7,Laura,Turner,1607,0,0,Excluded,4,Ulster Unionist Party
