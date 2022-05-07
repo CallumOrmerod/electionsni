@@ -1,28 +1,61 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-8,11394,1,Cathal,Boylan,9197,0.00,9197.00,Elected,1,Sinn Fein
-8,19696,1,Jackie,Coade,1418,0.00,1418.00,Excluded,1,Alliance Party
-8,11395,1,Emmet,Crossan,704,0.00,704.00,Excluded,1,Citizens Independent Social Thought Alliance
-8,11396,1,Megan,Fearon,8881,0.00,8881.00,,,Sinn Fein
-8,1872,1,William George,Irwin,9760,0.00,9760.00,Elected,1,Democratic Unionist Party
-8,31,1,Danny,Kennedy,7256,0.00,7256.00,,,Ulster Unionist Party
-8,6086,1,Justin,McNulty,8983,0.00,8983.00,,,Social Democratic and Labour Party
-8,1856,1,Conor,Murphy,8454,0.00,8454.00,,,Sinn Fein
-8,19702,1,Rowan,Tunnicliffe,265,0.00,265.00,Excluded,1,Green Party
-8,11394,2,Cathal,Boylan,9197,0.00,9197.00,Elected,1,Sinn Fein
-8,19696,2,Jackie,Coade,1418,-1418.00,0.00,Excluded,1,Alliance Party
-8,11395,2,Emmet,Crossan,704,-704.00,0.00,Excluded,1,Citizens Independent Social Thought Alliance
-8,11396,2,Megan,Fearon,8881,294.00,9175.00,Elected,2,Sinn Fein
-8,1872,2,William George,Irwin,9760,0.00,9760.00,Elected,1,Democratic Unionist Party
-8,31,2,Danny,Kennedy,7256,419.00,7675.00,,,Ulster Unionist Party
-8,6086,2,Justin,McNulty,8983,1102.00,10085.00,Elected,2,Social Democratic and Labour Party
-8,1856,2,Conor,Murphy,8454,227.00,8681.00,,,Sinn Fein
-8,19702,2,Rowan,Tunnicliffe,265,-265.00,0.00,Excluded,1,Green Party
-8,11394,3,Cathal,Boylan,9197,0.00,9197.00,Elected,1,Sinn Fein
-8,19696,3,Jackie,Coade,1418,0.00,0.00,Excluded,1,Alliance Party
-8,11395,3,Emmet,Crossan,704,0.00,0.00,Excluded,1,Citizens Independent Social Thought Alliance
-8,11396,3,Megan,Fearon,8881,0.00,9175.00,Elected,2,Sinn Fein
-8,1872,3,William George,Irwin,9760,0.00,9760.00,Elected,1,Democratic Unionist Party
-8,31,3,Danny,Kennedy,7256,264.00,7939.00,Excluded,3,Ulster Unionist Party
-8,6086,3,Justin,McNulty,8983,-931.00,9154.00,Elected,2,Social Democratic and Labour Party
-8,1856,3,Conor,Murphy,8454,337.00,9018.00,Elected,3,Sinn Fein
-8,19702,3,Rowan,Tunnicliffe,265,0.00,0.00,Excluded,1,Green Party
+8,11394,1,Cathal,Boylan,9843,0,9843,Elected,1,Sinn Fein
+8,19696,1,Jackie,Coade,3345,0,3345,,,Alliance Party
+8,84623,1,Daniel,Connolly,1189,0,1189,Excluded,1,Aontu
+8,95167,1,Nicola,Grant,160,0,160,Excluded,1,Workers Party
+8,84460,1,Ciara,Henry,314,0,314,Excluded,1,Green Party
+8,1872,1,William George,Irwin,7577,0,7577,,,Democratic Unionist Party
+8,69375,1,Liz,Kimmins,7964,0,7964,,,Sinn Fein
+8,69376,1,Gavin,Malone,3157,0,3157,,,Independent
+8,6086,1,Justin,McNulty,6217,0,6217,,,Social Democratic and Labour Party
+8,1856,1,Conor,Murphy,9847,0,9847,Elected,1,Sinn Fein
+8,84459,1,Keith,Ratcliffe,5407,0,5407,,,Traditional Unionist Voice
+8,69020,1,David,Taylor,3864,0,3864,,,Ulster Unionist Party
+8,11394,2,Cathal,Boylan,9843,-28,9815,Elected,1,Sinn Fein
+8,19696,2,Jackie,Coade,3345,292,3637,,,Alliance Party
+8,84623,2,Daniel,Connolly,1189,-1189,0,Excluded,1,Aontu
+8,95167,2,Nicola,Grant,160,-160,0,Excluded,1,Workers Party
+8,84460,2,Ciara,Henry,314,-314,0,Excluded,1,Green Party
+8,1872,2,William George,Irwin,7577,91,7668,,,Democratic Unionist Party
+8,69375,2,Liz,Kimmins,7964,228,8192,,,Sinn Fein
+8,69376,2,Gavin,Malone,3157,223,3380,Excluded,2,Independent
+8,6086,2,Justin,McNulty,6217,368,6585,,,Social Democratic and Labour Party
+8,1856,2,Conor,Murphy,9847,-32,9815,Elected,1,Sinn Fein
+8,84459,2,Keith,Ratcliffe,5407,29,5436,,,Traditional Unionist Voice
+8,69020,2,David,Taylor,3864,31,3895,,,Ulster Unionist Party
+8,11394,3,Cathal,Boylan,9843,0,9815,Elected,1,Sinn Fein
+8,19696,3,Jackie,Coade,3345,451,4088,,,Alliance Party
+8,84623,3,Daniel,Connolly,1189,0,0,Excluded,1,Aontu
+8,95167,3,Nicola,Grant,160,0,0,Excluded,1,Workers Party
+8,84460,3,Ciara,Henry,314,0,0,Excluded,1,Green Party
+8,1872,3,William George,Irwin,7577,52,7720,,,Democratic Unionist Party
+8,69375,3,Liz,Kimmins,7964,1272,9464,,,Sinn Fein
+8,69376,3,Gavin,Malone,3157,-3380,0,Excluded,2,Independent
+8,6086,3,Justin,McNulty,6217,898,7483,,,Social Democratic and Labour Party
+8,1856,3,Conor,Murphy,9847,0,9815,Elected,1,Sinn Fein
+8,84459,3,Keith,Ratcliffe,5407,25,5461,,,Traditional Unionist Voice
+8,69020,3,David,Taylor,3864,61,3956,Excluded,3,Ulster Unionist Party
+8,11394,4,Cathal,Boylan,9843,0,9815,Elected,1,Sinn Fein
+8,19696,4,Jackie,Coade,3345,653,4741,Excluded,4,Alliance Party
+8,84623,4,Daniel,Connolly,1189,0,0,Excluded,1,Aontu
+8,95167,4,Nicola,Grant,160,0,0,Excluded,1,Workers Party
+8,84460,4,Ciara,Henry,314,0,0,Excluded,1,Green Party
+8,1872,4,William George,Irwin,7577,1694,9414,,,Democratic Unionist Party
+8,69375,4,Liz,Kimmins,7964,8,9472,,,Sinn Fein
+8,69376,4,Gavin,Malone,3157,0,0,Excluded,2,Independent
+8,6086,4,Justin,McNulty,6217,203,7686,,,Social Democratic and Labour Party
+8,1856,4,Conor,Murphy,9847,0,9815,Elected,1,Sinn Fein
+8,84459,4,Keith,Ratcliffe,5407,1245,6706,,,Traditional Unionist Voice
+8,69020,4,David,Taylor,3864,-3956,0,Excluded,3,Ulster Unionist Party
+8,11394,5,Cathal,Boylan,9843,0,9815,Elected,1,Sinn Fein
+8,19696,5,Jackie,Coade,3345,-4741,0,Excluded,4,Alliance Party
+8,84623,5,Daniel,Connolly,1189,0,0,Excluded,1,Aontu
+8,95167,5,Nicola,Grant,160,0,0,Excluded,1,Workers Party
+8,84460,5,Ciara,Henry,314,0,0,Excluded,1,Green Party
+8,1872,5,William George,Irwin,7577,370,9784,Elected,5,Democratic Unionist Party
+8,69375,5,Liz,Kimmins,7964,497,9969,Elected,5,Sinn Fein
+8,69376,5,Gavin,Malone,3157,0,0,Excluded,2,Independent
+8,6086,5,Justin,McNulty,6217,2545,10231,Elected,5,Social Democratic and Labour Party
+8,1856,5,Conor,Murphy,9847,0,9815,Elected,1,Sinn Fein
+8,84459,5,Keith,Ratcliffe,5407,186,6892,Excluded,5,Traditional Unionist Voice
+8,69020,5,David,Taylor,3864,0,0,Excluded,3,Ulster Unionist Party
