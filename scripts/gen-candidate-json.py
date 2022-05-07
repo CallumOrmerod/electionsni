@@ -3,7 +3,7 @@ import json
 
 #Variables
 year = 2022
-folder_path = 'E:/Personal/Github/electionsni/2022/NI/'
+folder_path = 'C:/Personal/Github/electionsni/2022/NI/'
 
 candidates = pd.read_csv(folder_path + 'full-candidates-list.csv',encoding='UTF-8')
 candidates.fillna('', inplace=True)

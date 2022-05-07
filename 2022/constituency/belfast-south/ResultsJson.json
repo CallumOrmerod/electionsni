@@ -1,18 +1,16 @@
 {
     "Constituency": {
-        "countInfo": [
-            {
-                "Constituency_Name": "Belfast South",
-                "Constituency_Number": "13",
-                "Total_Electorate": "73497",
-                "Total_Poll": "47306",
-                "Valid_Poll": "46938",
-                "Spoiled": "368",
-                "Quota": "7824",
-                "Number_Of_Seats": "5",
-                "Voting_Age_Pop": "91756"
-            }
-        ],
+        "countInfo": {
+            "Constituency_Name": "Belfast South",
+            "Constituency_Number": "13",
+            "Total_Electorate": "73497",
+            "Total_Poll": "47306",
+            "Valid_Poll": "46938",
+            "Spoiled": "368",
+            "Quota": "7824",
+            "Number_Of_Seats": "5",
+            "Voting_Age_Pop": "91756"
+        },
         "countGroup": [
             {
                 "Constituency_Number": "13",

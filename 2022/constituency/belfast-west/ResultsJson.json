@@ -1,18 +1,16 @@
 {
     "Constituency": {
-        "countInfo": [
-            {
-                "Constituency_Name": "Belfast West",
-                "Constituency_Number": "17",
-                "Total_Electorate": "68727",
-                "Total_Poll": "48727",
-                "Valid_Poll": "43664",
-                "Spoiled": "776",
-                "Quota": "7278",
-                "Number_Of_Seats": "5",
-                "Voting_Age_Pop": "69817"
-            }
-        ],
+        "countInfo": {
+            "Constituency_Name": "Belfast West",
+            "Constituency_Number": "17",
+            "Total_Electorate": "68727",
+            "Total_Poll": "48727",
+            "Valid_Poll": "43664",
+            "Spoiled": "776",
+            "Quota": "7278",
+            "Number_Of_Seats": "5",
+            "Voting_Age_Pop": "69817"
+        },
         "countGroup": [
             {
                 "Constituency_Number": "17",

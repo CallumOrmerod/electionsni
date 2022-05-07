@@ -3,7 +3,7 @@ import json
 
 #Variables
 year = 2022
-folder_path = 'E:/Personal/Github/electionsni/2022/NI/'
+folder_path = 'C:/Personal/Github/electionsni/2022/NI/'
 
 cons_info = pd.read_csv(folder_path + 'all-constituency-info.csv',encoding='UTF-8')
 cons_info.fillna('', inplace=True)

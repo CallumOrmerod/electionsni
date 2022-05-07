@@ -1,9 +1,9 @@
 import json
 import pandas as pd
 
-path_init = 'E:/Personal/Github/electionsni/2022/constituency/'
+path_init = 'C:/Personal/Github/electionsni/2022/constituency/'
 
-constituency = 'east-antrim'
+constituency = 'belfast-west'
 
 full_path = path_init + constituency + '/'
 
@@ -42,7 +42,7 @@ counts['Candidate_First_Pref_Votes'] = counts['Candidate_First_Pref_Votes'].asty
 counts['Transfers'] = counts['Transfers'].astype(str)
 counts['Total_Votes'] = counts['Total_Votes'].astype(str)
 
-new_results = {"Constituency":{"countInfo":json.loads(info.to_json(orient = 'records')), "countGroup":json.loads(counts.to_json(orient = 'records'))}}
+new_results = {"Constituency":{"countInfo":json.loads(info.to_json(orient = 'records'))[0], "countGroup":json.loads(counts.to_json(orient = 'records'))}}
 
 
 
