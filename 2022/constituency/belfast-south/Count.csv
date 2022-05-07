@@ -2,7 +2,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,5824,1,Clare,Bailey,4058,0,4058,,,Green Party
 13,1679,1,Paula,Bradshaw,6503,0,6503,,,Alliance Party
 13,13035,1,Andrew,Girvin,1935,0,1935,,,Traditional Unionist Voice
-13,69247,1,Deirdre,Hargey,9511,0,9511,,,Sinn Fein
+13,69247,1,Deirdre,Hargey,9511,0,9511,Elected,1,Sinn Fein
 13,69242,1,Paddy,Lynn,139,0,139,,,Workers Party
 13,86451,1,Luke,McCann,806,0,806,,,Aontu
 13,68117,1,Stephen,McCarthy,3061,0,3061,,,Ulster Unionist Party
@@ -13,3 +13,101 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,11544,1,Edwin,Poots,7211,0,7211,,,Democratic Unionist Party
 13,84786,1,Sipho,Sibanda,629,0,629,,,People Before Profit Alliance
 13,84279,1,Elsie,Trainor,2030,0,2030,,,Social Democratic and Labour Party
+13,5824,2,Clare,Bailey,4058,167.4,4225.4,,,Green Party
+13,1679,2,Paula,Bradshaw,6503,265.1,6768.1,,,Alliance Party
+13,13035,2,Andrew,Girvin,1935,0.4,1935.4,,,Traditional Unionist Voice
+13,69247,2,Deirdre,Hargey,9511,-1687,7824,Elected,1,Sinn Fein
+13,69242,2,Paddy,Lynn,139,24.5,163.5,Excluded,2,Workers Party
+13,86451,2,Luke,McCann,806,70.9,876.9,,,Aontu
+13,68117,2,Stephen,McCarthy,3061,6.1,3067.1,,,Ulster Unionist Party
+13,85046,2,Neil,Moore,353,18,371,Excluded,2,Socialist Party (Northern Ireland)
+13,6989,2,Kate,Nicholl,5201,146,5347,,,Alliance Party
+13,95174,2,Elly,Odhiambo,107,6.8,113.8,Excluded,2,Independent
+13,84278,2,Matthew,O'Toole,5394,664.9,6058.9,,,Social Democratic and Labour Party
+13,11544,2,Edwin,Poots,7211,6.1,7217.1,,,Democratic Unionist Party
+13,84786,2,Sipho,Sibanda,629,40.5,669.5,Excluded,3,People Before Profit Alliance
+13,84279,2,Elsie,Trainor,2030,181.8,2211.8,,,Social Democratic and Labour Party
+13,5824,3,Clare,Bailey,4058,169.8,4395.2,,,Green Party
+13,1679,3,Paula,Bradshaw,6503,59.5,6827.6,,,Alliance Party
+13,13035,3,Andrew,Girvin,1935,9,1944.4,,,Traditional Unionist Voice
+13,69247,3,Deirdre,Hargey,9511,0,7824,Elected,1,Sinn Fein
+13,69242,3,Paddy,Lynn,139,-163.5,0,Excluded,2,Workers Party
+13,86451,3,Luke,McCann,806,15.2,892.1,Excluded,3,Aontu
+13,68117,3,Stephen,McCarthy,3061,17.7,3084.8,,,Ulster Unionist Party
+13,85046,3,Neil,Moore,353,-371,0,Excluded,2,Socialist Party (Northern Ireland)
+13,6989,3,Kate,Nicholl,5201,57.5,5404.5,,,Alliance Party
+13,95174,3,Elly,Odhiambo,107,-113.8,0,Excluded,2,Independent
+13,84278,3,Matthew,O'Toole,5394,68.2,6127.1,,,Social Democratic and Labour Party
+13,11544,3,Edwin,Poots,7211,6.1,7223.2,,,Democratic Unionist Party
+13,84786,3,Sipho,Sibanda,629,172.7,842.2,Excluded,3,People Before Profit Alliance
+13,84279,3,Elsie,Trainor,2030,18.5,2230.3,,,Social Democratic and Labour Party
+13,5824,4,Clare,Bailey,4058,490.5,4885.7,,,Green Party
+13,1679,4,Paula,Bradshaw,6503,135.8,6963.4,,,Alliance Party
+13,13035,4,Andrew,Girvin,1935,35.5,1979.9,Excluded,4,Traditional Unionist Voice
+13,69247,4,Deirdre,Hargey,9511,0,7824,Elected,1,Sinn Fein
+13,69242,4,Paddy,Lynn,139,0,0,Excluded,2,Workers Party
+13,86451,4,Luke,McCann,806,-892.1,0,Excluded,3,Aontu
+13,68117,4,Stephen,McCarthy,3061,25.2,3110,,,Ulster Unionist Party
+13,85046,4,Neil,Moore,353,0,0,Excluded,2,Socialist Party (Northern Ireland)
+13,6989,4,Kate,Nicholl,5201,131.3,5535.8,,,Alliance Party
+13,95174,4,Elly,Odhiambo,107,0,0,Excluded,2,Independent
+13,84278,4,Matthew,O'Toole,5394,322,6449.1,,,Social Democratic and Labour Party
+13,11544,4,Edwin,Poots,7211,117.7,7340.9,,,Democratic Unionist Party
+13,84786,4,Sipho,Sibanda,629,-842.2,0,Excluded,3,People Before Profit Alliance
+13,84279,4,Elsie,Trainor,2030,132.9,2363.2,,,Social Democratic and Labour Party
+13,5824,5,Clare,Bailey,4058,48.4,4934.1,,,Green Party
+13,1679,5,Paula,Bradshaw,6503,31,6994.4,,,Alliance Party
+13,13035,5,Andrew,Girvin,1935,-1979.9,0,Excluded,4,Traditional Unionist Voice
+13,69247,5,Deirdre,Hargey,9511,0,7824,Elected,1,Sinn Fein
+13,69242,5,Paddy,Lynn,139,0,0,Excluded,2,Workers Party
+13,86451,5,Luke,McCann,806,0,0,Excluded,3,Aontu
+13,68117,5,Stephen,McCarthy,3061,643.4,3753.4,,,Ulster Unionist Party
+13,85046,5,Neil,Moore,353,0,0,Excluded,2,Socialist Party (Northern Ireland)
+13,6989,5,Kate,Nicholl,5201,17,5552.8,,,Alliance Party
+13,95174,5,Elly,Odhiambo,107,0,0,Excluded,2,Independent
+13,84278,5,Matthew,O'Toole,5394,10.2,6459.3,,,Social Democratic and Labour Party
+13,11544,5,Edwin,Poots,7211,1133.6,8474.5,Elected,5,Democratic Unionist Party
+13,84786,5,Sipho,Sibanda,629,0,0,Excluded,3,People Before Profit Alliance
+13,84279,5,Elsie,Trainor,2030,4,2367.2,Excluded,5,Social Democratic and Labour Party
+13,5824,6,Clare,Bailey,4058,112,5046.1,,,Green Party
+13,1679,6,Paula,Bradshaw,6503,156,7150.4,,,Alliance Party
+13,13035,6,Andrew,Girvin,1935,0,0,Excluded,4,Traditional Unionist Voice
+13,69247,6,Deirdre,Hargey,9511,0,7824,Elected,1,Sinn Fein
+13,69242,6,Paddy,Lynn,139,0,0,Excluded,2,Workers Party
+13,86451,6,Luke,McCann,806,0,0,Excluded,3,Aontu
+13,68117,6,Stephen,McCarthy,3061,16,3769.4,Eliminated,6,Ulster Unionist Party
+13,85046,6,Neil,Moore,353,0,0,Excluded,2,Socialist Party (Northern Ireland)
+13,6989,6,Kate,Nicholl,5201,190,5742.8,,,Alliance Party
+13,95174,6,Elly,Odhiambo,107,0,0,Excluded,2,Independent
+13,84278,6,Matthew,O'Toole,5394,1630,8089.3,Elected,6,Social Democratic and Labour Party
+13,11544,6,Edwin,Poots,7211,-650.5,7824,Elected,5,Democratic Unionist Party
+13,84786,6,Sipho,Sibanda,629,0,0,Excluded,3,People Before Profit Alliance
+13,84279,6,Elsie,Trainor,2030,-2367.2,0,Excluded,5,Social Democratic and Labour Party
+13,5824,7,Clare,Bailey,4058,653,5699.1,,,Green Party
+13,1679,7,Paula,Bradshaw,6503,1172.7,8323.1,Elected,7,Alliance Party
+13,13035,7,Andrew,Girvin,1935,0,0,Excluded,4,Traditional Unionist Voice
+13,69247,7,Deirdre,Hargey,9511,0,7824,Elected,1,Sinn Fein
+13,69242,7,Paddy,Lynn,139,0,0,Excluded,2,Workers Party
+13,86451,7,Luke,McCann,806,0,0,Excluded,3,Aontu
+13,68117,7,Stephen,McCarthy,3061,-3769.4,0,Eliminated,6,Ulster Unionist Party
+13,85046,7,Neil,Moore,353,0,0,Excluded,2,Socialist Party (Northern Ireland)
+13,6989,7,Kate,Nicholl,5201,913.3,6656.1,,,Alliance Party
+13,95174,7,Elly,Odhiambo,107,0,0,Excluded,2,Independent
+13,84278,7,Matthew,O'Toole,5394,-265.3,7824,Elected,6,Social Democratic and Labour Party
+13,11544,7,Edwin,Poots,7211,0,7824,Elected,5,Democratic Unionist Party
+13,84786,7,Sipho,Sibanda,629,0,0,Excluded,3,People Before Profit Alliance
+13,84279,7,Elsie,Trainor,2030,0,0,Excluded,5,Social Democratic and Labour Party
+13,5824,8,Clare,Bailey,4058,127,5826.1,Excluded,8,Green Party
+13,1679,8,Paula,Bradshaw,6503,-499.1,7824,Elected,7,Alliance Party
+13,13035,8,Andrew,Girvin,1935,0,0,Excluded,4,Traditional Unionist Voice
+13,69247,8,Deirdre,Hargey,9511,0,7824,Elected,1,Sinn Fein
+13,69242,8,Paddy,Lynn,139,0,0,Excluded,2,Workers Party
+13,86451,8,Luke,McCann,806,0,0,Excluded,3,Aontu
+13,68117,8,Stephen,McCarthy,3061,0,0,Eliminated,6,Ulster Unionist Party
+13,85046,8,Neil,Moore,353,0,0,Excluded,2,Socialist Party (Northern Ireland)
+13,6989,8,Kate,Nicholl,5201,81,6737.1,Elected,8,Alliance Party
+13,95174,8,Elly,Odhiambo,107,0,0,Excluded,2,Independent
+13,84278,8,Matthew,O'Toole,5394,0,7824,Elected,6,Social Democratic and Labour Party
+13,11544,8,Edwin,Poots,7211,0,7824,Elected,5,Democratic Unionist Party
+13,84786,8,Sipho,Sibanda,629,0,0,Excluded,3,People Before Profit Alliance
+13,84279,8,Elsie,Trainor,2030,0,0,Excluded,5,Social Democratic and Labour Party
