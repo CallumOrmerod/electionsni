@@ -149,8 +149,8 @@
                 "Firstname": "Mark",
                 "Surname": "Bailey",
                 "Candidate_First_Pref_Votes": "754",
-                "Transfers": "0.0",
-                "Total_Votes": "754.0",
+                "Transfers": "-754.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Green Party"
@@ -240,8 +240,8 @@
                 "Firstname": "Siobh\u00e1n",
                 "Surname": "McAlister",
                 "Candidate_First_Pref_Votes": "1200",
-                "Transfers": "0.0",
-                "Total_Votes": "1200.0",
+                "Transfers": "-1200.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Social Democratic and Labour Party"
@@ -280,7 +280,7 @@
                 "Surname": "Bailey",
                 "Candidate_First_Pref_Votes": "754",
                 "Transfers": "0.0",
-                "Total_Votes": "754.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Green Party"
@@ -292,8 +292,8 @@
                 "Firstname": "Roy",
                 "Surname": "Beggs",
                 "Candidate_First_Pref_Votes": "3549",
-                "Transfers": "0.0",
-                "Total_Votes": "3549.0",
+                "Transfers": "-3634.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -306,7 +306,7 @@
                 "Surname": "Boyd",
                 "Candidate_First_Pref_Votes": "3661",
                 "Transfers": "308.0",
-                "Total_Votes": "3969.0",
+                "Total_Votes": "4007.0",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Traditional Unionist Voice"
@@ -319,7 +319,7 @@
                 "Surname": "Dickson",
                 "Candidate_First_Pref_Votes": "5059",
                 "Transfers": "267.0",
-                "Total_Votes": "5326.0",
+                "Total_Votes": "5910.0",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Alliance Party"
@@ -332,7 +332,7 @@
                 "Surname": "Donnelly",
                 "Candidate_First_Pref_Votes": "4224",
                 "Transfers": "86.0",
-                "Total_Votes": "4310.0",
+                "Total_Votes": "4845.0",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Alliance Party"
@@ -345,7 +345,7 @@
                 "Surname": "Hilditch",
                 "Candidate_First_Pref_Votes": "5662",
                 "Transfers": "420.0",
-                "Total_Votes": "6082.0",
+                "Total_Votes": "6110.0",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Democratic Unionist Party"
@@ -358,7 +358,7 @@
                 "Surname": "Lyons",
                 "Candidate_First_Pref_Votes": "6256",
                 "Transfers": "274.0",
-                "Total_Votes": "6530.0",
+                "Total_Votes": "6555.0",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Democratic Unionist Party"
@@ -371,7 +371,7 @@
                 "Surname": "McAlister",
                 "Candidate_First_Pref_Votes": "1200",
                 "Transfers": "0.0",
-                "Total_Votes": "1200.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Social Democratic and Labour Party"
@@ -384,7 +384,7 @@
                 "Surname": "McMullan",
                 "Candidate_First_Pref_Votes": "3675",
                 "Transfers": "17.0",
-                "Total_Votes": "3692.0",
+                "Total_Votes": "4171.0",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Sinn Fein"
@@ -397,7 +397,7 @@
                 "Surname": "Stewart",
                 "Candidate_First_Pref_Votes": "6195",
                 "Transfers": "2192.0",
-                "Total_Votes": "8387.0",
+                "Total_Votes": "8459.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -410,7 +410,7 @@
                 "Surname": "Bailey",
                 "Candidate_First_Pref_Votes": "754",
                 "Transfers": "0.0",
-                "Total_Votes": "754.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Green Party"
@@ -423,7 +423,7 @@
                 "Surname": "Beggs",
                 "Candidate_First_Pref_Votes": "3549",
                 "Transfers": "0.0",
-                "Total_Votes": "3549.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -436,7 +436,7 @@
                 "Surname": "Boyd",
                 "Candidate_First_Pref_Votes": "3661",
                 "Transfers": "401.4",
-                "Total_Votes": "4062.4",
+                "Total_Votes": "4408.4",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Traditional Unionist Voice"
@@ -449,7 +449,7 @@
                 "Surname": "Dickson",
                 "Candidate_First_Pref_Votes": "5059",
                 "Transfers": "459.9",
-                "Total_Votes": "5518.9",
+                "Total_Votes": "6369.9",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Alliance Party"
@@ -462,7 +462,7 @@
                 "Surname": "Donnelly",
                 "Candidate_First_Pref_Votes": "4224",
                 "Transfers": "156.6",
-                "Total_Votes": "4380.6",
+                "Total_Votes": "5001.6",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Alliance Party"
@@ -475,7 +475,7 @@
                 "Surname": "Hilditch",
                 "Candidate_First_Pref_Votes": "5662",
                 "Transfers": "389.7",
-                "Total_Votes": "6051.7",
+                "Total_Votes": "6499.7",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Democratic Unionist Party"
@@ -488,7 +488,7 @@
                 "Surname": "Lyons",
                 "Candidate_First_Pref_Votes": "6256",
                 "Transfers": "317.7",
-                "Total_Votes": "6573.7",
+                "Total_Votes": "6872.7",
                 "Status": "Elected",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -501,7 +501,7 @@
                 "Surname": "McAlister",
                 "Candidate_First_Pref_Votes": "1200",
                 "Transfers": "0.0",
-                "Total_Votes": "1200.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Social Democratic and Labour Party"
@@ -514,7 +514,7 @@
                 "Surname": "McMullan",
                 "Candidate_First_Pref_Votes": "3675",
                 "Transfers": "9.0",
-                "Total_Votes": "3684.0",
+                "Total_Votes": "4180.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Sinn Fein"
@@ -526,8 +526,8 @@
                 "Firstname": "John",
                 "Surname": "Stewart",
                 "Candidate_First_Pref_Votes": "6195",
-                "Transfers": "0.0",
-                "Total_Votes": "6195.0",
+                "Transfers": "-1753.0",
+                "Total_Votes": "6706.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -540,7 +540,7 @@
                 "Surname": "Bailey",
                 "Candidate_First_Pref_Votes": "754",
                 "Transfers": "0.0",
-                "Total_Votes": "754.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Green Party"
@@ -553,7 +553,7 @@
                 "Surname": "Beggs",
                 "Candidate_First_Pref_Votes": "3549",
                 "Transfers": "0.0",
-                "Total_Votes": "3549.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 2.0,
                 "Party_Name": "Ulster Unionist Party"
@@ -566,7 +566,7 @@
                 "Surname": "Boyd",
                 "Candidate_First_Pref_Votes": "3661",
                 "Transfers": "58.9",
-                "Total_Votes": "3719.9",
+                "Total_Votes": "4467.3",
                 "Status": "Excluded",
                 "Occurred_On_Count": 5.0,
                 "Party_Name": "Traditional Unionist Voice"
@@ -579,7 +579,7 @@
                 "Surname": "Dickson",
                 "Candidate_First_Pref_Votes": "5059",
                 "Transfers": "837.0",
-                "Total_Votes": "5896.0",
+                "Total_Votes": "7206.9",
                 "Status": "Elected",
                 "Occurred_On_Count": 5.0,
                 "Party_Name": "Alliance Party"
@@ -592,7 +592,7 @@
                 "Surname": "Donnelly",
                 "Candidate_First_Pref_Votes": "4224",
                 "Transfers": "1783.0",
-                "Total_Votes": "6007.0",
+                "Total_Votes": "6784.6",
                 "Status": "Elected",
                 "Occurred_On_Count": 5.0,
                 "Party_Name": "Alliance Party"
@@ -605,7 +605,7 @@
                 "Surname": "Hilditch",
                 "Candidate_First_Pref_Votes": "5662",
                 "Transfers": "44.0",
-                "Total_Votes": "5706.0",
+                "Total_Votes": "6543.7",
                 "Status": "Elected",
                 "Occurred_On_Count": 5.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -617,8 +617,8 @@
                 "Firstname": "Gordon",
                 "Surname": "Lyons",
                 "Candidate_First_Pref_Votes": "6256",
-                "Transfers": "0.0",
-                "Total_Votes": "6573.7",
+                "Transfers": "-166.7",
+                "Total_Votes": "6706.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Democratic Unionist Party"
@@ -631,7 +631,7 @@
                 "Surname": "McAlister",
                 "Candidate_First_Pref_Votes": "1200",
                 "Transfers": "0.0",
-                "Total_Votes": "1200.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 1.0,
                 "Party_Name": "Social Democratic and Labour Party"
@@ -643,8 +643,8 @@
                 "Firstname": "Oliver",
                 "Surname": "McMullan",
                 "Candidate_First_Pref_Votes": "3675",
-                "Transfers": "9.0",
-                "Total_Votes": "3684.0",
+                "Transfers": "-4180.0",
+                "Total_Votes": "0.0",
                 "Status": "Excluded",
                 "Occurred_On_Count": 4.0,
                 "Party_Name": "Sinn Fein"
@@ -657,7 +657,7 @@
                 "Surname": "Stewart",
                 "Candidate_First_Pref_Votes": "6195",
                 "Transfers": "0.0",
-                "Total_Votes": "6195.0",
+                "Total_Votes": "6706.0",
                 "Status": "Elected",
                 "Occurred_On_Count": 3.0,
                 "Party_Name": "Ulster Unionist Party"

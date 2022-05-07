@@ -9,43 +9,43 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,84799,1,Siobhán,McAlister,1200,0,1200,Excluded,1,Social Democratic and Labour Party
 1,1061,1,Oliver,McMullan,3675,0,3675,,,Sinn Fein
 1,8121,1,John,Stewart,6195,0,6195,,,Ulster Unionist Party
-1,19703,2,Mark,Bailey,754,0,754,Excluded,1,Green Party
+1,19703,2,Mark,Bailey,754,-754,0,Excluded,1,Green Party
 1,7132,2,Roy,Beggs,3549,85,3634,Excluded,2,Ulster Unionist Party
 1,68115,2,Norman,Boyd,3661,38,3699,,,Traditional Unionist Voice
 1,4591,2,Stewart,Dickson,5059,584,5643,,,Alliance Party
 1,9805,2,Danny,Donnelly,4224,535,4759,,,Alliance Party
 1,11447,2,David,Hilditch,5662,28,5690,,,Democratic Unionist Party
 1,11448,2,Gordon,Lyons,6256,25,6281,,,Democratic Unionist Party
-1,84799,2,Siobhán,McAlister,1200,0,1200,Excluded,1,Social Democratic and Labour Party
+1,84799,2,Siobhán,McAlister,1200,-1200,0,Excluded,1,Social Democratic and Labour Party
 1,1061,2,Oliver,McMullan,3675,479,4154,,,Sinn Fein
 1,8121,2,John,Stewart,6195,72,6267,,,Ulster Unionist Party
-1,19703,3,Mark,Bailey,754,0,754,Excluded,1,Green Party
-1,7132,3,Roy,Beggs,3549,0,3549,Excluded,2,Ulster Unionist Party
-1,68115,3,Norman,Boyd,3661,308,3969,,,Traditional Unionist Voice
-1,4591,3,Stewart,Dickson,5059,267,5326,,,Alliance Party
-1,9805,3,Danny,Donnelly,4224,86,4310,,,Alliance Party
-1,11447,3,David,Hilditch,5662,420,6082,,,Democratic Unionist Party
-1,11448,3,Gordon,Lyons,6256,274,6530,,,Democratic Unionist Party
-1,84799,3,Siobhán,McAlister,1200,0,1200,Excluded,1,Social Democratic and Labour Party
-1,1061,3,Oliver,McMullan,3675,17,3692,,,Sinn Fein
-1,8121,3,John,Stewart,6195,2192,8387,Elected,3,Ulster Unionist Party
-1,19703,4,Mark,Bailey,754,0,754,Excluded,1,Green Party
-1,7132,4,Roy,Beggs,3549,0,3549,Excluded,2,Ulster Unionist Party
-1,68115,4,Norman,Boyd,3661,401.4,4062.4,,,Traditional Unionist Voice
-1,4591,4,Stewart,Dickson,5059,459.9,5518.9,,,Alliance Party
-1,9805,4,Danny,Donnelly,4224,156.6,4380.6,,,Alliance Party
-1,11447,4,David,Hilditch,5662,389.7,6051.7,,,Democratic Unionist Party
-1,11448,4,Gordon,Lyons,6256,317.7,6573.7,Elected,4,Democratic Unionist Party
-1,84799,4,Siobhán,McAlister,1200,0,1200,Excluded,1,Social Democratic and Labour Party
-1,1061,4,Oliver,McMullan,3675,9,3684,Excluded,4,Sinn Fein
-1,8121,4,John,Stewart,6195,0,6195,Elected,3,Ulster Unionist Party
-1,19703,5,Mark,Bailey,754,0,754,Excluded,1,Green Party
-1,7132,5,Roy,Beggs,3549,0,3549,Excluded,2,Ulster Unionist Party
-1,68115,5,Norman,Boyd,3661,58.9,3719.9,Excluded,5,Traditional Unionist Voice
-1,4591,5,Stewart,Dickson,5059,837,5896,Elected,5,Alliance Party
-1,9805,5,Danny,Donnelly,4224,1783,6007,Elected,5,Alliance Party
-1,11447,5,David,Hilditch,5662,44,5706,Elected,5,Democratic Unionist Party
-1,11448,5,Gordon,Lyons,6256,0,6573.7,Elected,4,Democratic Unionist Party
-1,84799,5,Siobhán,McAlister,1200,0,1200,Excluded,1,Social Democratic and Labour Party
-1,1061,5,Oliver,McMullan,3675,9,3684,Excluded,4,Sinn Fein
-1,8121,5,John,Stewart,6195,0,6195,Elected,3,Ulster Unionist Party
+1,19703,3,Mark,Bailey,754,0,0,Excluded,1,Green Party
+1,7132,3,Roy,Beggs,3549,-3634,0,Excluded,2,Ulster Unionist Party
+1,68115,3,Norman,Boyd,3661,308,4007,,,Traditional Unionist Voice
+1,4591,3,Stewart,Dickson,5059,267,5910,,,Alliance Party
+1,9805,3,Danny,Donnelly,4224,86,4845,,,Alliance Party
+1,11447,3,David,Hilditch,5662,420,6110,,,Democratic Unionist Party
+1,11448,3,Gordon,Lyons,6256,274,6555,,,Democratic Unionist Party
+1,84799,3,Siobhán,McAlister,1200,0,0,Excluded,1,Social Democratic and Labour Party
+1,1061,3,Oliver,McMullan,3675,17,4171,,,Sinn Fein
+1,8121,3,John,Stewart,6195,2192,8459,Elected,3,Ulster Unionist Party
+1,19703,4,Mark,Bailey,754,0,0,Excluded,1,Green Party
+1,7132,4,Roy,Beggs,3549,0,0,Excluded,2,Ulster Unionist Party
+1,68115,4,Norman,Boyd,3661,401.4,4408.4,,,Traditional Unionist Voice
+1,4591,4,Stewart,Dickson,5059,459.9,6369.9,,,Alliance Party
+1,9805,4,Danny,Donnelly,4224,156.6,5001.6,,,Alliance Party
+1,11447,4,David,Hilditch,5662,389.7,6499.7,,,Democratic Unionist Party
+1,11448,4,Gordon,Lyons,6256,317.7,6872.7,Elected,4,Democratic Unionist Party
+1,84799,4,Siobhán,McAlister,1200,0,0,Excluded,1,Social Democratic and Labour Party
+1,1061,4,Oliver,McMullan,3675,9,4180,Excluded,4,Sinn Fein
+1,8121,4,John,Stewart,6195,-1753,6706,Elected,3,Ulster Unionist Party
+1,19703,5,Mark,Bailey,754,0,0,Excluded,1,Green Party
+1,7132,5,Roy,Beggs,3549,0,0,Excluded,2,Ulster Unionist Party
+1,68115,5,Norman,Boyd,3661,58.9,4467.3,Excluded,5,Traditional Unionist Voice
+1,4591,5,Stewart,Dickson,5059,837,7206.9,Elected,5,Alliance Party
+1,9805,5,Danny,Donnelly,4224,1783,6784.6,Elected,5,Alliance Party
+1,11447,5,David,Hilditch,5662,44,6543.7,Elected,5,Democratic Unionist Party
+1,11448,5,Gordon,Lyons,6256,-166.7,6706,Elected,4,Democratic Unionist Party
+1,84799,5,Siobhán,McAlister,1200,0,0,Excluded,1,Social Democratic and Labour Party
+1,1061,5,Oliver,McMullan,3675,-4180,0,Excluded,4,Sinn Fein
+1,8121,5,John,Stewart,6195,0,6706,Elected,3,Ulster Unionist Party
