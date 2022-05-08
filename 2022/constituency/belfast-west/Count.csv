@@ -1,5 +1,5 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-17,69227,1,Danny,Baker,9011,0,9011,,,Sinn Fein
+17,69227,1,Danny,Baker,9011,0,9011,Elected,1,Sinn Fein
 17,84800,1,Gerard,Burns,192,0,192,,,Independent
 17,7199,1,Gerry,Carroll,3279,0,3279,,,People Before Profit Alliance
 17,95177,1,Patrick,Crossan,193,0,193,,,Workers Party
@@ -16,3 +16,173 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,84590,1,Dan,Murphy,1103,0,1103,,,Irish Republican Socialist Party
 17,84591,1,Aisling,Reilly,5681,0,5681,,,Sinn Fein
 17,11436,1,Pat,Sheehan,6370,0,6370,,,Sinn Fein
+17,69227,2,Danny,Baker,9011,-1803,7208,Elected,1,Sinn Fein
+17,84800,2,Gerard,Burns,192,16.9,208.9,,,Independent
+17,7199,2,Gerry,Carroll,3279,115.3,3394.3,,,People Before Profit Alliance
+17,95177,2,Patrick,Crossan,193,4.8,197.8,,,Workers Party
+17,69199,2,Paul,Doherty,2528,88.4,2616.4,,,Social Democratic and Labour Party
+17,84444,2,Jordan,Doran,802,0.4,802.4,,,Traditional Unionist Voice
+17,19668,2,Órlaithí,Flynn,6743,344.5,7087.5,,,Sinn Fein
+17,84443,2,Linsey,Gibson,474,0.8,474.8,,,Ulster Unionist Party
+17,84445,2,Gerard,Herdman,1753,8.2,1761.2,,,Aontu
+17,50308,2,Donnamarie,Higgins,907,17.5,924.5,,,Alliance Party
+17,95178,2,Declan,Hill,26,0.4,26.4,Excluded,2,Independent
+17,69201,2,Stevie,Maginn,307,3,310,,,Green Party
+17,84451,2,Tony,Mallon,129,2.3,131.3,Excluded,2,Independent
+17,7174,2,Frank,McCoubrey,4166,0.6,4166.6,,,Democratic Unionist Party
+17,84590,2,Dan,Murphy,1103,12.2,1115.2,,,Irish Republican Socialist Party
+17,84591,2,Aisling,Reilly,5681,1028.5,6709.5,,,Sinn Fein
+17,11436,2,Pat,Sheehan,6370,49.4,6419.4,,,Sinn Fein
+17,69227,3,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,3,Gerard,Burns,192,28.2,237.1,,,Independent
+17,7199,3,Gerry,Carroll,3279,19.8,3414.1,,,People Before Profit Alliance
+17,95177,3,Patrick,Crossan,193,6.8,204.6,Excluded,3,Workers Party
+17,69199,3,Paul,Doherty,2528,2.2,2618.6,,,Social Democratic and Labour Party
+17,84444,3,Jordan,Doran,802,3,805.4,,,Traditional Unionist Voice
+17,19668,3,Órlaithí,Flynn,6743,5.4,7092.9,,,Sinn Fein
+17,84443,3,Linsey,Gibson,474,2,476.8,,,Ulster Unionist Party
+17,84445,3,Gerard,Herdman,1753,32,1793.2,,,Aontu
+17,50308,3,Donnamarie,Higgins,907,2,926.5,,,Alliance Party
+17,95178,3,Declan,Hill,26,-26.4,0,Excluded,2,Independent
+17,69201,3,Stevie,Maginn,307,3,313,,,Green Party
+17,84451,3,Tony,Mallon,129,-131.3,0,Excluded,2,Independent
+17,7174,3,Frank,McCoubrey,4166,7.2,4173.8,,,Democratic Unionist Party
+17,84590,3,Dan,Murphy,1103,8,1123.2,,,Irish Republican Socialist Party
+17,84591,3,Aisling,Reilly,5681,10.2,6719.7,,,Sinn Fein
+17,11436,3,Pat,Sheehan,6370,4,6423.4,,,Sinn Fein
+17,69227,4,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,4,Gerard,Burns,192,7,244.1,Excluded,4,Independent
+17,7199,4,Gerry,Carroll,3279,78.4,3492.5,,,People Before Profit Alliance
+17,95177,4,Patrick,Crossan,193,-204.6,0,Excluded,3,Workers Party
+17,69199,4,Paul,Doherty,2528,29.1,2647.7,,,Social Democratic and Labour Party
+17,84444,4,Jordan,Doran,802,1,806.4,,,Traditional Unionist Voice
+17,19668,4,Órlaithí,Flynn,6743,16.1,7109,,,Sinn Fein
+17,84443,4,Linsey,Gibson,474,1.2,478,,,Ulster Unionist Party
+17,84445,4,Gerard,Herdman,1753,9.2,1802.4,,,Aontu
+17,50308,4,Donnamarie,Higgins,907,6,932.5,,,Alliance Party
+17,95178,4,Declan,Hill,26,0,0,Excluded,2,Independent
+17,69201,4,Stevie,Maginn,307,10,323,,,Green Party
+17,84451,4,Tony,Mallon,129,0,0,Excluded,2,Independent
+17,7174,4,Frank,McCoubrey,4166,0,4173.8,,,Democratic Unionist Party
+17,84590,4,Dan,Murphy,1103,7,1130.2,,,Irish Republican Socialist Party
+17,84591,4,Aisling,Reilly,5681,7.8,6727.5,,,Sinn Fein
+17,11436,4,Pat,Sheehan,6370,5,6428.4,,,Sinn Fein
+17,69227,5,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,5,Gerard,Burns,192,-244.1,0,Excluded,4,Independent
+17,7199,5,Gerry,Carroll,3279,70.1,3562.6,,,People Before Profit Alliance
+17,95177,5,Patrick,Crossan,193,0,0,Excluded,3,Workers Party
+17,69199,5,Paul,Doherty,2528,36.3,2684,,,Social Democratic and Labour Party
+17,84444,5,Jordan,Doran,802,3,809.4,,,Traditional Unionist Voice
+17,19668,5,Órlaithí,Flynn,6743,27.4,7136.4,,,Sinn Fein
+17,84443,5,Linsey,Gibson,474,2,480,,,Ulster Unionist Party
+17,84445,5,Gerard,Herdman,1753,17.2,1819.6,,,Aontu
+17,50308,5,Donnamarie,Higgins,907,7.2,939.7,,,Alliance Party
+17,95178,5,Declan,Hill,26,0,0,Excluded,2,Independent
+17,69201,5,Stevie,Maginn,307,10.2,333.2,Excluded,5,Green Party
+17,84451,5,Tony,Mallon,129,0,0,Excluded,2,Independent
+17,7174,5,Frank,McCoubrey,4166,2,4175.8,,,Democratic Unionist Party
+17,84590,5,Dan,Murphy,1103,14,1144.2,,,Irish Republican Socialist Party
+17,84591,5,Aisling,Reilly,5681,17.1,6744.6,,,Sinn Fein
+17,11436,5,Pat,Sheehan,6370,8.4,6436.8,,,Sinn Fein
+17,69227,6,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,6,Gerard,Burns,192,0,0,Excluded,4,Independent
+17,7199,6,Gerry,Carroll,3279,104.4,3667,,,People Before Profit Alliance
+17,95177,6,Patrick,Crossan,193,0,0,Excluded,3,Workers Party
+17,69199,6,Paul,Doherty,2528,43,2727,,,Social Democratic and Labour Party
+17,84444,6,Jordan,Doran,802,1,810.4,,,Traditional Unionist Voice
+17,19668,6,Órlaithí,Flynn,6743,23,7159.4,,,Sinn Fein
+17,84443,6,Linsey,Gibson,474,4,484,Excluded,6,Ulster Unionist Party
+17,84445,6,Gerard,Herdman,1753,3,1822.6,,,Aontu
+17,50308,6,Donnamarie,Higgins,907,87,1026.7,,,Alliance Party
+17,95178,6,Declan,Hill,26,0,0,Excluded,2,Independent
+17,69201,6,Stevie,Maginn,307,-333.2,0,Excluded,5,Green Party
+17,84451,6,Tony,Mallon,129,0,0,Excluded,2,Independent
+17,7174,6,Frank,McCoubrey,4166,4,4179.8,,,Democratic Unionist Party
+17,84590,6,Dan,Murphy,1103,8,1152.2,,,Irish Republican Socialist Party
+17,84591,6,Aisling,Reilly,5681,14.6,6759.2,,,Sinn Fein
+17,11436,6,Pat,Sheehan,6370,9.4,6446.2,,,Sinn Fein
+17,69227,7,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,7,Gerard,Burns,192,0,0,Excluded,4,Independent
+17,7199,7,Gerry,Carroll,3279,21,3688,,,People Before Profit Alliance
+17,95177,7,Patrick,Crossan,193,0,0,Excluded,3,Workers Party
+17,69199,7,Paul,Doherty,2528,17,2744,,,Social Democratic and Labour Party
+17,84444,7,Jordan,Doran,802,108,918.4,Excluded,7,Traditional Unionist Voice
+17,19668,7,Órlaithí,Flynn,6743,23,7182.4,,,Sinn Fein
+17,84443,7,Linsey,Gibson,474,-484,0,Excluded,6,Ulster Unionist Party
+17,84445,7,Gerard,Herdman,1753,6,1828.6,,,Aontu
+17,50308,7,Donnamarie,Higgins,907,82,1108.7,,,Alliance Party
+17,95178,7,Declan,Hill,26,0,0,Excluded,2,Independent
+17,69201,7,Stevie,Maginn,307,0,0,Excluded,5,Green Party
+17,84451,7,Tony,Mallon,129,0,0,Excluded,2,Independent
+17,7174,7,Frank,McCoubrey,4166,216.2,4396,,,Democratic Unionist Party
+17,84590,7,Dan,Murphy,1103,8,1160.2,,,Irish Republican Socialist Party
+17,84591,7,Aisling,Reilly,5681,2.4,6761.6,,,Sinn Fein
+17,11436,7,Pat,Sheehan,6370,0.2,6446.4,,,Sinn Fein
+17,69227,8,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,8,Gerard,Burns,192,0,0,Excluded,4,Independent
+17,7199,8,Gerry,Carroll,3279,10,3698,,,People Before Profit Alliance
+17,95177,8,Patrick,Crossan,193,0,0,Excluded,3,Workers Party
+17,69199,8,Paul,Doherty,2528,10.2,2754.2,,,Social Democratic and Labour Party
+17,84444,8,Jordan,Doran,802,-918.4,0,Excluded,7,Traditional Unionist Voice
+17,19668,8,Órlaithí,Flynn,6743,1,7183.4,,,Sinn Fein
+17,84443,8,Linsey,Gibson,474,0,0,Excluded,6,Ulster Unionist Party
+17,84445,8,Gerard,Herdman,1753,8,1836.6,,,Aontu
+17,50308,8,Donnamarie,Higgins,907,26.2,1134.9,Excluded,8,Alliance Party
+17,95178,8,Declan,Hill,26,0,0,Excluded,2,Independent
+17,69201,8,Stevie,Maginn,307,0,0,Excluded,5,Green Party
+17,84451,8,Tony,Mallon,129,0,0,Excluded,2,Independent
+17,7174,8,Frank,McCoubrey,4166,803,5199,,,Democratic Unionist Party
+17,84590,8,Dan,Murphy,1103,0,1160.2,,,Irish Republican Socialist Party
+17,84591,8,Aisling,Reilly,5681,0,6761.6,,,Sinn Fein
+17,11436,8,Pat,Sheehan,6370,1,6447.4,,,Sinn Fein
+17,69227,9,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,9,Gerard,Burns,192,0,0,Excluded,4,Independent
+17,7199,9,Gerry,Carroll,3279,238.2,3936.2,,,People Before Profit Alliance
+17,95177,9,Patrick,Crossan,193,0,0,Excluded,3,Workers Party
+17,69199,9,Paul,Doherty,2528,478.5,3232.7,,,Social Democratic and Labour Party
+17,84444,9,Jordan,Doran,802,0,0,Excluded,7,Traditional Unionist Voice
+17,19668,9,Órlaithí,Flynn,6743,68.4,7251.8,,,Sinn Fein
+17,84443,9,Linsey,Gibson,474,0,0,Excluded,6,Ulster Unionist Party
+17,84445,9,Gerard,Herdman,1753,35.2,1871.8,Excluded,9,Aontu
+17,50308,9,Donnamarie,Higgins,907,-1134.9,0,Excluded,8,Alliance Party
+17,95178,9,Declan,Hill,26,0,0,Excluded,2,Independent
+17,69201,9,Stevie,Maginn,307,0,0,Excluded,5,Green Party
+17,84451,9,Tony,Mallon,129,0,0,Excluded,2,Independent
+17,7174,9,Frank,McCoubrey,4166,76.2,5275.2,,,Democratic Unionist Party
+17,84590,9,Dan,Murphy,1103,7,1167.2,Excluded,9,Irish Republican Socialist Party
+17,84591,9,Aisling,Reilly,5681,50.5,6812.1,,,Sinn Fein
+17,11436,9,Pat,Sheehan,6370,26.8,6474.2,,,Sinn Fein
+17,69227,10,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,10,Gerard,Burns,192,0,0,Excluded,4,Independent
+17,7199,10,Gerry,Carroll,3279,543,4479.2,,,People Before Profit Alliance
+17,95177,10,Patrick,Crossan,193,0,0,Excluded,3,Workers Party
+17,69199,10,Paul,Doherty,2528,404.3,3637,Excluded,10,Social Democratic and Labour Party
+17,84444,10,Jordan,Doran,802,0,0,Excluded,7,Traditional Unionist Voice
+17,19668,10,Órlaithí,Flynn,6743,179,7430.8,Elected,10,Sinn Fein
+17,84443,10,Linsey,Gibson,474,0,0,Excluded,6,Ulster Unionist Party
+17,84445,10,Gerard,Herdman,1753,-1871.8,0,Excluded,9,Aontu
+17,50308,10,Donnamarie,Higgins,907,0,0,Excluded,8,Alliance Party
+17,95178,10,Declan,Hill,26,0,0,Excluded,2,Independent
+17,69201,10,Stevie,Maginn,307,0,0,Excluded,5,Green Party
+17,84451,10,Tony,Mallon,129,0,0,Excluded,2,Independent
+17,7174,10,Frank,McCoubrey,4166,154,5429.2,,,Democratic Unionist Party
+17,84590,10,Dan,Murphy,1103,-1167.2,0,Excluded,9,Irish Republican Socialist Party
+17,84591,10,Aisling,Reilly,5681,319,7131.1,,,Sinn Fein
+17,11436,10,Pat,Sheehan,6370,258.1,6732.3,,,Sinn Fein
+17,69227,11,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,84800,11,Gerard,Burns,192,0,0,Excluded,4,Independent
+17,7199,11,Gerry,Carroll,3279,1543.5,6022.7,Elected,11,People Before Profit Alliance
+17,95177,11,Patrick,Crossan,193,0,0,Excluded,3,Workers Party
+17,69199,11,Paul,Doherty,2528,-3637,0,Excluded,10,Social Democratic and Labour Party
+17,84444,11,Jordan,Doran,802,0,0,Excluded,7,Traditional Unionist Voice
+17,19668,11,Órlaithí,Flynn,6743,-222.8,7208,Elected,10,Sinn Fein
+17,84443,11,Linsey,Gibson,474,0,0,Excluded,6,Ulster Unionist Party
+17,84445,11,Gerard,Herdman,1753,0,0,Excluded,9,Aontu
+17,50308,11,Donnamarie,Higgins,907,0,0,Excluded,8,Alliance Party
+17,95178,11,Declan,Hill,26,0,0,Excluded,2,Independent
+17,69201,11,Stevie,Maginn,307,0,0,Excluded,5,Green Party
+17,84451,11,Tony,Mallon,129,0,0,Excluded,2,Independent
+17,7174,11,Frank,McCoubrey,4166,60.6,5489.8,Excluded,11,Democratic Unionist Party
+17,84590,11,Dan,Murphy,1103,0,0,Excluded,9,Irish Republican Socialist Party
+17,84591,11,Aisling,Reilly,5681,533,7664.1,Elected,11,Sinn Fein
+17,11436,11,Pat,Sheehan,6370,451.1,7183.4,Elected,11,Sinn Fein
