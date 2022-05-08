@@ -1,13 +1,73 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
 14,11532,1,Patrick,Brown,6942,0,6942,,,Alliance Party
 14,19728,1,Patrick,Clarke,134,0,134,,,Independent
-14,19671,1,Sinéad,Ennis,14381,0,14381,,,Sinn Fein
+14,19671,1,Sinéad,Ennis,14381,0,14381,Elected,1,Sinn Fein
 14,34534,1,Diane,Forsythe,6497,0,6497,,,Democratic Unionist Party
 14,85045,1,Noeleen,Lynch,412,0,412,,,Green Party
 14,68954,1,Jill,MacAuley,2818,0,2818,,,Ulster Unionist Party
-14,49592,1,Cathy,Mason,9963,0,9963,,,Sinn Fein
+14,49592,1,Cathy,Mason,9963,0,9963,Elected,1,Sinn Fein
 14,95165,1,Paul,McCrory,205,0,205,,,People Before Profit Alliance
 14,84612,1,Rosemary,McGlone,1177,0,1177,,,Aontu
 14,11535,1,Colin,McGrath,6082,0,6082,,,Social Democratic and Labour Party
 14,6709,1,Harold,McKee,3273,0,3273,,,Traditional Unionist Voice
 14,11398,1,Karen,McKevitt,3006,0,3006,,,Social Democratic and Labour Party
+14,11532,2,Patrick,Brown,6942,1129.2,8071.2,,,Alliance Party
+14,19728,2,Patrick,Clarke,134,74.8,208.8,,,Independent
+14,19671,2,Sinéad,Ennis,14381,-5222,9159,Elected,1,Sinn Fein
+14,34534,2,Diane,Forsythe,6497,14.6,6511.6,,,Democratic Unionist Party
+14,85045,2,Noeleen,Lynch,412,151.8,563.8,,,Green Party
+14,68954,2,Jill,MacAuley,2818,20.2,2838.2,,,Ulster Unionist Party
+14,49592,2,Cathy,Mason,9963,-804,9159,Elected,1,Sinn Fein
+14,95165,2,Paul,McCrory,205,64.9,269.9,,,People Before Profit Alliance
+14,84612,2,Rosemary,McGlone,1177,261.9,1438.9,,,Aontu
+14,11535,2,Colin,McGrath,6082,1665.8,7747.8,,,Social Democratic and Labour Party
+14,6709,2,Harold,McKee,3273,6.5,3279.5,,,Traditional Unionist Voice
+14,11398,2,Karen,McKevitt,3006,1765.6,4771.6,,,Social Democratic and Labour Party
+14,11532,3,Patrick,Brown,6942,179.9,8251.1,,,Alliance Party
+14,19728,3,Patrick,Clarke,134,14.9,223.7,Excluded,3,Independent
+14,19671,3,Sinéad,Ennis,14381,0,9159,Elected,1,Sinn Fein
+14,34534,3,Diane,Forsythe,6497,0.9,6512.5,,,Democratic Unionist Party
+14,85045,3,Noeleen,Lynch,412,16,579.8,Excluded,3,Green Party
+14,68954,3,Jill,MacAuley,2818,2,2840.2,,,Ulster Unionist Party
+14,49592,3,Cathy,Mason,9963,0,9159,Elected,1,Sinn Fein
+14,95165,3,Paul,McCrory,205,13.1,283,Excluded,3,People Before Profit Alliance
+14,84612,3,Rosemary,McGlone,1177,49.3,1488.2,Excluded,3,Aontu
+14,11535,3,Colin,McGrath,6082,416,8163.8,,,Social Democratic and Labour Party
+14,6709,3,Harold,McKee,3273,0.8,3280.3,,,Traditional Unionist Voice
+14,11398,3,Karen,McKevitt,3006,103.8,4875.4,,,Social Democratic and Labour Party
+14,11532,4,Patrick,Brown,6942,614.2,8865.3,,,Alliance Party
+14,19728,4,Patrick,Clarke,134,-223.7,0,Excluded,3,Independent
+14,19671,4,Sinéad,Ennis,14381,0,9159,Elected,1,Sinn Fein
+14,34534,4,Diane,Forsythe,6497,104.6,6617.1,,,Democratic Unionist Party
+14,85045,4,Noeleen,Lynch,412,-579.8,0,Excluded,3,Green Party
+14,68954,4,Jill,MacAuley,2818,42.2,2882.4,Excluded,4,Ulster Unionist Party
+14,49592,4,Cathy,Mason,9963,0,9159,Elected,1,Sinn Fein
+14,95165,4,Paul,McCrory,205,-283,0,Excluded,3,People Before Profit Alliance
+14,84612,4,Rosemary,McGlone,1177,-1488.2,0,Excluded,3,Aontu
+14,11535,4,Colin,McGrath,6082,634,8797.8,,,Social Democratic and Labour Party
+14,6709,4,Harold,McKee,3273,51.6,3331.9,,,Traditional Unionist Voice
+14,11398,4,Karen,McKevitt,3006,214.8,5090.2,,,Social Democratic and Labour Party
+14,11532,5,Patrick,Brown,6942,436,9301.3,Elected,5,Alliance Party
+14,19728,5,Patrick,Clarke,134,0,0,Excluded,3,Independent
+14,19671,5,Sinéad,Ennis,14381,0,9159,Elected,1,Sinn Fein
+14,34534,5,Diane,Forsythe,6497,1417.4,8034.5,,,Democratic Unionist Party
+14,85045,5,Noeleen,Lynch,412,0,0,Excluded,3,Green Party
+14,68954,5,Jill,MacAuley,2818,-2882.4,0,Excluded,4,Ulster Unionist Party
+14,49592,5,Cathy,Mason,9963,0,9159,Elected,1,Sinn Fein
+14,95165,5,Paul,McCrory,205,0,0,Excluded,3,People Before Profit Alliance
+14,84612,5,Rosemary,McGlone,1177,0,0,Excluded,3,Aontu
+14,11535,5,Colin,McGrath,6082,135.2,8933,,,Social Democratic and Labour Party
+14,6709,5,Harold,McKee,3273,786.1,4118,Excluded,5,Traditional Unionist Voice
+14,11398,5,Karen,McKevitt,3006,48.8,5139,,,Social Democratic and Labour Party
+14,11532,6,Patrick,Brown,6942,-142.3,9159,Elected,5,Alliance Party
+14,19728,6,Patrick,Clarke,134,0,0,Excluded,3,Independent
+14,19671,6,Sinéad,Ennis,14381,0,9159,Elected,1,Sinn Fein
+14,34534,6,Diane,Forsythe,6497,3039,11073.5,Elected,6,Democratic Unionist Party
+14,85045,6,Noeleen,Lynch,412,0,0,Excluded,3,Green Party
+14,68954,6,Jill,MacAuley,2818,0,0,Excluded,4,Ulster Unionist Party
+14,49592,6,Cathy,Mason,9963,0,9159,Elected,1,Sinn Fein
+14,95165,6,Paul,McCrory,205,0,0,Excluded,3,People Before Profit Alliance
+14,84612,6,Rosemary,McGlone,1177,0,0,Excluded,3,Aontu
+14,11535,6,Colin,McGrath,6082,185.7,9118.7,Elected,6,Social Democratic and Labour Party
+14,6709,6,Harold,McKee,3273,-4118,0,Excluded,5,Traditional Unionist Voice
+14,11398,6,Karen,McKevitt,3006,120.5,5259.5,Excluded,6,Social Democratic and Labour Party
