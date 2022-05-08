@@ -16,7 +16,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,84590,1,Dan,Murphy,1103,0,1103,,,Irish Republican Socialist Party
 17,84591,1,Aisling,Reilly,5681,0,5681,,,Sinn Fein
 17,11436,1,Pat,Sheehan,6370,0,6370,,,Sinn Fein
-17,69227,2,Danny,Baker,9011,-1803,7208,Elected,1,Sinn Fein
+17,69227,2,Danny,Baker,9011,-1733,7278,Elected,1,Sinn Fein
 17,84800,2,Gerard,Burns,192,16.9,208.9,,,Independent
 17,7199,2,Gerry,Carroll,3279,115.3,3394.3,,,People Before Profit Alliance
 17,95177,2,Patrick,Crossan,193,4.8,197.8,,,Workers Party
@@ -33,7 +33,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,84590,2,Dan,Murphy,1103,12.2,1115.2,,,Irish Republican Socialist Party
 17,84591,2,Aisling,Reilly,5681,1028.5,6709.5,,,Sinn Fein
 17,11436,2,Pat,Sheehan,6370,49.4,6419.4,,,Sinn Fein
-17,69227,3,Danny,Baker,9011,0,7208,Elected,1,Sinn Fein
+17,69227,3,Danny,Baker,9011,-70,7208,Elected,1,Sinn Fein
 17,84800,3,Gerard,Burns,192,28.2,237.1,,,Independent
 17,7199,3,Gerry,Carroll,3279,19.8,3414.1,,,People Before Profit Alliance
 17,95177,3,Patrick,Crossan,193,6.8,204.6,Excluded,3,Workers Party
@@ -175,7 +175,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,95177,11,Patrick,Crossan,193,0,0,Excluded,3,Workers Party
 17,69199,11,Paul,Doherty,2528,-3637,0,Excluded,10,Social Democratic and Labour Party
 17,84444,11,Jordan,Doran,802,0,0,Excluded,7,Traditional Unionist Voice
-17,19668,11,Órlaithí,Flynn,6743,-222.8,7208,Elected,10,Sinn Fein
+17,19668,11,Órlaithí,Flynn,6743,-152.8,7278,Elected,10,Sinn Fein
 17,84443,11,Linsey,Gibson,474,0,0,Excluded,6,Ulster Unionist Party
 17,84445,11,Gerard,Herdman,1753,0,0,Excluded,9,Aontu
 17,50308,11,Donnamarie,Higgins,907,0,0,Excluded,8,Alliance Party
