@@ -1,11 +1,11 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
 10,49673,1,Phillip,Brett,6329,0,6329,,,Democratic Unionist Party
-10,11377,1,Carál Ní,Chuilín,7932,0,7932,,,Sinn Fein
+10,11377,1,Carál Ní,Chuilín,7932,0,7932,Elected,1,Sinn Fein
 10,19690,1,Julie-Anne,Corr-Johnston,2643,0,2643,,,Ulster Unionist Party
 10,11371,1,Fiona,Ferguson,1059,0,1059,,,People Before Profit Alliance
 10,11372,1,Billy,Hutchinson,762,0,762,,,Progressive Unionist Party
-10,131,1,Gerry,Kelly,8395,0,8395,,,Sinn Fein
-10,6265,1,Lily,Kerr,4418,0,4418,,,Workers Party
+10,131,1,Gerry,Kelly,8395,0,8395,Elected,1,Sinn Fein
+10,6265,1,Lily,Kerr,168,0,168,,,Workers Party
 10,49668,1,Brian,Kingston,4844,0,4844,,,Democratic Unionist Party
 10,11385,1,Nichola,Mallon,3604,0,3604,,,Social Democratic and Labour Party
 10,11374,1,Nuala,McAllister,4381,0,4381,,,Alliance Party
@@ -13,3 +13,143 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,11378,1,Malachai,O'Hara,1446,0,1446,,,Green Party
 10,68137,1,Stafford,Ward,489,0,489,,,Independent
 10,95159,1,Seán Mac,Niocaill,640,0,640,,,Aontu
+10,49673,2,Phillip,Brett,6329,1.4,6330.4,,,Democratic Unionist Party
+10,11377,2,Carál Ní,Chuilín,7932,-260,7672,Elected,1,Sinn Fein
+10,19690,2,Julie-Anne,Corr-Johnston,2643,1.7,2644.7,,,Ulster Unionist Party
+10,11371,2,Fiona,Ferguson,1059,69,1128,,,People Before Profit Alliance
+10,11372,2,Billy,Hutchinson,762,1.1,763.1,,,Progressive Unionist Party
+10,131,2,Gerry,Kelly,8395,-723,7672,Elected,1,Sinn Fein
+10,6265,2,Lily,Kerr,4418,6.7,174.7,Excluded,2,Workers Party
+10,49668,2,Brian,Kingston,4844,0.9,4844.9,,,Democratic Unionist Party
+10,11385,2,Nichola,Mallon,3604,407.6,4011.6,,,Social Democratic and Labour Party
+10,11374,2,Nuala,McAllister,4381,122,4503,,,Alliance Party
+10,84283,2,Ron,McDowell,3335,0.4,3335.4,,,Traditional Unionist Voice
+10,11378,2,Malachai,O'Hara,1446,64.4,1510.4,,,Green Party
+10,68137,2,Stafford,Ward,489,1.2,490.2,,,Independent
+10,95159,2,Seán Mac,Niocaill,640,27.8,667.8,,,Aontu
+10,49673,3,Phillip,Brett,6329,5.1,6335.5,,,Democratic Unionist Party
+10,11377,3,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,3,Julie-Anne,Corr-Johnston,2643,7,2651.7,,,Ulster Unionist Party
+10,11371,3,Fiona,Ferguson,1059,48,1176,,,People Before Profit Alliance
+10,11372,3,Billy,Hutchinson,762,0,763.1,,,Progressive Unionist Party
+10,131,3,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,3,Lily,Kerr,4418,-174.7,0,Excluded,2,Workers Party
+10,49668,3,Brian,Kingston,4844,3.1,4848,,,Democratic Unionist Party
+10,11385,3,Nichola,Mallon,3604,26.7,4038.3,,,Social Democratic and Labour Party
+10,11374,3,Nuala,McAllister,4381,25.4,4528.4,,,Alliance Party
+10,84283,3,Ron,McDowell,3335,3.1,3338.5,,,Traditional Unionist Voice
+10,11378,3,Malachai,O'Hara,1446,25.7,1536.1,,,Green Party
+10,68137,3,Stafford,Ward,489,5,495.2,,,Independent
+10,95159,3,Seán Mac,Niocaill,640,6.3,674.1,,,Aontu
+10,49673,4,Phillip,Brett,6329,0.4,6335.9,,,Democratic Unionist Party
+10,11377,4,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,4,Julie-Anne,Corr-Johnston,2643,0.7,2652.4,,,Ulster Unionist Party
+10,11371,4,Fiona,Ferguson,1059,35.2,1211.2,,,People Before Profit Alliance
+10,11372,4,Billy,Hutchinson,762,0.1,763.2,,,Progressive Unionist Party
+10,131,4,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,4,Lily,Kerr,4418,0,0,Excluded,2,Workers Party
+10,49668,4,Brian,Kingston,4844,0.3,4848.3,,,Democratic Unionist Party
+10,11385,4,Nichola,Mallon,3604,141.3,4179.6,,,Social Democratic and Labour Party
+10,11374,4,Nuala,McAllister,4381,37,4565.4,,,Alliance Party
+10,84283,4,Ron,McDowell,3335,0.1,3338.6,,,Traditional Unionist Voice
+10,11378,4,Malachai,O'Hara,1446,33.9,1570,,,Green Party
+10,68137,4,Stafford,Ward,489,0.4,495.6,Excluded,4,Independent
+10,95159,4,Seán Mac,Niocaill,640,9.8,683.9,,,Aontu
+10,49673,5,Phillip,Brett,6329,116,6451.9,,,Democratic Unionist Party
+10,11377,5,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,5,Julie-Anne,Corr-Johnston,2643,78,2730.4,,,Ulster Unionist Party
+10,11371,5,Fiona,Ferguson,1059,11.1,1222.3,,,People Before Profit Alliance
+10,11372,5,Billy,Hutchinson,762,56,819.2,,,Progressive Unionist Party
+10,131,5,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,5,Lily,Kerr,4418,0,0,Excluded,2,Workers Party
+10,49668,5,Brian,Kingston,4844,41,4889.3,,,Democratic Unionist Party
+10,11385,5,Nichola,Mallon,3604,9.1,4188.7,,,Social Democratic and Labour Party
+10,11374,5,Nuala,McAllister,4381,25,4590.4,,,Alliance Party
+10,84283,5,Ron,McDowell,3335,90,3428.6,,,Traditional Unionist Voice
+10,11378,5,Malachai,O'Hara,1446,33.5,1603.5,,,Green Party
+10,68137,5,Stafford,Ward,489,-495.6,0,Excluded,4,Independent
+10,95159,5,Seán Mac,Niocaill,640,6,689.9,,,Aontu
+10,49673,6,Phillip,Brett,6329,54,6505.9,,,Democratic Unionist Party
+10,11377,6,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,6,Julie-Anne,Corr-Johnston,2643,6.1,2736.5,,,Ulster Unionist Party
+10,11371,6,Fiona,Ferguson,1059,33.7,1256,,,People Before Profit Alliance
+10,11372,6,Billy,Hutchinson,762,1,820.2,Excluded,6,Progressive Unionist Party
+10,131,6,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,6,Lily,Kerr,4418,0,0,Excluded,2,Workers Party
+10,49668,6,Brian,Kingston,4844,30,4919.3,,,Democratic Unionist Party
+10,11385,6,Nichola,Mallon,3604,195.9,4384.6,,,Social Democratic and Labour Party
+10,11374,6,Nuala,McAllister,4381,47.9,4638.3,,,Alliance Party
+10,84283,6,Ron,McDowell,3335,16.1,3444.7,,,Traditional Unionist Voice
+10,11378,6,Malachai,O'Hara,1446,40.5,1644,,,Green Party
+10,68137,6,Stafford,Ward,489,0,0,Excluded,4,Independent
+10,95159,6,Seán Mac,Niocaill,640,0,689.9,Excluded,6,Aontu
+10,49673,7,Phillip,Brett,6329,193,6698.9,,,Democratic Unionist Party
+10,11377,7,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,7,Julie-Anne,Corr-Johnston,2643,151,2887.5,,,Ulster Unionist Party
+10,11371,7,Fiona,Ferguson,1059,10,1266,Excluded,7,People Before Profit Alliance
+10,11372,7,Billy,Hutchinson,762,-820.2,0,Excluded,6,Progressive Unionist Party
+10,131,7,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,7,Lily,Kerr,4418,0,0,Excluded,2,Workers Party
+10,49668,7,Brian,Kingston,4844,193.2,5112.5,,,Democratic Unionist Party
+10,11385,7,Nichola,Mallon,3604,14.1,4398.7,,,Social Democratic and Labour Party
+10,11374,7,Nuala,McAllister,4381,9,4647.3,,,Alliance Party
+10,84283,7,Ron,McDowell,3335,224,3668.7,,,Traditional Unionist Voice
+10,11378,7,Malachai,O'Hara,1446,7.1,1651.1,,,Green Party
+10,68137,7,Stafford,Ward,489,0,0,Excluded,4,Independent
+10,95159,7,Seán Mac,Niocaill,640,-689.9,0,Excluded,6,Aontu
+10,49673,8,Phillip,Brett,6329,25.2,6724.1,,,Democratic Unionist Party
+10,11377,8,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,8,Julie-Anne,Corr-Johnston,2643,39.6,2927.1,,,Ulster Unionist Party
+10,11371,8,Fiona,Ferguson,1059,-1266,0,Excluded,7,People Before Profit Alliance
+10,11372,8,Billy,Hutchinson,762,0,0,Excluded,6,Progressive Unionist Party
+10,131,8,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,8,Lily,Kerr,4418,0,0,Excluded,2,Workers Party
+10,49668,8,Brian,Kingston,4844,10,5122.5,,,Democratic Unionist Party
+10,11385,8,Nichola,Mallon,3604,334.5,4733.2,,,Social Democratic and Labour Party
+10,11374,8,Nuala,McAllister,4381,185.1,4832.4,,,Alliance Party
+10,84283,8,Ron,McDowell,3335,8,3676.7,,,Traditional Unionist Voice
+10,11378,8,Malachai,O'Hara,1446,437.3,2088.4,Excluded,8,Green Party
+10,68137,8,Stafford,Ward,489,0,0,Excluded,4,Independent
+10,95159,8,Seán Mac,Niocaill,640,0,0,Excluded,6,Aontu
+10,49673,9,Phillip,Brett,6329,30.3,6754.4,,,Democratic Unionist Party
+10,11377,9,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,9,Julie-Anne,Corr-Johnston,2643,67.6,2994.7,Excluded,9,Ulster Unionist Party
+10,11371,9,Fiona,Ferguson,1059,0,0,Excluded,7,People Before Profit Alliance
+10,11372,9,Billy,Hutchinson,762,0,0,Excluded,6,Progressive Unionist Party
+10,131,9,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,9,Lily,Kerr,4418,0,0,Excluded,2,Workers Party
+10,49668,9,Brian,Kingston,4844,40.3,5162.8,,,Democratic Unionist Party
+10,11385,9,Nichola,Mallon,3604,592,5325.2,,,Social Democratic and Labour Party
+10,11374,9,Nuala,McAllister,4381,915,5747.4,,,Alliance Party
+10,84283,9,Ron,McDowell,3335,24.6,3701.3,,,Traditional Unionist Voice
+10,11378,9,Malachai,O'Hara,1446,-2088.4,0,Excluded,8,Green Party
+10,68137,9,Stafford,Ward,489,0,0,Excluded,4,Independent
+10,95159,9,Seán Mac,Niocaill,640,0,0,Excluded,6,Aontu
+10,49673,10,Phillip,Brett,6329,965,7719.4,Elected,10,Democratic Unionist Party
+10,11377,10,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,10,Julie-Anne,Corr-Johnston,2643,-2994.7,0,Excluded,9,Ulster Unionist Party
+10,11371,10,Fiona,Ferguson,1059,0,0,Excluded,7,People Before Profit Alliance
+10,11372,10,Billy,Hutchinson,762,0,0,Excluded,6,Progressive Unionist Party
+10,131,10,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,10,Lily,Kerr,4418,0,0,Excluded,2,Workers Party
+10,49668,10,Brian,Kingston,4844,474.1,5636.9,,,Democratic Unionist Party
+10,11385,10,Nichola,Mallon,3604,163.6,5488.8,,,Social Democratic and Labour Party
+10,11374,10,Nuala,McAllister,4381,615.1,6362.5,,,Alliance Party
+10,84283,10,Ron,McDowell,3335,560.1,4261.4,Excluded,10,Traditional Unionist Voice
+10,11378,10,Malachai,O'Hara,1446,0,0,Excluded,8,Green Party
+10,68137,10,Stafford,Ward,489,0,0,Excluded,4,Independent
+10,95159,10,Seán Mac,Niocaill,640,0,0,Excluded,6,Aontu
+10,49673,10,Phillip,Brett,6329,-47.4,7672,Elected,10,Democratic Unionist Party
+10,11377,10,Carál Ní,Chuilín,7932,0,7672,Elected,1,Sinn Fein
+10,19690,10,Julie-Anne,Corr-Johnston,2643,0,0,Excluded,9,Ulster Unionist Party
+10,11371,10,Fiona,Ferguson,1059,0,0,Excluded,7,People Before Profit Alliance
+10,11372,10,Billy,Hutchinson,762,0,0,Excluded,6,Progressive Unionist Party
+10,131,10,Gerry,Kelly,8395,0,7672,Elected,1,Sinn Fein
+10,6265,10,Lily,Kerr,4418,0,0,Excluded,2,Workers Party
+10,49668,10,Brian,Kingston,4844,2770,8406.9,Elected,11,Democratic Unionist Party
+10,11385,10,Nichola,Mallon,3604,83.2,5572,Excluded,11,Social Democratic and Labour Party
+10,11374,10,Nuala,McAllister,4381,200.6,6563.1,Elected,11,Alliance Party
+10,84283,10,Ron,McDowell,3335,-4261.4,0,Excluded,10,Traditional Unionist Voice
+10,11378,10,Malachai,O'Hara,1446,0,0,Excluded,8,Green Party
+10,68137,10,Stafford,Ward,489,0,0,Excluded,4,Independent
+10,95159,10,Seán Mac,Niocaill,640,0,0,Excluded,6,Aontu
