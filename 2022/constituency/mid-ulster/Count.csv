@@ -8,8 +8,120 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 7,95172,1,Sophia,McFeely,179,0,179,,,People Before Profit Alliance
 7,11291,1,Patsy,McGlone,5144,0,5144,,,Social Democratic and Labour Party
 7,85586,1,Glenn,Moore,3818,0,3818,,,Traditional Unionist Voice
-7,11276,1,Michelle,O'Neill,10845,0,10845,,,Sinn Fein
+7,11276,1,Michelle,O'Neill,10845,0,10845,Elected,1,Sinn Fein
 7,72336,1,Conor,Rafferty,13,0,13,,,The Resume Party (NI)
 7,7088,1,Hugh,Scullion,107,0,107,,,Workers Party
 7,84504,1,Emma,Sheerin,8215,0,8215,,,Sinn Fein
 7,10203,1,Stefan,Taylor,137,0,137,,,Green Party
+7,11273,2,Keith,Buchanan,8521,2,8523,,,Democratic Unionist Party
+7,11274,2,Linda,Dillon,8199,1297,9496,Elected,2,Sinn Fein
+7,49835,2,Meta,Graham,2191,0.8,2191.8,,,Ulster Unionist Party
+7,84457,2,Claire,Hackett,2138,37.4,2175.4,,,Alliance Party
+7,85042,2,Alixandra,Halliday,1305,11.4,1316.4,,,Aontu
+7,95171,2,Patrick,Haughey,877,10.8,887.8,,,Independent
+7,95172,2,Sophia,McFeely,179,1.2,180.2,,,People Before Profit Alliance
+7,11291,2,Patsy,McGlone,5144,276,5420,,,Social Democratic and Labour Party
+7,85586,2,Glenn,Moore,3818,0.6,3818.6,,,Traditional Unionist Voice
+7,11276,2,Michelle,O'Neill,10845,-2230,8615,Elected,1,Sinn Fein
+7,72336,2,Conor,Rafferty,13,1,14,,,The Resume Party (NI)
+7,7088,2,Hugh,Scullion,107,7.2,114.2,,,Workers Party
+7,84504,2,Emma,Sheerin,8215,500.8,8715.8,Elected,2,Sinn Fein
+7,10203,2,Stefan,Taylor,137,3,140,,,Green Party
+7,11273,3,Keith,Buchanan,8521,0.2,8523.2,,,Democratic Unionist Party
+7,11274,3,Linda,Dillon,8199,-881,8615,Elected,2,Sinn Fein
+7,49835,3,Meta,Graham,2191,1.2,2193,,,Ulster Unionist Party
+7,84457,3,Claire,Hackett,2138,82.4,2257.8,,,Alliance Party
+7,85042,3,Alixandra,Halliday,1305,36.8,1353.2,,,Aontu
+7,95171,3,Patrick,Haughey,877,20.2,908,,,Independent
+7,95172,3,Sophia,McFeely,179,6.4,186.6,Excluded,3,People Before Profit Alliance
+7,11291,3,Patsy,McGlone,5144,467.6,5887.6,,,Social Democratic and Labour Party
+7,85586,3,Glenn,Moore,3818,0.6,3819.2,,,Traditional Unionist Voice
+7,11276,3,Michelle,O'Neill,10845,0,8615,Elected,1,Sinn Fein
+7,72336,3,Conor,Rafferty,13,0.6,14.6,Excluded,3,The Resume Party (NI)
+7,7088,3,Hugh,Scullion,107,10.6,124.8,Excluded,3,Workers Party
+7,84504,3,Emma,Sheerin,8215,-100.8,8615,Elected,2,Sinn Fein
+7,10203,3,Stefan,Taylor,137,10.2,150.2,Excluded,3,Green Party
+7,11273,4,Keith,Buchanan,8521,8,8531.2,,,Democratic Unionist Party
+7,11274,4,Linda,Dillon,8199,0,8615,Elected,2,Sinn Fein
+7,49835,4,Meta,Graham,2191,11.2,2204.2,,,Ulster Unionist Party
+7,84457,4,Claire,Hackett,2138,139.8,2397.6,,,Alliance Party
+7,85042,4,Alixandra,Halliday,1305,29.8,1383,,,Aontu
+7,95171,4,Patrick,Haughey,877,61,969,Excluded,4,Independent
+7,95172,4,Sophia,McFeely,179,-186.6,0,Excluded,3,People Before Profit Alliance
+7,11291,4,Patsy,McGlone,5144,109.4,5997,,,Social Democratic and Labour Party
+7,85586,4,Glenn,Moore,3818,8.8,3828,,,Traditional Unionist Voice
+7,11276,4,Michelle,O'Neill,10845,0,8615,Elected,1,Sinn Fein
+7,72336,4,Conor,Rafferty,13,-14.6,0,Excluded,3,The Resume Party (NI)
+7,7088,4,Hugh,Scullion,107,-124.8,0,Excluded,3,Workers Party
+7,84504,4,Emma,Sheerin,8215,0,8615,Elected,2,Sinn Fein
+7,10203,4,Stefan,Taylor,137,-150.2,0,Excluded,3,Green Party
+7,11273,5,Keith,Buchanan,8521,69.4,8600.6,,,Democratic Unionist Party
+7,11274,5,Linda,Dillon,8199,0,8615,Elected,2,Sinn Fein
+7,49835,5,Meta,Graham,2191,16.4,2220.6,,,Ulster Unionist Party
+7,84457,5,Claire,Hackett,2138,119.6,2517.2,,,Alliance Party
+7,85042,5,Alixandra,Halliday,1305,266.2,1649.2,Excluded,5,Aontu
+7,95171,5,Patrick,Haughey,877,-969,0,Excluded,4,Independent
+7,95172,5,Sophia,McFeely,179,0,0,Excluded,3,People Before Profit Alliance
+7,11291,5,Patsy,McGlone,5144,186,6183,,,Social Democratic and Labour Party
+7,85586,5,Glenn,Moore,3818,27,3855,,,Traditional Unionist Voice
+7,11276,5,Michelle,O'Neill,10845,0,8615,Elected,1,Sinn Fein
+7,72336,5,Conor,Rafferty,13,0,0,Excluded,3,The Resume Party (NI)
+7,7088,5,Hugh,Scullion,107,0,0,Excluded,3,Workers Party
+7,84504,5,Emma,Sheerin,8215,0,8615,Elected,2,Sinn Fein
+7,10203,5,Stefan,Taylor,137,0,0,Excluded,3,Green Party
+7,11273,6,Keith,Buchanan,8521,95,8695.6,Elected,6,Democratic Unionist Party
+7,11274,6,Linda,Dillon,8199,0,8615,Elected,2,Sinn Fein
+7,49835,6,Meta,Graham,2191,4,2224.6,,,Ulster Unionist Party
+7,84457,6,Claire,Hackett,2138,108,2625.2,,,Alliance Party
+7,85042,6,Alixandra,Halliday,1305,-1649.2,0,Excluded,5,Aontu
+7,95171,6,Patrick,Haughey,877,0,0,Excluded,4,Independent
+7,95172,6,Sophia,McFeely,179,0,0,Excluded,3,People Before Profit Alliance
+7,11291,6,Patsy,McGlone,5144,397,6580,,,Social Democratic and Labour Party
+7,85586,6,Glenn,Moore,3818,13,3868,,,Traditional Unionist Voice
+7,11276,6,Michelle,O'Neill,10845,0,8615,Elected,1,Sinn Fein
+7,72336,6,Conor,Rafferty,13,0,0,Excluded,3,The Resume Party (NI)
+7,7088,6,Hugh,Scullion,107,0,0,Excluded,3,Workers Party
+7,84504,6,Emma,Sheerin,8215,0,8615,Elected,2,Sinn Fein
+7,10203,6,Stefan,Taylor,137,0,0,Excluded,3,Green Party
+7,11273,7,Keith,Buchanan,8521,-80.6,8615,Elected,6,Democratic Unionist Party
+7,11274,7,Linda,Dillon,8199,0,8615,Elected,2,Sinn Fein
+7,49835,7,Meta,Graham,2191,4.2,2228.8,Excluded,7,Ulster Unionist Party
+7,84457,7,Claire,Hackett,2138,38.8,2664,,,Alliance Party
+7,85042,7,Alixandra,Halliday,1305,0,0,Excluded,5,Aontu
+7,95171,7,Patrick,Haughey,877,0,0,Excluded,4,Independent
+7,95172,7,Sophia,McFeely,179,0,0,Excluded,3,People Before Profit Alliance
+7,11291,7,Patsy,McGlone,5144,59.8,6639.8,,,Social Democratic and Labour Party
+7,85586,7,Glenn,Moore,3818,26,3894,,,Traditional Unionist Voice
+7,11276,7,Michelle,O'Neill,10845,0,8615,Elected,1,Sinn Fein
+7,72336,7,Conor,Rafferty,13,0,0,Excluded,3,The Resume Party (NI)
+7,7088,7,Hugh,Scullion,107,0,0,Excluded,3,Workers Party
+7,84504,7,Emma,Sheerin,8215,0,8615,Elected,2,Sinn Fein
+7,10203,7,Stefan,Taylor,137,0,0,Excluded,3,Green Party
+7,11273,8,Keith,Buchanan,8521,0,8615,Elected,6,Democratic Unionist Party
+7,11274,8,Linda,Dillon,8199,0,8615,Elected,2,Sinn Fein
+7,49835,8,Meta,Graham,2191,-2228.8,0,Excluded,7,Ulster Unionist Party
+7,84457,8,Claire,Hackett,2138,517,3181,Excluded,8,Alliance Party
+7,85042,8,Alixandra,Halliday,1305,0,0,Excluded,5,Aontu
+7,95171,8,Patrick,Haughey,877,0,0,Excluded,4,Independent
+7,95172,8,Sophia,McFeely,179,0,0,Excluded,3,People Before Profit Alliance
+7,11291,8,Patsy,McGlone,5144,316.2,6956,,,Social Democratic and Labour Party
+7,85586,8,Glenn,Moore,3818,1233,5127,,,Traditional Unionist Voice
+7,11276,8,Michelle,O'Neill,10845,0,8615,Elected,1,Sinn Fein
+7,72336,8,Conor,Rafferty,13,0,0,Excluded,3,The Resume Party (NI)
+7,7088,8,Hugh,Scullion,107,0,0,Excluded,3,Workers Party
+7,84504,8,Emma,Sheerin,8215,0,8615,Elected,2,Sinn Fein
+7,10203,8,Stefan,Taylor,137,0,0,Excluded,3,Green Party
+7,11273,9,Keith,Buchanan,8521,0,8615,Elected,6,Democratic Unionist Party
+7,11274,9,Linda,Dillon,8199,0,8615,Elected,2,Sinn Fein
+7,49835,9,Meta,Graham,2191,0,0,Excluded,7,Ulster Unionist Party
+7,84457,9,Claire,Hackett,2138,-3181,0,Excluded,8,Alliance Party
+7,85042,9,Alixandra,Halliday,1305,0,0,Excluded,5,Aontu
+7,95171,9,Patrick,Haughey,877,0,0,Excluded,4,Independent
+7,95172,9,Sophia,McFeely,179,0,0,Excluded,3,People Before Profit Alliance
+7,11291,9,Patsy,McGlone,5144,1855,8811,Elected,9,Social Democratic and Labour Party
+7,85586,9,Glenn,Moore,3818,238,5365,Excluded,9,Traditional Unionist Voice
+7,11276,9,Michelle,O'Neill,10845,0,8615,Elected,1,Sinn Fein
+7,72336,9,Conor,Rafferty,13,0,0,Excluded,3,The Resume Party (NI)
+7,7088,9,Hugh,Scullion,107,0,0,Excluded,3,Workers Party
+7,84504,9,Emma,Sheerin,8215,0,8615,Elected,2,Sinn Fein
+7,10203,9,Stefan,Taylor,137,0,0,Excluded,3,Green Party
