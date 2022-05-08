@@ -3,7 +3,7 @@ import pandas as pd
 
 path_init = 'C:/Personal/Github/electionsni/2022/constituency/'
 
-constituency = 'belfast-west'
+constituency = 'east-londonderry'
 
 full_path = path_init + constituency + '/'
 
