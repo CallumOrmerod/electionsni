@@ -1,85 +1,127 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-11,3876,1,Steven,Agnew,5178,0.00,5178.00,,,Green Party
-11,19748,1,Chris,Carter,92,0.00,92.00,,,Independent
-11,8154,1,Alan,Chambers,7151,0.00,7151.00,Elected,1,Ulster Unionist Party
-11,6914,1,William,Cudworth,964,0.00,964.00,,,Ulster Unionist Party
-11,11550,1,Gordon Mervyn,Dunne,6118,0.00,6118.00,,,Democratic Unionist Party
-11,7178,1,Alex,Easton,8034,0.00,8034.00,Elected,1,Democratic Unionist Party
-11,3598,1,Stephen,Farry,7014,0.00,7014.00,Elected,1,Alliance Party
-11,19712,1,Melanie,Kennedy,1246,0.00,1246.00,,,Independent
-11,19711,1,Kieran,Maxwell,591,0.00,591.00,,,Sinn Fein
-11,19715,1,Caoimhe,McNeill,679,0.00,679.00,,,Social Democratic and Labour Party
-11,19749,1,Gavan Aloysius,Reynolds,31,0.00,31.00,,,Independent
-11,11548,1,Frank,Shivers,641,0.00,641.00,,,NI Conservatives
-11,3876,2,Steven,Agnew,5178,42.24,5220.24,,,Green Party
-11,19748,2,Chris,Carter,92,2.20,94.20,,,Independent
-11,8154,2,Alan,Chambers,7151,0.00,7151.00,Elected,1,Ulster Unionist Party
-11,6914,2,William,Cudworth,964,65.12,1029.12,,,Ulster Unionist Party
-11,11550,2,Gordon Mervyn,Dunne,6118,1560.68,7678.68,Elected,2,Democratic Unionist Party
-11,7178,2,Alex,Easton,8034,-1744.00,6290.00,Elected,1,Democratic Unionist Party
-11,3598,2,Stephen,Farry,7014,0.00,7014.00,Elected,1,Alliance Party
-11,19712,2,Melanie,Kennedy,1246,39.82,1285.82,,,Independent
-11,19711,2,Kieran,Maxwell,591,0.22,591.22,,,Sinn Fein
-11,19715,2,Caoimhe,McNeill,679,2.86,681.86,,,Social Democratic and Labour Party
-11,19749,2,Gavan Aloysius,Reynolds,31,1.54,32.54,,,Independent
-11,11548,2,Frank,Shivers,641,13.20,654.20,,,NI Conservatives
-11,3876,3,Steven,Agnew,5178,100.54,5320.78,,,Green Party
-11,19748,3,Chris,Carter,92,21.78,115.98,,,Independent
-11,8154,3,Alan,Chambers,7151,0.00,7151.00,Elected,1,Ulster Unionist Party
-11,6914,3,William,Cudworth,964,852.50,1881.62,,,Ulster Unionist Party
-11,11550,3,Gordon Mervyn,Dunne,6118,-1388.68,6290.00,Elected,2,Democratic Unionist Party
-11,7178,3,Alex,Easton,8034,0.00,6290.00,Elected,1,Democratic Unionist Party
-11,3598,3,Stephen,Farry,7014,0.00,7014.00,Elected,1,Alliance Party
-11,19712,3,Melanie,Kennedy,1246,85.80,1371.62,,,Independent
-11,19711,3,Kieran,Maxwell,591,0.66,591.88,,,Sinn Fein
-11,19715,3,Caoimhe,McNeill,679,4.40,686.26,,,Social Democratic and Labour Party
-11,19749,3,Gavan Aloysius,Reynolds,31,4.84,37.38,,,Independent
-11,11548,3,Frank,Shivers,641,86.46,740.66,,,NI Conservatives
-11,3876,4,Steven,Agnew,5178,67.44,5388.22,,,Green Party
-11,19748,4,Chris,Carter,92,3.12,119.10,,,Independent
-11,8154,4,Alan,Chambers,7151,-861.00,6290.00,Elected,1,Ulster Unionist Party
-11,6914,4,William,Cudworth,964,703.68,2585.30,,,Ulster Unionist Party
-11,11550,4,Gordon Mervyn,Dunne,6118,0.00,6290.00,Elected,2,Democratic Unionist Party
-11,7178,4,Alex,Easton,8034,0.00,6290.00,Elected,1,Democratic Unionist Party
-11,3598,4,Stephen,Farry,7014,0.00,7014.00,Elected,1,Alliance Party
-11,19712,4,Melanie,Kennedy,1246,18.24,1389.86,,,Independent
-11,19711,4,Kieran,Maxwell,591,0.72,592.60,,,Sinn Fein
-11,19715,4,Caoimhe,McNeill,679,20.88,707.14,,,Social Democratic and Labour Party
-11,19749,4,Gavan Aloysius,Reynolds,31,0.96,38.34,,,Independent
-11,11548,4,Frank,Shivers,641,15.48,756.14,,,NI Conservatives
-11,3876,5,Steven,Agnew,5178,394.10,5782.32,,,Green Party
-11,19748,5,Chris,Carter,92,7.60,126.70,Excluded,5,Independent
-11,8154,5,Alan,Chambers,7151,0.00,6290.00,Elected,1,Ulster Unionist Party
-11,6914,5,William,Cudworth,964,105.20,2690.50,,,Ulster Unionist Party
-11,11550,5,Gordon Mervyn,Dunne,6118,0.00,6290.00,Elected,2,Democratic Unionist Party
-11,7178,5,Alex,Easton,8034,0.00,6290.00,Elected,1,Democratic Unionist Party
-11,3598,5,Stephen,Farry,7014,-724.00,6290.00,Elected,1,Alliance Party
-11,19712,5,Melanie,Kennedy,1246,40.00,1429.86,,,Independent
-11,19711,5,Kieran,Maxwell,591,11.90,604.50,Excluded,5,Sinn Fein
-11,19715,5,Caoimhe,McNeill,679,93.40,800.54,,,Social Democratic and Labour Party
-11,19749,5,Gavan Aloysius,Reynolds,31,2.10,40.44,Excluded,5,Independent
-11,11548,5,Frank,Shivers,641,21.10,777.24,,,NI Conservatives
-11,3876,6,Steven,Agnew,5178,197.64,5979.96,,,Green Party
-11,19748,6,Chris,Carter,92,-126.70,0.00,Excluded,5,Independent
-11,8154,6,Alan,Chambers,7151,0.00,6290.00,Elected,1,Ulster Unionist Party
-11,6914,6,William,Cudworth,964,35.72,2726.22,,,Ulster Unionist Party
-11,11550,6,Gordon Mervyn,Dunne,6118,0.00,6290.00,Elected,2,Democratic Unionist Party
-11,7178,6,Alex,Easton,8034,0.00,6290.00,Elected,1,Democratic Unionist Party
-11,3598,6,Stephen,Farry,7014,0.00,6290.00,Elected,1,Alliance Party
-11,19712,6,Melanie,Kennedy,1246,74.10,1503.96,,,Independent
-11,19711,6,Kieran,Maxwell,591,-604.50,0.00,Excluded,5,Sinn Fein
-11,19715,6,Caoimhe,McNeill,679,377.46,1178.00,,,Social Democratic and Labour Party
-11,19749,6,Gavan Aloysius,Reynolds,31,-40.44,0.00,Excluded,5,Independent
-11,11548,6,Frank,Shivers,641,24.64,801.88,Excluded,6,NI Conservatives
-11,3876,7,Steven,Agnew,5178,180.54,6160.50,Elected,7,Green Party
-11,19748,7,Chris,Carter,92,0.00,0.00,Excluded,5,Independent
-11,8154,7,Alan,Chambers,7151,0.00,6290.00,Elected,1,Ulster Unionist Party
-11,6914,7,William,Cudworth,964,331.84,3058.06,Excluded,7,Ulster Unionist Party
-11,11550,7,Gordon Mervyn,Dunne,6118,0.00,6290.00,Elected,2,Democratic Unionist Party
-11,7178,7,Alex,Easton,8034,0.00,6290.00,Elected,1,Democratic Unionist Party
-11,3598,7,Stephen,Farry,7014,0.00,6290.00,Elected,1,Alliance Party
-11,19712,7,Melanie,Kennedy,1246,92.92,1596.88,Excluded,7,Independent
-11,19711,7,Kieran,Maxwell,591,0.00,0.00,Excluded,5,Sinn Fein
-11,19715,7,Caoimhe,McNeill,679,24.88,1202.88,Excluded,7,Social Democratic and Labour Party
-11,19749,7,Gavan Aloysius,Reynolds,31,0.00,0.00,Excluded,5,Independent
-11,11548,7,Frank,Shivers,641,-801.88,0.00,Excluded,6,NI Conservatives
+11,19748,1,Chris,Carter,72,0,72,,,Independent
+11,8154,1,Alan,Chambers,3825,0,3825,,,Ulster Unionist Party
+11,69368,1,Stephen,Dunne,6226,0,6226,,,Democratic Unionist Party
+11,7178,1,Alex,Easton,9568,0,9568,Elected,1,Independent
+11,49889,1,Connie,Egan,5224,0,5224,,,Alliance Party
+11,69189,1,Jennifer,Gilmour,2068,0,2068,,,Democratic Unionist Party
+11,84463,1,John,Gordon,1574,0,1574,,,Traditional Unionist Voice
+11,84462,1,Naomi,McBurney,1342,0,1342,,,Ulster Unionist Party
+11,7235,1,Thérèse,McCartney,687,0,687,,,Sinn Fein
+11,68690,1,Ray,McKimm,604,0,604,,,Independent
+11,4588,1,Andrew,Muir,6838,0,6838,,,Alliance Party
+11,19723,1,Matthew,Robinson,254,0,254,,,Conservative and Unionist Party
+11,84461,1,Déirdre,Vaughan,727,0,727,,,Social Democratic and Labour Party
+11,50551,1,Rachel,Woods,2734,0,2734,,,Green Party
+11,19748,2,Chris,Carter,72,64.4,136.4,Excluded,2,Independent
+11,8154,2,Alan,Chambers,3825,502.9,4327.9,,,Ulster Unionist Party
+11,69368,2,Stephen,Dunne,6226,648.7,6874.7,,,Democratic Unionist Party
+11,7178,2,Alex,Easton,9568,-2610,6958,Elected,1,Independent
+11,49889,2,Connie,Egan,5224,112.2,5336.2,,,Alliance Party
+11,69189,2,Jennifer,Gilmour,2068,263.9,2331.9,,,Democratic Unionist Party
+11,84463,2,John,Gordon,1574,430.1,2004.1,,,Traditional Unionist Voice
+11,84462,2,Naomi,McBurney,1342,176,1518,,,Ulster Unionist Party
+11,7235,2,Thérèse,McCartney,687,7.5,694.5,,,Sinn Fein
+11,68690,2,Ray,McKimm,604,112.5,716.5,,,Independent
+11,4588,2,Andrew,Muir,6838,99.8,6937.8,,,Alliance Party
+11,19723,2,Matthew,Robinson,254,26.4,280.4,Excluded,2,Conservative and Unionist Party
+11,84461,2,Déirdre,Vaughan,727,14.5,741.5,,,Social Democratic and Labour Party
+11,50551,2,Rachel,Woods,2734,122.7,2856.7,,,Green Party
+11,19748,3,Chris,Carter,72,-136.4,0,Excluded,2,Independent
+11,8154,3,Alan,Chambers,3825,106.4,4434.3,,,Ulster Unionist Party
+11,69368,3,Stephen,Dunne,6226,28.3,6903,,,Democratic Unionist Party
+11,7178,3,Alex,Easton,9568,0,6958,Elected,1,Independent
+11,49889,3,Connie,Egan,5224,27.2,5363.4,,,Alliance Party
+11,69189,3,Jennifer,Gilmour,2068,15.6,2347.5,,,Democratic Unionist Party
+11,84463,3,John,Gordon,1574,19.4,2023.5,,,Traditional Unionist Voice
+11,84462,3,Naomi,McBurney,1342,48.7,1566.7,,,Ulster Unionist Party
+11,7235,3,Thérèse,McCartney,687,2,696.5,Excluded,3,Sinn Fein
+11,68690,3,Ray,McKimm,604,51.3,767.8,,,Independent
+11,4588,3,Andrew,Muir,6838,32,6969.8,Elected,3,Alliance Party
+11,19723,3,Matthew,Robinson,254,-280.4,0,Excluded,2,Conservative and Unionist Party
+11,84461,3,Déirdre,Vaughan,727,5.9,747.4,,,Social Democratic and Labour Party
+11,50551,3,Rachel,Woods,2734,43.4,2900.1,,,Green Party
+11,19748,4,Chris,Carter,72,0,0,Excluded,2,Independent
+11,8154,4,Alan,Chambers,3825,13,4447.3,,,Ulster Unionist Party
+11,69368,4,Stephen,Dunne,6226,1,6904,,,Democratic Unionist Party
+11,7178,4,Alex,Easton,9568,0,6958,Elected,1,Independent
+11,49889,4,Connie,Egan,5224,166.3,5529.7,,,Alliance Party
+11,69189,4,Jennifer,Gilmour,2068,1,2348.5,,,Democratic Unionist Party
+11,84463,4,John,Gordon,1574,2.3,2025.8,,,Traditional Unionist Voice
+11,84462,4,Naomi,McBurney,1342,3,1569.7,,,Ulster Unionist Party
+11,7235,4,Thérèse,McCartney,687,-696.5,0,Excluded,3,Sinn Fein
+11,68690,4,Ray,McKimm,604,15.3,783.1,Excluded,4,Independent
+11,4588,4,Andrew,Muir,6838,-11.8,6958,Elected,3,Alliance Party
+11,19723,4,Matthew,Robinson,254,0,0,Excluded,2,Conservative and Unionist Party
+11,84461,4,Déirdre,Vaughan,727,333.5,1080.9,,,Social Democratic and Labour Party
+11,50551,4,Rachel,Woods,2734,128.9,3029,,,Green Party
+11,19748,5,Chris,Carter,72,0,0,Excluded,2,Independent
+11,8154,5,Alan,Chambers,3825,90.6,4537.9,,,Ulster Unionist Party
+11,69368,5,Stephen,Dunne,6226,31,6935,,,Democratic Unionist Party
+11,7178,5,Alex,Easton,9568,0,6958,Elected,1,Independent
+11,49889,5,Connie,Egan,5224,212.8,5742.5,,,Alliance Party
+11,69189,5,Jennifer,Gilmour,2068,10.2,2358.7,,,Democratic Unionist Party
+11,84463,5,John,Gordon,1574,22.3,2048.1,,,Traditional Unionist Voice
+11,84462,5,Naomi,McBurney,1342,24.1,1593.8,,,Ulster Unionist Party
+11,7235,5,Thérèse,McCartney,687,0,0,Excluded,3,Sinn Fein
+11,68690,5,Ray,McKimm,604,-783.1,0,Excluded,4,Independent
+11,4588,5,Andrew,Muir,6838,0,6958,Elected,3,Alliance Party
+11,19723,5,Matthew,Robinson,254,0,0,Excluded,2,Conservative and Unionist Party
+11,84461,5,Déirdre,Vaughan,727,28.5,1109.4,Excluded,5,Social Democratic and Labour Party
+11,50551,5,Rachel,Woods,2734,245.4,3274.4,,,Green Party
+11,19748,6,Chris,Carter,72,0,0,Excluded,2,Independent
+11,8154,6,Alan,Chambers,3825,25.9,4563.8,,,Ulster Unionist Party
+11,69368,6,Stephen,Dunne,6226,10.3,6945.3,,,Democratic Unionist Party
+11,7178,6,Alex,Easton,9568,0,6958,Elected,1,Independent
+11,49889,6,Connie,Egan,5224,551.1,6293.6,,,Alliance Party
+11,69189,6,Jennifer,Gilmour,2068,5.3,2364,,,Democratic Unionist Party
+11,84463,6,John,Gordon,1574,3.3,2051.4,,,Traditional Unionist Voice
+11,84462,6,Naomi,McBurney,1342,25.5,1619.3,Excluded,6,Ulster Unionist Party
+11,7235,6,Thérèse,McCartney,687,0,0,Excluded,3,Sinn Fein
+11,68690,6,Ray,McKimm,604,0,0,Excluded,4,Independent
+11,4588,6,Andrew,Muir,6838,0,6958,Elected,3,Alliance Party
+11,19723,6,Matthew,Robinson,254,0,0,Excluded,2,Conservative and Unionist Party
+11,84461,6,Déirdre,Vaughan,727,-1109.4,0,Excluded,5,Social Democratic and Labour Party
+11,50551,6,Rachel,Woods,2734,362.5,3636.9,,,Green Party
+11,19748,7,Chris,Carter,72,0,0,Excluded,2,Independent
+11,8154,7,Alan,Chambers,3825,1170.4,5734.2,,,Ulster Unionist Party
+11,69368,7,Stephen,Dunne,6226,48,6993.3,Elected,7,Democratic Unionist Party
+11,7178,7,Alex,Easton,9568,0,6958,Elected,1,Independent
+11,49889,7,Connie,Egan,5224,111.4,6405,,,Alliance Party
+11,69189,7,Jennifer,Gilmour,2068,55.4,2419.4,,,Democratic Unionist Party
+11,84463,7,John,Gordon,1574,46.8,2098.2,Excluded,7,Traditional Unionist Voice
+11,84462,7,Naomi,McBurney,1342,-1619.3,0,Excluded,6,Ulster Unionist Party
+11,7235,7,Thérèse,McCartney,687,0,0,Excluded,3,Sinn Fein
+11,68690,7,Ray,McKimm,604,0,0,Excluded,4,Independent
+11,4588,7,Andrew,Muir,6838,0,6958,Elected,3,Alliance Party
+11,19723,7,Matthew,Robinson,254,0,0,Excluded,2,Conservative and Unionist Party
+11,84461,7,Déirdre,Vaughan,727,0,0,Excluded,5,Social Democratic and Labour Party
+11,50551,7,Rachel,Woods,2734,99.2,3736.1,,,Green Party
+11,19748,8,Chris,Carter,72,0,0,Excluded,2,Independent
+11,8154,8,Alan,Chambers,3825,617.5,6351.7,,,Ulster Unionist Party
+11,69368,8,Stephen,Dunne,6226,-35.3,6958,Elected,7,Democratic Unionist Party
+11,7178,8,Alex,Easton,9568,0,6958,Elected,1,Independent
+11,49889,8,Connie,Egan,5224,24.3,6429.3,,,Alliance Party
+11,69189,8,Jennifer,Gilmour,2068,1031.8,3451.2,Excluded,8,Democratic Unionist Party
+11,84463,8,John,Gordon,1574,-2098.2,0,Excluded,7,Traditional Unionist Voice
+11,84462,8,Naomi,McBurney,1342,0,0,Excluded,6,Ulster Unionist Party
+11,7235,8,Thérèse,McCartney,687,0,0,Excluded,3,Sinn Fein
+11,68690,8,Ray,McKimm,604,0,0,Excluded,4,Independent
+11,4588,8,Andrew,Muir,6838,0,6958,Elected,3,Alliance Party
+11,19723,8,Matthew,Robinson,254,0,0,Excluded,2,Conservative and Unionist Party
+11,84461,8,Déirdre,Vaughan,727,0,0,Excluded,5,Social Democratic and Labour Party
+11,50551,8,Rachel,Woods,2734,66.2,3802.3,,,Green Party
+11,19748,9,Chris,Carter,72,0,0,Excluded,2,Independent
+11,8154,9,Alan,Chambers,3825,1419,7770.7,Elected,9,Ulster Unionist Party
+11,69368,9,Stephen,Dunne,6226,0,6958,Elected,7,Democratic Unionist Party
+11,7178,9,Alex,Easton,9568,0,6958,Elected,1,Independent
+11,49889,9,Connie,Egan,5224,129.1,6558.4,Elected,9,Alliance Party
+11,69189,9,Jennifer,Gilmour,2068,-3451.2,0,Excluded,8,Democratic Unionist Party
+11,84463,9,John,Gordon,1574,0,0,Excluded,7,Traditional Unionist Voice
+11,84462,9,Naomi,McBurney,1342,0,0,Excluded,6,Ulster Unionist Party
+11,7235,9,Thérèse,McCartney,687,0,0,Excluded,3,Sinn Fein
+11,68690,9,Ray,McKimm,604,0,0,Excluded,4,Independent
+11,4588,9,Andrew,Muir,6838,0,6958,Elected,3,Alliance Party
+11,19723,9,Matthew,Robinson,254,0,0,Excluded,2,Conservative and Unionist Party
+11,84461,9,Déirdre,Vaughan,727,0,0,Excluded,5,Social Democratic and Labour Party
+11,50551,9,Rachel,Woods,2734,255.4,4057.7,Excluded,9,Green Party
