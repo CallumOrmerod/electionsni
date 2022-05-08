@@ -1,49 +1,129 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-4,8123,1,Rosemary,Barton,6060,0.00,6060.00,,,Ulster Unionist Party
-4,19684,1,Noreen,Campbell,1437,0.00,1437.00,Excluded,1,Alliance Party
-4,19672,1,Jemma,Dolan,7767,0.00,7767.00,,,Sinn Fein
-4,19720,1,Richard,Dunn,70,0.00,70.00,Excluded,1,NI Conservatives
-4,19692,1,Alex,Elliot,780,0.00,780.00,Excluded,1,Traditional Unionist Voice
-4,11526,1,Arlene,Foster,8479,0.00,8479.00,,,Democratic Unionist Party
-4,2427,1,Michelle,Gildernew,7987,0.00,7987.00,,,Sinn Fein
-4,4674,1,Tanya,Jones,550,0.00,550.00,Excluded,1,Green Party
-4,11528,1,Seán,Lynch,6254,0.00,6254.00,,,Sinn Fein
-4,11529,1,Richie,McPhillips,5134,0.00,5134.00,,,Social Democratic and Labour Party
-4,11530,1,Maurice,Morrow,7102,0.00,7102.00,,,Democratic Unionist Party
-4,19717,1,Donal,O'Cofaigh,643,0.00,643.00,Excluded,1,Cross-Community Labour Alternative
-4,8123,2,Rosemary,Barton,6060,803.00,6863.00,,,Ulster Unionist Party
-4,19684,2,Noreen,Campbell,1437,-1437.00,0.00,Excluded,1,Alliance Party
-4,19672,2,Jemma,Dolan,7767,256.00,8023.00,,,Sinn Fein
-4,19720,2,Richard,Dunn,70,-70.00,0.00,Excluded,1,NI Conservatives
-4,19692,2,Alex,Elliot,780,-780.00,0.00,Excluded,1,Traditional Unionist Voice
-4,11526,2,Arlene,Foster,8479,266.00,8745.00,Elected,2,Democratic Unionist Party
-4,2427,2,Michelle,Gildernew,7987,241.00,8228.00,,,Sinn Fein
-4,4674,2,Tanya,Jones,550,-550.00,0.00,Excluded,1,Green Party
-4,11528,2,Seán,Lynch,6254,84.00,6338.00,,,Sinn Fein
-4,11529,2,Richie,McPhillips,5134,1142.00,6276.00,Excluded,2,Social Democratic and Labour Party
-4,11530,2,Maurice,Morrow,7102,230.00,7332.00,,,Democratic Unionist Party
-4,19717,2,Donal,O'Cofaigh,643,-643.00,0.00,Excluded,1,Cross-Community Labour Alternative
-4,8123,3,Rosemary,Barton,6060,1471.00,8334.00,,,Ulster Unionist Party
-4,19684,3,Noreen,Campbell,1437,0.00,0.00,Excluded,1,Alliance Party
-4,19672,3,Jemma,Dolan,7767,905.00,8928.00,Elected,3,Sinn Fein
-4,19720,3,Richard,Dunn,70,0.00,0.00,Excluded,1,NI Conservatives
-4,19692,3,Alex,Elliot,780,0.00,0.00,Excluded,1,Traditional Unionist Voice
-4,11526,3,Arlene,Foster,8479,0.00,8745.00,Elected,2,Democratic Unionist Party
-4,2427,3,Michelle,Gildernew,7987,1157.00,9385.00,Elected,3,Sinn Fein
-4,4674,3,Tanya,Jones,550,0.00,0.00,Excluded,1,Green Party
-4,11528,3,Seán,Lynch,6254,836.00,7174.00,,,Sinn Fein
-4,11529,3,Richie,McPhillips,5134,-6276.00,0.00,Excluded,2,Social Democratic and Labour Party
-4,11530,3,Maurice,Morrow,7102,73.00,7405.00,,,Democratic Unionist Party
-4,19717,3,Donal,O'Cofaigh,643,0.00,0.00,Excluded,1,Cross-Community Labour Alternative
-4,8123,4,Rosemary,Barton,6060,108.00,8442.00,Elected,4,Ulster Unionist Party
-4,19684,4,Noreen,Campbell,1437,0.00,0.00,Excluded,1,Alliance Party
-4,19672,4,Jemma,Dolan,7767,0.00,8928.00,Elected,3,Sinn Fein
-4,19720,4,Richard,Dunn,70,0.00,0.00,Excluded,1,NI Conservatives
-4,19692,4,Alex,Elliot,780,0.00,0.00,Excluded,1,Traditional Unionist Voice
-4,11526,4,Arlene,Foster,8479,0.00,8745.00,Elected,2,Democratic Unionist Party
-4,2427,4,Michelle,Gildernew,7987,-674.00,8711.00,Elected,3,Sinn Fein
-4,4674,4,Tanya,Jones,550,0.00,0.00,Excluded,1,Green Party
-4,11528,4,Seán,Lynch,6254,543.00,7717.00,Elected,4,Sinn Fein
-4,11529,4,Richie,McPhillips,5134,0.00,0.00,Excluded,2,Social Democratic and Labour Party
-4,11530,4,Maurice,Morrow,7102,6.00,7411.00,Excluded,4,Democratic Unionist Party
-4,19717,4,Donal,O'Cofaigh,643,0.00,0.00,Excluded,1,Cross-Community Labour Alternative
+4,93987,1,Derek,Backhouse,128,0,128,Excluded,1,Independent
+4,8123,1,Rosemary,Barton,2912,0,2912,,,Ulster Unionist Party
+4,68972,1,Matthew,Beaumont,2583,0,2583,,,Alliance Party
+4,84447,1,Paul,Bell,4255,0,4255,,,Democratic Unionist Party
+4,84811,1,Emma,DeSouza,249,0,249,Excluded,1,Independent
+4,19672,1,Jemma,Dolan,9067,0,9067,Elected,1,Sinn Fein
+4,4933,1,Tom,Elliott,5442,0,5442,,,Ulster Unionist Party
+4,19692,1,Alex,Elliott,3091,0,3091,,,Traditional Unionist Voice
+4,50141,1,Deborah,Erskine,5272,0,5272,,,Democratic Unionist Party
+4,50100,1,Adam,Gannon,3836,0,3836,,,Social Democratic and Labour Party
+4,84448,1,Colm,Gildernew,7562,0,7562,,,Sinn Fein
+4,95158,1,Emmett,Kilpatrick,103,0,103,Excluded,1,People Before Profit Alliance
+4,69426,1,Denise,Mullen,927,0,927,Excluded,1,Aontu
+4,84449,1,Áine,Murphy,7379,0,7379,,,Sinn Fein
+4,19717,1,Donal,O'Cofaigh,335,0,335,Excluded,1,Cross-Community Labour Alternative
+4,84450,1,Kellie,Turtle,602,0,602,Excluded,1,Green Party
+4,93987,2,Derek,Backhouse,128,-128,0,Excluded,1,Independent
+4,8123,2,Rosemary,Barton,2912,47,2959,,,Ulster Unionist Party
+4,68972,2,Matthew,Beaumont,2583,441,3024,,,Alliance Party
+4,84447,2,Paul,Bell,4255,46,4301,,,Democratic Unionist Party
+4,84811,2,Emma,DeSouza,249,-249,0,Excluded,1,Independent
+4,19672,2,Jemma,Dolan,9067,-109,8958,Elected,1,Sinn Fein
+4,4933,2,Tom,Elliott,5442,55,5497,,,Ulster Unionist Party
+4,19692,2,Alex,Elliott,3091,74,3165,,,Traditional Unionist Voice
+4,50141,2,Deborah,Erskine,5272,61,5333,,,Democratic Unionist Party
+4,50100,2,Adam,Gannon,3836,558,4394,,,Social Democratic and Labour Party
+4,84448,2,Colm,Gildernew,7562,303,7865,,,Sinn Fein
+4,95158,2,Emmett,Kilpatrick,103,-103,0,Excluded,1,People Before Profit Alliance
+4,69426,2,Denise,Mullen,927,-927,0,Excluded,1,Aontu
+4,84449,2,Áine,Murphy,7379,265,7644,,,Sinn Fein
+4,19717,2,Donal,O'Cofaigh,335,-335,0,Excluded,1,Cross-Community Labour Alternative
+4,84450,2,Kellie,Turtle,602,-602,0,Excluded,1,Green Party
+4,93987,3,Derek,Backhouse,128,0,0,Excluded,1,Independent
+4,8123,3,Rosemary,Barton,2912,0,2959,Excluded,3,Ulster Unionist Party
+4,68972,3,Matthew,Beaumont,2583,1.9,3025.9,,,Alliance Party
+4,84447,3,Paul,Bell,4255,0.1,4301.1,,,Democratic Unionist Party
+4,84811,3,Emma,DeSouza,249,0,0,Excluded,1,Independent
+4,19672,3,Jemma,Dolan,9067,0,8958,Elected,1,Sinn Fein
+4,4933,3,Tom,Elliott,5442,0.1,5497.1,,,Ulster Unionist Party
+4,19692,3,Alex,Elliott,3091,0.1,3165.1,,,Traditional Unionist Voice
+4,50141,3,Deborah,Erskine,5272,0.1,5333.1,,,Democratic Unionist Party
+4,50100,3,Adam,Gannon,3836,8.3,4402.3,,,Social Democratic and Labour Party
+4,84448,3,Colm,Gildernew,7562,32.8,7897.8,,,Sinn Fein
+4,95158,3,Emmett,Kilpatrick,103,0,0,Excluded,1,People Before Profit Alliance
+4,69426,3,Denise,Mullen,927,0,0,Excluded,1,Aontu
+4,84449,3,Áine,Murphy,7379,46.9,7690.9,,,Sinn Fein
+4,19717,3,Donal,O'Cofaigh,335,0,0,Excluded,1,Cross-Community Labour Alternative
+4,84450,3,Kellie,Turtle,602,0,0,Excluded,1,Green Party
+4,93987,4,Derek,Backhouse,128,0,0,Excluded,1,Independent
+4,8123,4,Rosemary,Barton,2912,-2959,0,Excluded,3,Ulster Unionist Party
+4,68972,4,Matthew,Beaumont,2583,125,3150.9,Excluded,4,Alliance Party
+4,84447,4,Paul,Bell,4255,392,4693.1,,,Democratic Unionist Party
+4,84811,4,Emma,DeSouza,249,0,0,Excluded,1,Independent
+4,19672,4,Jemma,Dolan,9067,0,8958,Elected,1,Sinn Fein
+4,4933,4,Tom,Elliott,5442,2110,7607.1,,,Ulster Unionist Party
+4,19692,4,Alex,Elliott,3091,123,3288.1,,,Traditional Unionist Voice
+4,50141,4,Deborah,Erskine,5272,136,5469.1,,,Democratic Unionist Party
+4,50100,4,Adam,Gannon,3836,37,4439.3,,,Social Democratic and Labour Party
+4,84448,4,Colm,Gildernew,7562,6,7903.8,,,Sinn Fein
+4,95158,4,Emmett,Kilpatrick,103,0,0,Excluded,1,People Before Profit Alliance
+4,69426,4,Denise,Mullen,927,0,0,Excluded,1,Aontu
+4,84449,4,Áine,Murphy,7379,2,7692.9,,,Sinn Fein
+4,19717,4,Donal,O'Cofaigh,335,0,0,Excluded,1,Cross-Community Labour Alternative
+4,84450,4,Kellie,Turtle,602,0,0,Excluded,1,Green Party
+4,93987,5,Derek,Backhouse,128,0,0,Excluded,1,Independent
+4,8123,5,Rosemary,Barton,2912,0,0,Excluded,3,Ulster Unionist Party
+4,68972,5,Matthew,Beaumont,2583,-3150.9,0,Excluded,4,Alliance Party
+4,84447,5,Paul,Bell,4255,95,4788.1,,,Democratic Unionist Party
+4,84811,5,Emma,DeSouza,249,0,0,Excluded,1,Independent
+4,19672,5,Jemma,Dolan,9067,0,8958,Elected,1,Sinn Fein
+4,4933,5,Tom,Elliott,5442,505,8112.1,,,Ulster Unionist Party
+4,19692,5,Alex,Elliott,3091,63,3351.1,Excluded,5,Traditional Unionist Voice
+4,50141,5,Deborah,Erskine,5272,63,5532.1,,,Democratic Unionist Party
+4,50100,5,Adam,Gannon,3836,1547.9,5987.2,,,Social Democratic and Labour Party
+4,84448,5,Colm,Gildernew,7562,220.5,8124.3,,,Sinn Fein
+4,95158,5,Emmett,Kilpatrick,103,0,0,Excluded,1,People Before Profit Alliance
+4,69426,5,Denise,Mullen,927,0,0,Excluded,1,Aontu
+4,84449,5,Áine,Murphy,7379,122.2,7815.1,,,Sinn Fein
+4,19717,5,Donal,O'Cofaigh,335,0,0,Excluded,1,Cross-Community Labour Alternative
+4,84450,5,Kellie,Turtle,602,0,0,Excluded,1,Green Party
+4,93987,6,Derek,Backhouse,128,0,0,Excluded,1,Independent
+4,8123,6,Rosemary,Barton,2912,0,0,Excluded,3,Ulster Unionist Party
+4,68972,6,Matthew,Beaumont,2583,0,0,Excluded,4,Alliance Party
+4,84447,6,Paul,Bell,4255,1245,6033.1,,,Democratic Unionist Party
+4,84811,6,Emma,DeSouza,249,0,0,Excluded,1,Independent
+4,19672,6,Jemma,Dolan,9067,0,8958,Elected,1,Sinn Fein
+4,4933,6,Tom,Elliott,5442,895,9007.1,Elected,6,Ulster Unionist Party
+4,19692,6,Alex,Elliott,3091,-3351.1,0,Excluded,5,Traditional Unionist Voice
+4,50141,6,Deborah,Erskine,5272,1004,6536.1,,,Democratic Unionist Party
+4,50100,6,Adam,Gannon,3836,40,6027.2,,,Social Democratic and Labour Party
+4,84448,6,Colm,Gildernew,7562,4,8128.3,,,Sinn Fein
+4,95158,6,Emmett,Kilpatrick,103,0,0,Excluded,1,People Before Profit Alliance
+4,69426,6,Denise,Mullen,927,0,0,Excluded,1,Aontu
+4,84449,6,Áine,Murphy,7379,1,7816.1,,,Sinn Fein
+4,19717,6,Donal,O'Cofaigh,335,0,0,Excluded,1,Cross-Community Labour Alternative
+4,84450,6,Kellie,Turtle,602,0,0,Excluded,1,Green Party
+4,93987,7,Derek,Backhouse,128,0,0,Excluded,1,Independent
+4,8123,7,Rosemary,Barton,2912,0,0,Excluded,3,Ulster Unionist Party
+4,68972,7,Matthew,Beaumont,2583,0,0,Excluded,4,Alliance Party
+4,84447,7,Paul,Bell,4255,16.7,6049.8,,,Democratic Unionist Party
+4,84811,7,Emma,DeSouza,249,0,0,Excluded,1,Independent
+4,19672,7,Jemma,Dolan,9067,0,8958,Elected,1,Sinn Fein
+4,4933,7,Tom,Elliott,5442,-49.1,8958,Elected,6,Ulster Unionist Party
+4,19692,7,Alex,Elliott,3091,0,0,Excluded,5,Traditional Unionist Voice
+4,50141,7,Deborah,Erskine,5272,27.7,6563.8,,,Democratic Unionist Party
+4,50100,7,Adam,Gannon,3836,1.3,6028.5,Excluded,7,Social Democratic and Labour Party
+4,84448,7,Colm,Gildernew,7562,0.1,8128.4,,,Sinn Fein
+4,95158,7,Emmett,Kilpatrick,103,0,0,Excluded,1,People Before Profit Alliance
+4,69426,7,Denise,Mullen,927,0,0,Excluded,1,Aontu
+4,84449,7,Áine,Murphy,7379,0,7816.1,,,Sinn Fein
+4,19717,7,Donal,O'Cofaigh,335,0,0,Excluded,1,Cross-Community Labour Alternative
+4,84450,7,Kellie,Turtle,602,0,0,Excluded,1,Green Party
+4,93987,7,Derek,Backhouse,128,0,0,Excluded,1,Independent
+4,8123,7,Rosemary,Barton,2912,0,0,Excluded,3,Ulster Unionist Party
+4,68972,7,Matthew,Beaumont,2583,0,0,Excluded,4,Alliance Party
+4,84447,7,Paul,Bell,4255,137.4,6187.2,Excluded,8,Democratic Unionist Party
+4,84811,7,Emma,DeSouza,249,0,0,Excluded,1,Independent
+4,19672,7,Jemma,Dolan,9067,0,8958,Elected,1,Sinn Fein
+4,4933,7,Tom,Elliott,5442,0,8958,Elected,6,Ulster Unionist Party
+4,19692,7,Alex,Elliott,3091,0,0,Excluded,5,Traditional Unionist Voice
+4,50141,7,Deborah,Erskine,5272,131.5,6695.3,Elected,8,Democratic Unionist Party
+4,50100,7,Adam,Gannon,3836,-6028.5,0,Excluded,7,Social Democratic and Labour Party
+4,84448,7,Colm,Gildernew,7562,1150,9278.4,Elected,8,Sinn Fein
+4,95158,7,Emmett,Kilpatrick,103,0,0,Excluded,1,People Before Profit Alliance
+4,69426,7,Denise,Mullen,927,0,0,Excluded,1,Aontu
+4,84449,7,Áine,Murphy,7379,1288,9104.1,Elected,8,Sinn Fein
+4,19717,7,Donal,O'Cofaigh,335,0,0,Excluded,1,Cross-Community Labour Alternative
+4,84450,7,Kellie,Turtle,602,0,0,Excluded,1,Green Party
