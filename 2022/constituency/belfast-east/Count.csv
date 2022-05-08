@@ -1,14 +1,131 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-2,50553,1,Brian,Smyth,2302,0,2302,,,Green Party
-2,69323,1,David,Brooks,6633,0,6633,,,Democratic Unionist Party
+2,8116,1,Andy,Allen,5281,0,5281,,,Ulster Unionist Party
 2,69143,1,Karl,Bennett,970,0,970,,,Progressive Unionist Party
-2,95175,1,Eoin,MacNeill,72,0,72,,,Workers Party
-2,13032,1,Joanne,Bunting,7253,0,7253,,,Democratic Unionist Party
-2,19680,1,Mairéad,O'Donnell,1369,0,1369,,,Sinn Fein
+2,69323,1,David,Brooks,6633,0,6633,,,Democratic Unionist Party
+2,13032,1,Joanne,Bunting,7253,0,7253,Elected,1,Democratic Unionist Party
+2,84442,1,Charlotte,Carson,484,0,484,,,Social Democratic and Labour Party
 2,84785,1,Hannah,Kenny,500,0,500,,,People Before Profit Alliance
 2,84774,1,Lauren,Kerr,1282,0,1282,,,Ulster Unionist Party
-2,84442,1,Charlotte,Carson,484,0,484,,,Social Democratic and Labour Party
-2,84284,1,John,Ross,3087,0,3087,,,Traditional Unionist Voice
-2,2454,1,Naomi,Long,8195,0,8195,,,Alliance Party
-2,8116,1,Andy,Allen,5281,0,5281,,,Ulster Unionist Party
+2,2454,1,Naomi,Long,8195,0,8195,Elected,1,Alliance Party
+2,95175,1,Eoin,MacNeill,72,0,72,,,Workers Party
 2,50315,1,Peter,McReynolds,5820,0,5820,,,Alliance Party
+2,19680,1,Mairéad,O'Donnell,1369,0,1369,,,Sinn Fein
+2,84284,1,John,Ross,3087,0,3087,,,Traditional Unionist Voice
+2,50553,1,Brian,Smyth,2302,0,2302,,,Green Party
+2,8116,2,Andy,Allen,5281,34.2,5315.2,,,Ulster Unionist Party
+2,69143,2,Karl,Bennett,970,3.4,973.4,,,Progressive Unionist Party
+2,69323,2,David,Brooks,6633,12.7,6645.7,,,Democratic Unionist Party
+2,13032,2,Joanne,Bunting,7253,-44,7209,Elected,1,Democratic Unionist Party
+2,84442,2,Charlotte,Carson,484,23.4,507.4,,,Social Democratic and Labour Party
+2,84785,2,Hannah,Kenny,500,10,510,,,People Before Profit Alliance
+2,84774,2,Lauren,Kerr,1282,15.5,1297.5,,,Ulster Unionist Party
+2,2454,2,Naomi,Long,8195,-986,7209,Elected,1,Alliance Party
+2,95175,2,Eoin,MacNeill,72,3.6,75.6,Excluded,2,Workers Party
+2,50315,2,Peter,McReynolds,5820,791,6611,,,Alliance Party
+2,19680,2,Mairéad,O'Donnell,1369,15.8,1384.8,,,Sinn Fein
+2,84284,2,John,Ross,3087,3.5,3090.5,,,Traditional Unionist Voice
+2,50553,2,Brian,Smyth,2302,57.7,2359.7,,,Green Party
+2,8116,3,Andy,Allen,5281,2.7,5317.9,,,Ulster Unionist Party
+2,69143,3,Karl,Bennett,970,1,974.4,,,Progressive Unionist Party
+2,69323,3,David,Brooks,6633,0.1,6645.8,,,Democratic Unionist Party
+2,13032,3,Joanne,Bunting,7253,0,7209,Elected,1,Democratic Unionist Party
+2,84442,3,Charlotte,Carson,484,9.2,516.6,Excluded,3,Social Democratic and Labour Party
+2,84785,3,Hannah,Kenny,500,24.2,534.2,,,People Before Profit Alliance
+2,84774,3,Lauren,Kerr,1282,1.4,1298.9,,,Ulster Unionist Party
+2,2454,3,Naomi,Long,8195,0,7209,Elected,1,Alliance Party
+2,95175,3,Eoin,MacNeill,72,-75.6,0,Excluded,2,Workers Party
+2,50315,3,Peter,McReynolds,5820,12.8,6623.8,,,Alliance Party
+2,19680,3,Mairéad,O'Donnell,1369,5.1,1389.9,,,Sinn Fein
+2,84284,3,John,Ross,3087,2,3092.5,,,Traditional Unionist Voice
+2,50553,3,Brian,Smyth,2302,14.8,2374.5,,,Green Party
+2,8116,4,Andy,Allen,5281,28.2,5346.1,,,Ulster Unionist Party
+2,69143,4,Karl,Bennett,970,2.1,976.5,,,Progressive Unionist Party
+2,69323,4,David,Brooks,6633,10.1,6655.9,,,Democratic Unionist Party
+2,13032,4,Joanne,Bunting,7253,0,7209,Elected,1,Democratic Unionist Party
+2,84442,4,Charlotte,Carson,484,-516.6,0,Excluded,3,Social Democratic and Labour Party
+2,84785,4,Hannah,Kenny,500,42.4,576.6,Excluded,4,People Before Profit Alliance
+2,84774,4,Lauren,Kerr,1282,25.7,1324.6,,,Ulster Unionist Party
+2,2454,4,Naomi,Long,8195,0,7209,Elected,1,Alliance Party
+2,95175,4,Eoin,MacNeill,72,0,0,Excluded,2,Workers Party
+2,50315,4,Peter,McReynolds,5820,187.9,6811.7,,,Alliance Party
+2,19680,4,Mairéad,O'Donnell,1369,73.4,1463.3,,,Sinn Fein
+2,84284,4,John,Ross,3087,3,3095.5,,,Traditional Unionist Voice
+2,50553,4,Brian,Smyth,2302,113.6,2488.1,,,Green Party
+2,8116,5,Andy,Allen,5281,27.7,5373.8,,,Ulster Unionist Party
+2,69143,5,Karl,Bennett,970,15.2,991.7,Excluded,5,Progressive Unionist Party
+2,69323,5,David,Brooks,6633,10.4,6666.3,,,Democratic Unionist Party
+2,13032,5,Joanne,Bunting,7253,0,7209,Elected,1,Democratic Unionist Party
+2,84442,5,Charlotte,Carson,484,0,0,Excluded,3,Social Democratic and Labour Party
+2,84785,5,Hannah,Kenny,500,-576.6,0,Excluded,4,People Before Profit Alliance
+2,84774,5,Lauren,Kerr,1282,15.4,1340,,,Ulster Unionist Party
+2,2454,5,Naomi,Long,8195,0,7209,Elected,1,Alliance Party
+2,95175,5,Eoin,MacNeill,72,0,0,Excluded,2,Workers Party
+2,50315,5,Peter,McReynolds,5820,144.2,6955.9,,,Alliance Party
+2,19680,5,Mairéad,O'Donnell,1369,37.5,1500.8,,,Sinn Fein
+2,84284,5,John,Ross,3087,12.1,3107.6,,,Traditional Unionist Voice
+2,50553,5,Brian,Smyth,2302,272.5,2760.6,,,Green Party
+2,8116,6,Andy,Allen,5281,263,5636.8,,,Ulster Unionist Party
+2,69143,6,Karl,Bennett,970,-991.7,0,Excluded,5,Progressive Unionist Party
+2,69323,6,David,Brooks,6633,329.5,6995.8,,,Democratic Unionist Party
+2,13032,6,Joanne,Bunting,7253,0,7209,Elected,1,Democratic Unionist Party
+2,84442,6,Charlotte,Carson,484,0,0,Excluded,3,Social Democratic and Labour Party
+2,84785,6,Hannah,Kenny,500,0,0,Excluded,4,People Before Profit Alliance
+2,84774,6,Lauren,Kerr,1282,66,1406,Excluded,6,Ulster Unionist Party
+2,2454,6,Naomi,Long,8195,0,7209,Elected,1,Alliance Party
+2,95175,6,Eoin,MacNeill,72,0,0,Excluded,2,Workers Party
+2,50315,6,Peter,McReynolds,5820,18.4,6974.3,,,Alliance Party
+2,19680,6,Mairéad,O'Donnell,1369,3.1,1503.9,,,Sinn Fein
+2,84284,6,John,Ross,3087,246.1,3353.7,,,Traditional Unionist Voice
+2,50553,6,Brian,Smyth,2302,26.6,2787.2,,,Green Party
+2,8116,7,Andy,Allen,5281,1054.4,6691.2,,,Ulster Unionist Party
+2,69143,7,Karl,Bennett,970,0,0,Excluded,5,Progressive Unionist Party
+2,69323,7,David,Brooks,6633,82.2,7078,,,Democratic Unionist Party
+2,13032,7,Joanne,Bunting,7253,0,7209,Elected,1,Democratic Unionist Party
+2,84442,7,Charlotte,Carson,484,0,0,Excluded,3,Social Democratic and Labour Party
+2,84785,7,Hannah,Kenny,500,0,0,Excluded,4,People Before Profit Alliance
+2,84774,7,Lauren,Kerr,1282,-1406,0,Excluded,6,Ulster Unionist Party
+2,2454,7,Naomi,Long,8195,0,7209,Elected,1,Alliance Party
+2,95175,7,Eoin,MacNeill,72,0,0,Excluded,2,Workers Party
+2,50315,7,Peter,McReynolds,5820,97.6,7071.9,,,Alliance Party
+2,19680,7,Mairéad,O'Donnell,1369,5,1508.9,Excluded,7,Sinn Fein
+2,84284,7,John,Ross,3087,62.2,3415.9,,,Traditional Unionist Voice
+2,50553,7,Brian,Smyth,2302,51.9,2839.1,,,Green Party
+2,8116,8,Andy,Allen,5281,15.7,6706.9,,,Ulster Unionist Party
+2,69143,8,Karl,Bennett,970,0,0,Excluded,5,Progressive Unionist Party
+2,69323,8,David,Brooks,6633,13.2,7091.2,,,Democratic Unionist Party
+2,13032,8,Joanne,Bunting,7253,0,7209,Elected,1,Democratic Unionist Party
+2,84442,8,Charlotte,Carson,484,0,0,Excluded,3,Social Democratic and Labour Party
+2,84785,8,Hannah,Kenny,500,0,0,Excluded,4,People Before Profit Alliance
+2,84774,8,Lauren,Kerr,1282,0,0,Excluded,6,Ulster Unionist Party
+2,2454,8,Naomi,Long,8195,0,7209,Elected,1,Alliance Party
+2,95175,8,Eoin,MacNeill,72,0,0,Excluded,2,Workers Party
+2,50315,8,Peter,McReynolds,5820,342,7413.9,Elected,8,Alliance Party
+2,19680,8,Mairéad,O'Donnell,1369,-1508.9,0,Excluded,7,Sinn Fein
+2,84284,8,John,Ross,3087,9.4,3425.3,,,Traditional Unionist Voice
+2,50553,8,Brian,Smyth,2302,553.9,3393,,,Green Party
+2,8116,9,Andy,Allen,5281,11,6717.9,,,Ulster Unionist Party
+2,69143,9,Karl,Bennett,970,0,0,Excluded,5,Progressive Unionist Party
+2,69323,9,David,Brooks,6633,1,7092.2,,,Democratic Unionist Party
+2,13032,9,Joanne,Bunting,7253,0,7209,Elected,1,Democratic Unionist Party
+2,84442,9,Charlotte,Carson,484,0,0,Excluded,3,Social Democratic and Labour Party
+2,84785,9,Hannah,Kenny,500,0,0,Excluded,4,People Before Profit Alliance
+2,84774,9,Lauren,Kerr,1282,0,0,Excluded,6,Ulster Unionist Party
+2,2454,9,Naomi,Long,8195,0,7209,Elected,1,Alliance Party
+2,95175,9,Eoin,MacNeill,72,0,0,Excluded,2,Workers Party
+2,50315,9,Peter,McReynolds,5820,-204.9,7209,Elected,8,Alliance Party
+2,19680,9,Mairéad,O'Donnell,1369,0,0,Excluded,7,Sinn Fein
+2,84284,9,John,Ross,3087,1,3426.3,Excluded,9,Traditional Unionist Voice
+2,50553,9,Brian,Smyth,2302,185,3578,,,Green Party
+2,8116,10,Andy,Allen,5281,911,7628.9,Elected,10,Ulster Unionist Party
+2,69143,10,Karl,Bennett,970,0,0,Excluded,5,Progressive Unionist Party
+2,69323,10,David,Brooks,6633,1869,8961.2,Elected,10,Democratic Unionist Party
+2,13032,10,Joanne,Bunting,7253,0,7209,Elected,1,Democratic Unionist Party
+2,84442,10,Charlotte,Carson,484,0,0,Excluded,3,Social Democratic and Labour Party
+2,84785,10,Hannah,Kenny,500,0,0,Excluded,4,People Before Profit Alliance
+2,84774,10,Lauren,Kerr,1282,0,0,Excluded,6,Ulster Unionist Party
+2,2454,10,Naomi,Long,8195,0,7209,Elected,1,Alliance Party
+2,95175,10,Eoin,MacNeill,72,0,0,Excluded,2,Workers Party
+2,50315,10,Peter,McReynolds,5820,0,7209,Elected,8,Alliance Party
+2,19680,10,Mairéad,O'Donnell,1369,0,0,Excluded,7,Sinn Fein
+2,84284,10,John,Ross,3087,-3426.3,0,Excluded,9,Traditional Unionist Voice
+2,50553,10,Brian,Smyth,2302,36,3614,Excluded,10,Green Party
