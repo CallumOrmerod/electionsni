@@ -1,76 +1,99 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-18,11342,1,Michaela,Boyle,7714,0.00,7714.00,Elected,1,Sinn Fein
-18,6920,1,Barry,Brown,373,0.00,373.00,,,Citizens Independent Social Thought Alliance
-18,1871,1,Thomas,Buchanan,9064,0.00,9064.00,Elected,1,Democratic Unionist Party
-18,19733,1,Charlie,Chittick,851,0.00,851.00,,,Traditional Unionist Voice
-18,19689,1,Alicia,Clarke,3654,0.00,3654.00,,,Ulster Unionist Party
-18,6365,1,Stephen,Donnelly,1252,0.00,1252.00,,,Alliance Party
-18,11347,1,Corey,French,98,0.00,98.00,,,Independent
-18,11346,1,Roger,Lomas,27,0.00,27.00,,,NI Conservatives
-18,11343,1,Declan,McAleer,6034,0.00,6034.00,,,Sinn Fein
-18,11337,1,Sorcha,McAnespy,864,0.00,864.00,,,Independent
-18,5184,1,Ciaran,McClean,412,0.00,412.00,,,Green Party
-18,5185,1,Daniel,McCrossan,6283,0.00,6283.00,,,Social Democratic and Labour Party
-18,11345,1,Barry,McElduff,7573,0.00,7573.00,Elected,1,Sinn Fein
-18,19675,1,Roisin,McMackin,85,0.00,85.00,,,Independent
-18,7348,1,Susan-Anne,White,41,0.00,41.00,,,Independent
-18,11342,2,Michaela,Boyle,7714,0.00,7714.00,Elected,1,Sinn Fein
-18,6920,2,Barry,Brown,373,7.60,380.60,,,Citizens Independent Social Thought Alliance
-18,1871,2,Thomas,Buchanan,9064,-1676.00,7388.00,Elected,1,Democratic Unionist Party
-18,19733,2,Charlie,Chittick,851,577.79,1428.79,,,Traditional Unionist Voice
-18,19689,2,Alicia,Clarke,3654,1034.93,4688.93,,,Ulster Unionist Party
-18,6365,2,Stephen,Donnelly,1252,7.98,1259.98,,,Alliance Party
-18,11347,2,Corey,French,98,0.57,98.57,,,Independent
-18,11346,2,Roger,Lomas,27,4.75,31.75,,,NI Conservatives
-18,11343,2,Declan,McAleer,6034,0.57,6034.57,,,Sinn Fein
-18,11337,2,Sorcha,McAnespy,864,2.47,866.47,,,Independent
-18,5184,2,Ciaran,McClean,412,3.99,415.99,,,Green Party
-18,5185,2,Daniel,McCrossan,6283,17.10,6300.10,,,Social Democratic and Labour Party
-18,11345,2,Barry,McElduff,7573,0.00,7573.00,Elected,1,Sinn Fein
-18,19675,2,Roisin,McMackin,85,0.76,85.76,,,Independent
-18,7348,2,Susan-Anne,White,41,4.18,45.18,,,Independent
-18,11342,3,Michaela,Boyle,7714,-326.00,7388.00,Elected,1,Sinn Fein
-18,6920,3,Barry,Brown,373,3.68,384.28,,,Citizens Independent Social Thought Alliance
-18,1871,3,Thomas,Buchanan,9064,0.00,7388.00,Elected,1,Democratic Unionist Party
-18,19733,3,Charlie,Chittick,851,0.16,1428.95,,,Traditional Unionist Voice
-18,19689,3,Alicia,Clarke,3654,0.56,4689.49,,,Ulster Unionist Party
-18,6365,3,Stephen,Donnelly,1252,3.76,1263.74,,,Alliance Party
-18,11347,3,Corey,French,98,2.92,101.49,,,Independent
-18,11346,3,Roger,Lomas,27,0.40,32.15,,,NI Conservatives
-18,11343,3,Declan,McAleer,6034,254.76,6289.33,,,Sinn Fein
-18,11337,3,Sorcha,McAnespy,864,4.08,870.55,,,Independent
-18,5184,3,Ciaran,McClean,412,1.32,417.31,,,Green Party
-18,5185,3,Daniel,McCrossan,6283,33.24,6333.34,,,Social Democratic and Labour Party
-18,11345,3,Barry,McElduff,7573,0.00,7573.00,Elected,1,Sinn Fein
-18,19675,3,Roisin,McMackin,85,0.28,86.04,,,Independent
-18,7348,3,Susan-Anne,White,41,0.04,45.22,,,Independent
-18,11342,4,Michaela,Boyle,7714,0.00,7388.00,Elected,1,Sinn Fein
-18,6920,4,Barry,Brown,373,1.14,385.42,Excluded,4,Citizens Independent Social Thought Alliance
-18,1871,4,Thomas,Buchanan,9064,0.00,7388.00,Elected,1,Democratic Unionist Party
-18,19733,4,Charlie,Chittick,851,0.02,1428.97,Excluded,4,Traditional Unionist Voice
-18,19689,4,Alicia,Clarke,3654,0.24,4689.73,,,Ulster Unionist Party
-18,6365,4,Stephen,Donnelly,1252,1.86,1265.60,Excluded,4,Alliance Party
-18,11347,4,Corey,French,98,0.07,101.56,Excluded,4,Independent
-18,11346,4,Roger,Lomas,27,0.04,32.19,Excluded,4,NI Conservatives
-18,11343,4,Declan,McAleer,6034,131.98,6421.31,,,Sinn Fein
-18,11337,4,Sorcha,McAnespy,864,4.38,874.93,Excluded,4,Independent
-18,5184,4,Ciaran,McClean,412,0.88,418.19,Excluded,4,Green Party
-18,5185,4,Daniel,McCrossan,6283,9.26,6342.60,,,Social Democratic and Labour Party
-18,11345,4,Barry,McElduff,7573,-185.00,7388.00,Elected,1,Sinn Fein
-18,19675,4,Roisin,McMackin,85,0.44,86.48,Excluded,4,Independent
-18,7348,4,Susan-Anne,White,41,0.06,45.28,Excluded,4,Independent
-18,11342,5,Michaela,Boyle,7714,0.00,7388.00,Elected,1,Sinn Fein
-18,6920,5,Barry,Brown,373,-385.42,0.00,Excluded,4,Citizens Independent Social Thought Alliance
-18,1871,5,Thomas,Buchanan,9064,0.00,7388.00,Elected,1,Democratic Unionist Party
-18,19733,5,Charlie,Chittick,851,-1428.97,0.00,Excluded,4,Traditional Unionist Voice
-18,19689,5,Alicia,Clarke,3654,1584.81,6274.54,Excluded,5,Ulster Unionist Party
-18,6365,5,Stephen,Donnelly,1252,-1265.60,0.00,Excluded,4,Alliance Party
-18,11347,5,Corey,French,98,-101.55,0.01,Excluded,4,Independent
-18,11346,5,Roger,Lomas,27,-32.19,0.00,Excluded,4,NI Conservatives
-18,11343,5,Declan,McAleer,6034,613.68,7034.99,Elected,5,Sinn Fein
-18,11337,5,Sorcha,McAnespy,864,-874.93,0.00,Excluded,4,Independent
-18,5184,5,Ciaran,McClean,412,-418.19,0.00,Excluded,4,Green Party
-18,5185,5,Daniel,McCrossan,6283,1339.00,7681.60,Elected,5,Social Democratic and Labour Party
-18,11345,5,Barry,McElduff,7573,0.00,7388.00,Elected,1,Sinn Fein
-18,19675,5,Roisin,McMackin,85,-86.48,0.00,Excluded,4,Independent
-18,7348,5,Susan-Anne,White,41,-45.28,0.00,Excluded,4,Independent
+18,84465,1,Nicola,Brogan,8626,0,8626,Elected,1,Sinn Fein
+18,6920,1,Barry,Brown,119,0,119,,,Independent
+18,1871,1,Thomas,Buchanan,6640,0,6640,,,Democratic Unionist Party
+18,70571,1,Trevor,Clarke,4166,0,4166,,,Traditional Unionist Voice
+18,6365,1,Stephen,Donnelly,2967,0,2967,,,Alliance Party
+18,69331,1,Amy,Ferguson,171,0,171,,,Socialist Party (Northern Ireland)
+18,84737,1,Carol,Gallagher,354,0,354,,,People Before Profit Alliance
+18,68896,1,Paul 'Gags',Gallagher,1682,0,1682,,,Independent
+18,68878,1,Susan,Glass,252,0,252,,,Green Party
+18,72373,1,James,Hope,657,0,657,,,Aontu
+18,84466,1,Ian,Marshall,1876,0,1876,,,Ulster Unionist Party
+18,11343,1,Declan,McAleer,6343,0,6343,,,Sinn Fein
+18,5185,1,Daniel,McCrossan,5483,0,5483,,,Social Democratic and Labour Party
+18,69263,1,Maolíosa,McHugh,6658,0,6658,,,Sinn Fein
+18,84465,2,Nicola,Brogan,8626,-960,7666,Elected,1,Sinn Fein
+18,6920,2,Barry,Brown,119,6.1,125.1,Excluded,2,Independent
+18,1871,2,Thomas,Buchanan,6640,1.9,6641.9,,,Democratic Unionist Party
+18,70571,2,Trevor,Clarke,4166,0.3,4166.3,,,Traditional Unionist Voice
+18,6365,2,Stephen,Donnelly,2967,58.5,3025.5,,,Alliance Party
+18,69331,2,Amy,Ferguson,171,2,173,Excluded,2,Socialist Party (Northern Ireland)
+18,84737,2,Carol,Gallagher,354,4.2,358.2,Excluded,2,People Before Profit Alliance
+18,68896,2,Paul 'Gags',Gallagher,1682,6.3,1688.3,,,Independent
+18,68878,2,Susan,Glass,252,2.9,254.9,Excluded,2,Green Party
+18,72373,2,James,Hope,657,3.9,660.9,Excluded,2,Aontu
+18,84466,2,Ian,Marshall,1876,0.9,1876.9,,,Ulster Unionist Party
+18,11343,2,Declan,McAleer,6343,388.3,6731.3,,,Sinn Fein
+18,5185,2,Daniel,McCrossan,5483,72.4,5555.4,,,Social Democratic and Labour Party
+18,69263,2,Maolíosa,McHugh,6658,389.4,7047.4,,,Sinn Fein
+18,84465,3,Nicola,Brogan,8626,0,7666,Elected,1,Sinn Fein
+18,6920,3,Barry,Brown,119,-125.1,0,Excluded,2,Independent
+18,1871,3,Thomas,Buchanan,6640,97.3,6739.2,,,Democratic Unionist Party
+18,70571,3,Trevor,Clarke,4166,33.1,4199.4,,,Traditional Unionist Voice
+18,6365,3,Stephen,Donnelly,2967,301.3,3326.8,,,Alliance Party
+18,69331,3,Amy,Ferguson,171,-173,0,Excluded,2,Socialist Party (Northern Ireland)
+18,84737,3,Carol,Gallagher,354,-358.2,0,Excluded,2,People Before Profit Alliance
+18,68896,3,Paul 'Gags',Gallagher,1682,207.1,1895.4,Excluded,3,Independent
+18,68878,3,Susan,Glass,252,-254.9,0,Excluded,2,Green Party
+18,72373,3,James,Hope,657,-660.9,0,Excluded,2,Aontu
+18,84466,3,Ian,Marshall,1876,34.2,1911.1,,,Ulster Unionist Party
+18,11343,3,Declan,McAleer,6343,156.8,6888.1,,,Sinn Fein
+18,5185,3,Daniel,McCrossan,5483,293.8,5849.2,,,Social Democratic and Labour Party
+18,69263,3,Maolíosa,McHugh,6658,141.2,7188.6,,,Sinn Fein
+18,84465,4,Nicola,Brogan,8626,0,7666,Elected,1,Sinn Fein
+18,6920,4,Barry,Brown,119,0,0,Excluded,2,Independent
+18,1871,4,Thomas,Buchanan,6640,12.1,6751.3,,,Democratic Unionist Party
+18,70571,4,Trevor,Clarke,4166,8,4207.4,,,Traditional Unionist Voice
+18,6365,4,Stephen,Donnelly,2967,149.4,3476.2,,,Alliance Party
+18,69331,4,Amy,Ferguson,171,0,0,Excluded,2,Socialist Party (Northern Ireland)
+18,84737,4,Carol,Gallagher,354,0,0,Excluded,2,People Before Profit Alliance
+18,68896,4,Paul 'Gags',Gallagher,1682,-1895.4,0,Excluded,3,Independent
+18,68878,4,Susan,Glass,252,0,0,Excluded,2,Green Party
+18,72373,4,James,Hope,657,0,0,Excluded,2,Aontu
+18,84466,4,Ian,Marshall,1876,7,1918.1,Excluded,4,Ulster Unionist Party
+18,11343,4,Declan,McAleer,6343,224.4,7112.5,,,Sinn Fein
+18,5185,4,Daniel,McCrossan,5483,480.8,6330,,,Social Democratic and Labour Party
+18,69263,4,Maolíosa,McHugh,6658,378.4,7567,,,Sinn Fein
+18,84465,5,Nicola,Brogan,8626,0,7666,Elected,1,Sinn Fein
+18,6920,5,Barry,Brown,119,0,0,Excluded,2,Independent
+18,1871,5,Thomas,Buchanan,6640,883,7634.3,,,Democratic Unionist Party
+18,70571,5,Trevor,Clarke,4166,497,4704.4,,,Traditional Unionist Voice
+18,6365,5,Stephen,Donnelly,2967,301.2,3777.4,Excluded,5,Alliance Party
+18,69331,5,Amy,Ferguson,171,0,0,Excluded,2,Socialist Party (Northern Ireland)
+18,84737,5,Carol,Gallagher,354,0,0,Excluded,2,People Before Profit Alliance
+18,68896,5,Paul 'Gags',Gallagher,1682,0,0,Excluded,3,Independent
+18,68878,5,Susan,Glass,252,0,0,Excluded,2,Green Party
+18,72373,5,James,Hope,657,0,0,Excluded,2,Aontu
+18,84466,5,Ian,Marshall,1876,-1918.1,0,Excluded,4,Ulster Unionist Party
+18,11343,5,Declan,McAleer,6343,2.4,7114.9,,,Sinn Fein
+18,5185,5,Daniel,McCrossan,5483,178,6508,,,Social Democratic and Labour Party
+18,69263,5,Maolíosa,McHugh,6658,4.2,7571.2,,,Sinn Fein
+18,84465,6,Nicola,Brogan,8626,0,7666,Elected,1,Sinn Fein
+18,6920,6,Barry,Brown,119,0,0,Excluded,2,Independent
+18,1871,6,Thomas,Buchanan,6640,164,7798.3,Elected,6,Democratic Unionist Party
+18,70571,6,Trevor,Clarke,4166,180.1,4884.5,,,Traditional Unionist Voice
+18,6365,6,Stephen,Donnelly,2967,-3777.4,0,Excluded,5,Alliance Party
+18,69331,6,Amy,Ferguson,171,0,0,Excluded,2,Socialist Party (Northern Ireland)
+18,84737,6,Carol,Gallagher,354,0,0,Excluded,2,People Before Profit Alliance
+18,68896,6,Paul 'Gags',Gallagher,1682,0,0,Excluded,3,Independent
+18,68878,6,Susan,Glass,252,0,0,Excluded,2,Green Party
+18,72373,6,James,Hope,657,0,0,Excluded,2,Aontu
+18,84466,6,Ian,Marshall,1876,0,0,Excluded,4,Ulster Unionist Party
+18,11343,6,Declan,McAleer,6343,478.9,7593.8,,,Sinn Fein
+18,5185,6,Daniel,McCrossan,5483,1780,8288,Elected,6,Social Democratic and Labour Party
+18,69263,6,Maolíosa,McHugh,6658,160,7731.2,Elected,6,Sinn Fein
+18,84465,7,Nicola,Brogan,8626,0,7666,Elected,1,Sinn Fein
+18,6920,7,Barry,Brown,119,0,0,Excluded,2,Independent
+18,1871,7,Thomas,Buchanan,6640,-132.3,7666,Elected,6,Democratic Unionist Party
+18,70571,7,Trevor,Clarke,4166,180.1,5064.6,Excluded,7,Traditional Unionist Voice
+18,6365,7,Stephen,Donnelly,2967,0,0,Excluded,5,Alliance Party
+18,69331,7,Amy,Ferguson,171,0,0,Excluded,2,Socialist Party (Northern Ireland)
+18,84737,7,Carol,Gallagher,354,0,0,Excluded,2,People Before Profit Alliance
+18,68896,7,Paul 'Gags',Gallagher,1682,0,0,Excluded,3,Independent
+18,68878,7,Susan,Glass,252,0,0,Excluded,2,Green Party
+18,72373,7,James,Hope,657,0,0,Excluded,2,Aontu
+18,84466,7,Ian,Marshall,1876,0,0,Excluded,4,Ulster Unionist Party
+18,11343,7,Declan,McAleer,6343,478.9,8072.7,Elected,7,Sinn Fein
+18,5185,7,Daniel,McCrossan,5483,-622,7666,Elected,6,Social Democratic and Labour Party
+18,69263,7,Maolíosa,McHugh,6658,-65.2,7666,Elected,6,Sinn Fein
