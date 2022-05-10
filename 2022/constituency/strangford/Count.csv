@@ -77,7 +77,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,84280,7,Conor,Houston,2440,3.3,3780.7,,,Social Democratic and Labour Party
 15,69268,7,Ben,King,118,0,0,Excluded,1,Independent
 15,69269,7,Maurice,Macartney,831,0,0,Excluded,1,Green Party
-15,57267,7,Nick,Mathison,2822,28,3734.9,,,Alliance Party
+15,57267,7,Nick,Mathison,2822,135.6,3842.5,,,Alliance Party
 15,95162,7,Róisé,McGivern,1607,0,0,Excluded,2,Sinn Fein
 15,12092,7,Michelle,McIlveen,6601,0,6811,Elected,5,Democratic Unionist Party
 15,302,7,Mike,Nesbitt,3693,347.2,6471.3,,,Ulster Unionist Party
@@ -89,21 +89,21 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,84280,8,Conor,Houston,2440,20.9,3801.6,Excluded,8,Social Democratic and Labour Party
 15,69268,8,Ben,King,118,0,0,Excluded,1,Independent
 15,69269,8,Maurice,Macartney,831,0,0,Excluded,1,Green Party
-15,57267,8,Nick,Mathison,2822,107.6,3842.5,,,Alliance Party
+15,57267,8,Nick,Mathison,2822,0,3842.5,,,Alliance Party
 15,95162,8,Róisé,McGivern,1607,0,0,Excluded,2,Sinn Fein
 15,12092,8,Michelle,McIlveen,6601,0,6811,Elected,5,Democratic Unionist Party
 15,302,8,Mike,Nesbitt,3693,7,6478.3,,,Ulster Unionist Party
 15,8115,8,Philip,Smith,2535,0,0,Excluded,2,Ulster Unionist Party
 15,11547,8,Peter,Weir,3313,0,0,Excluded,5,Democratic Unionist Party
-15,4590,8,Kellie,Armstrong,7015,0,6811,Elected,1,Alliance Party
-15,6984,8,Stephen,Cooper,5186,55.7,5924,Excluded,9,Traditional Unionist Voice
-15,12089,8,Harry,Harvey,4704,0,6811,Elected,6,Democratic Unionist Party
-15,84280,8,Conor,Houston,2440,-3801.6,0,Excluded,8,Social Democratic and Labour Party
-15,69268,8,Ben,King,118,0,0,Excluded,1,Independent
-15,69269,8,Maurice,Macartney,831,0,0,Excluded,1,Green Party
-15,57267,8,Nick,Mathison,2822,2331.3,6173.8,Elected,9,Alliance Party
-15,95162,8,Róisé,McGivern,1607,0,0,Excluded,2,Sinn Fein
-15,12092,8,Michelle,McIlveen,6601,0,6811,Elected,5,Democratic Unionist Party
-15,302,8,Mike,Nesbitt,3693,228.6,6706.9,Elected,9,Ulster Unionist Party
-15,8115,8,Philip,Smith,2535,0,0,Excluded,2,Ulster Unionist Party
-15,11547,8,Peter,Weir,3313,0,0,Excluded,5,Democratic Unionist Party
+15,4590,9,Kellie,Armstrong,7015,0,6811,Elected,1,Alliance Party
+15,6984,9,Stephen,Cooper,5186,55.7,5924,Excluded,9,Traditional Unionist Voice
+15,12089,9,Harry,Harvey,4704,0,6811,Elected,6,Democratic Unionist Party
+15,84280,9,Conor,Houston,2440,-3801.6,0,Excluded,8,Social Democratic and Labour Party
+15,69268,9,Ben,King,118,0,0,Excluded,1,Independent
+15,69269,9,Maurice,Macartney,831,0,0,Excluded,1,Green Party
+15,57267,9,Nick,Mathison,2822,2331.3,6173.8,Elected,9,Alliance Party
+15,95162,9,Róisé,McGivern,1607,0,0,Excluded,2,Sinn Fein
+15,12092,9,Michelle,McIlveen,6601,0,6811,Elected,5,Democratic Unionist Party
+15,302,9,Mike,Nesbitt,3693,228.6,6706.9,Elected,9,Ulster Unionist Party
+15,8115,9,Philip,Smith,2535,0,0,Excluded,2,Ulster Unionist Party
+15,11547,9,Peter,Weir,3313,0,0,Excluded,5,Democratic Unionist Party

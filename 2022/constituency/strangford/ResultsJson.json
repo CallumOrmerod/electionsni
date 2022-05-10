@@ -1033,8 +1033,8 @@
                 "Firstname": "Nick",
                 "Surname": "Mathison",
                 "Candidate_First_Pref_Votes": "2822",
-                "Transfers": "28.0",
-                "Total_Votes": "3734.9",
+                "Transfers": "135.6",
+                "Total_Votes": "3842.5",
                 "Status": "",
                 "Occurred_On_Count": "",
                 "Party_Name": "Alliance Party"
@@ -1189,7 +1189,7 @@
                 "Firstname": "Nick",
                 "Surname": "Mathison",
                 "Candidate_First_Pref_Votes": "2822",
-                "Transfers": "107.6",
+                "Transfers": "0.0",
                 "Total_Votes": "3842.5",
                 "Status": "",
                 "Occurred_On_Count": "",
@@ -1263,7 +1263,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "4590",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Kellie",
                 "Surname": "Armstrong",
                 "Candidate_First_Pref_Votes": "7015",
@@ -1276,7 +1276,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "6984",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Stephen",
                 "Surname": "Cooper",
                 "Candidate_First_Pref_Votes": "5186",
@@ -1289,7 +1289,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "12089",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Harry",
                 "Surname": "Harvey",
                 "Candidate_First_Pref_Votes": "4704",
@@ -1302,7 +1302,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "84280",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Conor",
                 "Surname": "Houston",
                 "Candidate_First_Pref_Votes": "2440",
@@ -1315,7 +1315,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "69268",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Ben",
                 "Surname": "King",
                 "Candidate_First_Pref_Votes": "118",
@@ -1328,7 +1328,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "69269",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Maurice",
                 "Surname": "Macartney",
                 "Candidate_First_Pref_Votes": "831",
@@ -1341,7 +1341,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "57267",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Nick",
                 "Surname": "Mathison",
                 "Candidate_First_Pref_Votes": "2822",
@@ -1354,7 +1354,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "95162",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "R\u00f3is\u00e9",
                 "Surname": "McGivern",
                 "Candidate_First_Pref_Votes": "1607",
@@ -1367,7 +1367,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "12092",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Michelle",
                 "Surname": "McIlveen",
                 "Candidate_First_Pref_Votes": "6601",
@@ -1380,7 +1380,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "302",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Mike",
                 "Surname": "Nesbitt",
                 "Candidate_First_Pref_Votes": "3693",
@@ -1393,7 +1393,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "8115",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Philip",
                 "Surname": "Smith",
                 "Candidate_First_Pref_Votes": "2535",
@@ -1406,7 +1406,7 @@
             {
                 "Constituency_Number": "15",
                 "Candidate_Id": "11547",
-                "Count_Number": "8",
+                "Count_Number": "9",
                 "Firstname": "Peter",
                 "Surname": "Weir",
                 "Candidate_First_Pref_Votes": "3313",
